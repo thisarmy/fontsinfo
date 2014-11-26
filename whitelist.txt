@@ -1,0 +1,87 @@
+# The fonts will automatically be sorted in alphabetical order, you can have
+# blank lines and safely comment things out if you want.
+Abel
+Abril Fatface
+Alegreya
+Alice
+Amatic SC
+Andada
+Anonymous Pro
+Arimo
+Arvo
+Bitter
+Bree Serif
+Cabin
+Cantarell
+Cherry Swash
+Cinzel
+Coustard
+Crimson Text
+Dancing Script
+Domine
+Dosis
+Droid Sans
+Droid Serif
+EB Garamond
+Exo
+Fjalla One
+Forum
+Gentium Book Basic
+Gilda Display
+Grand Hotel
+Gravitas One
+Gruppo
+Gudea
+Inconsolata
+Istok Web
+Josefin Sans
+Josefin Slab
+Junge
+Jura
+Kameron
+Karla
+Kreon
+Lato
+Leckerli One
+Libre Baskerville
+Lobster
+Lobster Two
+Lora
+Lustria
+Medula One
+Merriweather
+Montserrat
+Montserrat Alternates
+Montserrat Subrayada
+Muli
+News Cycle
+Nobile
+Nunito
+Old Standard TT
+Open Sans
+Oranienbaum
+Oswald
+PT Sans
+PT Sans Narrow
+PT Serif
+Pacifico
+Patua One
+Playfair Display
+Poly
+Prociono
+Raleway
+Roboto
+Roboto Condensed
+Roboto Slab
+Rokkitt
+Signika
+Signika Negative
+Sniglet
+Sorts Mill Goudy
+Source Code Pro
+Source Sans Pro
+Source Serif Pro
+Titillium Web
+Varela Round
+Volkhov
+Vollkorn
