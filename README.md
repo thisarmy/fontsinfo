@@ -1,5 +1,7 @@
 This is a set of tools for making sense of the google font directory, because fonts.google.com isn't always as full-featured as it could be.
 
+You can see a preview of what it extracts [here](http://htmlpreview.github.io/?https://github.com/thisarmy/fontsinfo/blob/master/fonts.html).
+
 # DEPENDENCIES
 
 Before you start you'll have to clone the [google font directory](https://code.google.com/p/googlefontdirectory/).
