@@ -1,0 +1,41 @@
+@import "mixins.less";
+@import "reset.less";
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+  background-color: #f8f8f8;
+  color: #222;
+}
+
+.ui {
+  .flex-display();
+  min-height: 100vh;
+}
+
+.ui > * {
+  .box-sizing(border-box);
+  padding: 60px 30px;
+}
+
+.font-selector,
+.test-selector {
+  width: 28%;
+}
+
+.previewer {
+  background-color: #ffffff;
+  box-shadow: 0 0 4px 0 #dddddd;
+  flex: 1;
+
+  &:focus {
+    outline: none;
+  }
+}
+
+.help {
+}
+
+.preview {
+  font-size: 20px;
+  line-height: 26px;
+}
