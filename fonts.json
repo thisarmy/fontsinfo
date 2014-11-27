@@ -3,7 +3,6 @@
     "category": "Display",
     "variants": [
       {
-        "filesize": 67364,
         "style": "normal",
         "features": [
           "calt",
@@ -13,17 +12,15 @@
           "liga"
         ],
         "weight": 400,
-        "filename": "AbrilFatface-Regular"
+        "filesize": 67364
       }
     ],
-    "slug": "abrilfatface",
     "name": "Abril Fatface"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 68784,
         "style": "normal",
         "features": [
           "aalt",
@@ -34,34 +31,30 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "Aclonica"
+        "filesize": 68784
       }
     ],
-    "slug": "aclonica",
     "name": "Aclonica"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 64944,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 400,
-        "filename": "Actor-Regular"
+        "filesize": 64944
       }
     ],
-    "slug": "actor",
     "name": "Actor"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 112624,
         "style": "normal",
         "features": [
           "aalt",
@@ -86,10 +79,9 @@
           "tnum"
         ],
         "weight": 100,
-        "filename": "AlegreyaSans-Thin"
+        "filesize": 112624
       },
       {
-        "filesize": 93748,
         "style": "italic",
         "features": [
           "aalt",
@@ -114,10 +106,9 @@
           "tnum"
         ],
         "weight": 100,
-        "filename": "AlegreyaSans-ThinItalic"
+        "filesize": 93748
       },
       {
-        "filesize": 117848,
         "style": "normal",
         "features": [
           "aalt",
@@ -142,10 +133,9 @@
           "tnum"
         ],
         "weight": 300,
-        "filename": "AlegreyaSans-Light"
+        "filesize": 117848
       },
       {
-        "filesize": 94576,
         "style": "italic",
         "features": [
           "aalt",
@@ -170,10 +160,9 @@
           "tnum"
         ],
         "weight": 300,
-        "filename": "AlegreyaSans-LightItalic"
+        "filesize": 94576
       },
       {
-        "filesize": 119016,
         "style": "normal",
         "features": [
           "aalt",
@@ -198,10 +187,9 @@
           "tnum"
         ],
         "weight": 400,
-        "filename": "AlegreyaSans-Regular"
+        "filesize": 119016
       },
       {
-        "filesize": 95524,
         "style": "italic",
         "features": [
           "aalt",
@@ -226,10 +214,9 @@
           "tnum"
         ],
         "weight": 400,
-        "filename": "AlegreyaSans-Italic"
+        "filesize": 95524
       },
       {
-        "filesize": 119272,
         "style": "normal",
         "features": [
           "aalt",
@@ -254,10 +241,9 @@
           "tnum"
         ],
         "weight": 500,
-        "filename": "AlegreyaSans-Medium"
+        "filesize": 119272
       },
       {
-        "filesize": 96568,
         "style": "italic",
         "features": [
           "aalt",
@@ -282,10 +268,9 @@
           "tnum"
         ],
         "weight": 500,
-        "filename": "AlegreyaSans-MediumItalic"
+        "filesize": 96568
       },
       {
-        "filesize": 121204,
         "style": "normal",
         "features": [
           "aalt",
@@ -310,10 +295,9 @@
           "tnum"
         ],
         "weight": 700,
-        "filename": "AlegreyaSans-Bold"
+        "filesize": 121204
       },
       {
-        "filesize": 96328,
         "style": "italic",
         "features": [
           "aalt",
@@ -338,10 +322,9 @@
           "tnum"
         ],
         "weight": 700,
-        "filename": "AlegreyaSans-BoldItalic"
+        "filesize": 96328
       },
       {
-        "filesize": 120952,
         "style": "normal",
         "features": [
           "aalt",
@@ -366,10 +349,9 @@
           "tnum"
         ],
         "weight": 800,
-        "filename": "AlegreyaSans-ExtraBold"
+        "filesize": 120952
       },
       {
-        "filesize": 97248,
         "style": "italic",
         "features": [
           "aalt",
@@ -394,10 +376,9 @@
           "tnum"
         ],
         "weight": 800,
-        "filename": "AlegreyaSans-ExtraBoldItalic"
+        "filesize": 97248
       },
       {
-        "filesize": 126240,
         "style": "normal",
         "features": [
           "aalt",
@@ -422,10 +403,9 @@
           "tnum"
         ],
         "weight": 900,
-        "filename": "AlegreyaSans-Black"
+        "filesize": 126240
       },
       {
-        "filesize": 99236,
         "style": "italic",
         "features": [
           "aalt",
@@ -450,17 +430,15 @@
           "tnum"
         ],
         "weight": 900,
-        "filename": "AlegreyaSans-BlackItalic"
+        "filesize": 99236
       }
     ],
-    "slug": "alegreyasans",
     "name": "Alegreya Sans"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 102408,
         "style": "normal",
         "features": [
           "aalt",
@@ -485,10 +463,9 @@
           "tnum"
         ],
         "weight": 100,
-        "filename": "AlegreyaSansSC-Thin"
+        "filesize": 102408
       },
       {
-        "filesize": 85356,
         "style": "italic",
         "features": [
           "aalt",
@@ -513,10 +490,9 @@
           "tnum"
         ],
         "weight": 100,
-        "filename": "AlegreyaSansSC-ThinItalic"
+        "filesize": 85356
       },
       {
-        "filesize": 104700,
         "style": "normal",
         "features": [
           "aalt",
@@ -541,10 +517,9 @@
           "tnum"
         ],
         "weight": 300,
-        "filename": "AlegreyaSansSC-Light"
+        "filesize": 104700
       },
       {
-        "filesize": 85320,
         "style": "italic",
         "features": [
           "aalt",
@@ -569,10 +544,9 @@
           "tnum"
         ],
         "weight": 300,
-        "filename": "AlegreyaSansSC-LightItalic"
+        "filesize": 85320
       },
       {
-        "filesize": 107552,
         "style": "normal",
         "features": [
           "aalt",
@@ -597,10 +571,9 @@
           "tnum"
         ],
         "weight": 400,
-        "filename": "AlegreyaSansSC-Regular"
+        "filesize": 107552
       },
       {
-        "filesize": 85924,
         "style": "italic",
         "features": [
           "aalt",
@@ -625,10 +598,9 @@
           "tnum"
         ],
         "weight": 400,
-        "filename": "AlegreyaSansSC-Italic"
+        "filesize": 85924
       },
       {
-        "filesize": 107884,
         "style": "normal",
         "features": [
           "aalt",
@@ -653,10 +625,9 @@
           "tnum"
         ],
         "weight": 500,
-        "filename": "AlegreyaSansSC-Medium"
+        "filesize": 107884
       },
       {
-        "filesize": 86304,
         "style": "italic",
         "features": [
           "aalt",
@@ -681,10 +652,9 @@
           "tnum"
         ],
         "weight": 500,
-        "filename": "AlegreyaSansSC-MediumItalic"
+        "filesize": 86304
       },
       {
-        "filesize": 110140,
         "style": "normal",
         "features": [
           "aalt",
@@ -709,10 +679,9 @@
           "tnum"
         ],
         "weight": 700,
-        "filename": "AlegreyaSansSC-Bold"
+        "filesize": 110140
       },
       {
-        "filesize": 86456,
         "style": "italic",
         "features": [
           "aalt",
@@ -737,10 +706,9 @@
           "tnum"
         ],
         "weight": 700,
-        "filename": "AlegreyaSansSC-BoldItalic"
+        "filesize": 86456
       },
       {
-        "filesize": 111828,
         "style": "normal",
         "features": [
           "aalt",
@@ -765,10 +733,9 @@
           "tnum"
         ],
         "weight": 800,
-        "filename": "AlegreyaSansSC-ExtraBold"
+        "filesize": 111828
       },
       {
-        "filesize": 87396,
         "style": "italic",
         "features": [
           "aalt",
@@ -793,10 +760,9 @@
           "tnum"
         ],
         "weight": 800,
-        "filename": "AlegreyaSansSC-ExtraBoldItalic"
+        "filesize": 87396
       },
       {
-        "filesize": 110316,
         "style": "normal",
         "features": [
           "aalt",
@@ -821,10 +787,9 @@
           "tnum"
         ],
         "weight": 900,
-        "filename": "AlegreyaSansSC-Black"
+        "filesize": 110316
       },
       {
-        "filesize": 86872,
         "style": "italic",
         "features": [
           "aalt",
@@ -849,107 +814,95 @@
           "tnum"
         ],
         "weight": 900,
-        "filename": "AlegreyaSansSC-BlackItalic"
+        "filesize": 86872
       }
     ],
-    "slug": "alegreyasanssc",
     "name": "Alegreya Sans SC"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 150512,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 400,
-        "filename": "Alice-Regular"
+        "filesize": 150512
       }
     ],
-    "slug": "alice",
     "name": "Alice"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 56460,
         "style": "normal",
         "features": [
           "kern",
           "titl"
         ],
         "weight": 400,
-        "filename": "Allan-Regular"
+        "filesize": 56460
       },
       {
-        "filesize": 115328,
         "style": "normal",
         "features": [
           "kern"
         ],
         "weight": 700,
-        "filename": "Allan-Bold"
+        "filesize": 115328
       }
     ],
-    "slug": "allan",
     "name": "Allan"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 68744,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 400,
-        "filename": "Almendra-Regular"
+        "filesize": 68744
       },
       {
-        "filesize": 35324,
         "style": "italic",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 400,
-        "filename": "Almendra-Italic"
+        "filesize": 35324
       },
       {
-        "filesize": 36732,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 700,
-        "filename": "Almendra-Bold"
+        "filesize": 36732
       },
       {
-        "filesize": 35496,
         "style": "italic",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 700,
-        "filename": "Almendra-BoldItalic"
+        "filesize": 35496
       }
     ],
-    "slug": "almendra",
     "name": "Almendra"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 608236,
         "style": "normal",
         "features": [
           "calt",
@@ -965,10 +918,9 @@
           "ss02"
         ],
         "weight": 400,
-        "filename": "Amiri-Regular"
+        "filesize": 608236
       },
       {
-        "filesize": 620348,
         "style": "italic",
         "features": [
           "calt",
@@ -985,10 +937,9 @@
           "ss02"
         ],
         "weight": 400,
-        "filename": "Amiri-Slanted"
+        "filesize": 620348
       },
       {
-        "filesize": 602420,
         "style": "normal",
         "features": [
           "calt",
@@ -1004,10 +955,9 @@
           "ss02"
         ],
         "weight": 700,
-        "filename": "Amiri-Bold"
+        "filesize": 602420
       },
       {
-        "filesize": 606816,
         "style": "italic",
         "features": [
           "calt",
@@ -1024,17 +974,15 @@
           "ss02"
         ],
         "weight": 700,
-        "filename": "Amiri-BoldSlanted"
+        "filesize": 606816
       }
     ],
-    "slug": "amiri",
     "name": "Amiri"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 76228,
         "style": "normal",
         "features": [
           "case",
@@ -1053,10 +1001,9 @@
           "tnum"
         ],
         "weight": 400,
-        "filename": "Andada-Regular"
+        "filesize": 76228
       },
       {
-        "filesize": 76476,
         "style": "italic",
         "features": [
           "case",
@@ -1075,10 +1022,9 @@
           "tnum"
         ],
         "weight": 400,
-        "filename": "Andada-Italic"
+        "filesize": 76476
       },
       {
-        "filesize": 132144,
         "style": "normal",
         "features": [
           "case",
@@ -1097,10 +1043,9 @@
           "tnum"
         ],
         "weight": 700,
-        "filename": "Andada-Bold"
+        "filesize": 132144
       },
       {
-        "filesize": 76388,
         "style": "italic",
         "features": [
           "case",
@@ -1119,17 +1064,15 @@
           "tnum"
         ],
         "weight": 700,
-        "filename": "Andada-BoldItalic"
+        "filesize": 76388
       }
     ],
-    "slug": "andada",
     "name": "Andada"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 1469776,
         "style": "normal",
         "features": [
           "aalt",
@@ -1142,17 +1085,15 @@
           "smcp"
         ],
         "weight": 400,
-        "filename": "Andika-R"
+        "filesize": 1469776
       }
     ],
-    "slug": "andika",
     "name": "Andika"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 26764,
         "style": "normal",
         "features": [
           "case",
@@ -1161,10 +1102,9 @@
           "liga"
         ],
         "weight": 400,
-        "filename": "Arapey-Regular"
+        "filesize": 26764
       },
       {
-        "filesize": 29568,
         "style": "italic",
         "features": [
           "case",
@@ -1174,17 +1114,15 @@
           "liga"
         ],
         "weight": 400,
-        "filename": "Arapey-Italic"
+        "filesize": 29568
       }
     ],
-    "slug": "arapey",
     "name": "Arapey"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 436876,
         "style": "normal",
         "features": [
           "ccmp",
@@ -1193,10 +1131,9 @@
           "mkmk"
         ],
         "weight": 400,
-        "filename": "Arimo-Regular"
+        "filesize": 436876
       },
       {
-        "filesize": 441484,
         "style": "italic",
         "features": [
           "ccmp",
@@ -1205,10 +1142,9 @@
           "mkmk"
         ],
         "weight": 400,
-        "filename": "Arimo-Italic"
+        "filesize": 441484
       },
       {
-        "filesize": 439272,
         "style": "normal",
         "features": [
           "ccmp",
@@ -1217,10 +1153,9 @@
           "mkmk"
         ],
         "weight": 700,
-        "filename": "Arimo-Bold"
+        "filesize": 439272
       },
       {
-        "filesize": 435744,
         "style": "italic",
         "features": [
           "ccmp",
@@ -1229,62 +1164,55 @@
           "mkmk"
         ],
         "weight": 700,
-        "filename": "Arimo-BoldItalic"
+        "filesize": 435744
       }
     ],
-    "slug": "arimo",
     "name": "Arimo"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 104340,
         "style": "normal",
         "features": [
           "kern",
           "ss01"
         ],
         "weight": 400,
-        "filename": "Arvo-Regular"
+        "filesize": 104340
       },
       {
-        "filesize": 110272,
         "style": "italic",
         "features": [
           "kern"
         ],
         "weight": 400,
-        "filename": "Arvo-Italic"
+        "filesize": 110272
       },
       {
-        "filesize": 105924,
         "style": "normal",
         "features": [
           "kern",
           "ss01"
         ],
         "weight": 700,
-        "filename": "Arvo-Bold"
+        "filesize": 105924
       },
       {
-        "filesize": 113080,
         "style": "italic",
         "features": [
           "kern"
         ],
         "weight": 700,
-        "filename": "Arvo-BoldItalic"
+        "filesize": 113080
       }
     ],
-    "slug": "arvo",
     "name": "Arvo"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 70900,
         "style": "normal",
         "features": [
           "aalt",
@@ -1295,17 +1223,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "Audiowide-Regular"
+        "filesize": 70900
       }
     ],
-    "slug": "audiowide",
     "name": "Audiowide"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 37836,
         "style": "normal",
         "features": [
           "case",
@@ -1314,86 +1240,76 @@
           "liga"
         ],
         "weight": 400,
-        "filename": "Average-Regular"
+        "filesize": 37836
       }
     ],
-    "slug": "average",
     "name": "Average"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 44012,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 400,
-        "filename": "AverageSans-Regular"
+        "filesize": 44012
       }
     ],
-    "slug": "averagesans",
     "name": "Average Sans"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 27820,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 400,
-        "filename": "Belleza-Regular"
+        "filesize": 27820
       }
     ],
-    "slug": "belleza",
     "name": "Belleza"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 55248,
         "style": "normal",
         "features": [
           "kern"
         ],
         "weight": 300,
-        "filename": "BenchNine-Light"
+        "filesize": 55248
       },
       {
-        "filesize": 57656,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 400,
-        "filename": "BenchNine-Regular"
+        "filesize": 57656
       },
       {
-        "filesize": 59272,
         "style": "normal",
         "features": [
           "kern"
         ],
         "weight": 700,
-        "filename": "BenchNine-Bold"
+        "filesize": 59272
       }
     ],
-    "slug": "benchnine",
     "name": "BenchNine"
   },
   {
     "category": "Handwriting",
     "variants": [
       {
-        "filesize": 58364,
         "style": "normal",
         "features": [
           "aalt",
@@ -1404,17 +1320,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "BerkshireSwash-Regular"
+        "filesize": 58364
       }
     ],
-    "slug": "berkshireswash",
     "name": "Berkshire Swash"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 59444,
         "style": "normal",
         "features": [
           "aalt",
@@ -1425,17 +1339,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "BigelowRules-Regular"
+        "filesize": 59444
       }
     ],
-    "slug": "bigelowrules",
     "name": "Bigelow Rules"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 45688,
         "style": "normal",
         "features": [
           "aalt",
@@ -1446,17 +1358,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "BrunoAce-Regular"
+        "filesize": 45688
       }
     ],
-    "slug": "brunoace",
     "name": "Bruno Ace"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 44608,
         "style": "normal",
         "features": [
           "aalt",
@@ -1467,17 +1377,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "BrunoAceSC-Regular"
+        "filesize": 44608
       }
     ],
-    "slug": "brunoacesc",
     "name": "Bruno Ace SC"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 188320,
         "style": "normal",
         "features": [
           "aalt",
@@ -1485,10 +1393,9 @@
           "smcp"
         ],
         "weight": 400,
-        "filename": "Cabin-Regular"
+        "filesize": 188320
       },
       {
-        "filesize": 190744,
         "style": "italic",
         "features": [
           "aalt",
@@ -1496,10 +1403,9 @@
           "smcp"
         ],
         "weight": 400,
-        "filename": "Cabin-Italic"
+        "filesize": 190744
       },
       {
-        "filesize": 176076,
         "style": "normal",
         "features": [
           "aalt",
@@ -1507,10 +1413,9 @@
           "smcp"
         ],
         "weight": 500,
-        "filename": "Cabin-Medium"
+        "filesize": 176076
       },
       {
-        "filesize": 183844,
         "style": "italic",
         "features": [
           "aalt",
@@ -1518,10 +1423,9 @@
           "smcp"
         ],
         "weight": 500,
-        "filename": "Cabin-MediumItalic"
+        "filesize": 183844
       },
       {
-        "filesize": 173020,
         "style": "normal",
         "features": [
           "aalt",
@@ -1529,10 +1433,9 @@
           "smcp"
         ],
         "weight": 600,
-        "filename": "Cabin-SemiBold"
+        "filesize": 173020
       },
       {
-        "filesize": 181880,
         "style": "italic",
         "features": [
           "aalt",
@@ -1540,10 +1443,9 @@
           "smcp"
         ],
         "weight": 600,
-        "filename": "Cabin-SemiBoldItalic"
+        "filesize": 181880
       },
       {
-        "filesize": 172576,
         "style": "normal",
         "features": [
           "aalt",
@@ -1551,10 +1453,9 @@
           "smcp"
         ],
         "weight": 700,
-        "filename": "Cabin-Bold"
+        "filesize": 172576
       },
       {
-        "filesize": 176992,
         "style": "italic",
         "features": [
           "aalt",
@@ -1562,64 +1463,57 @@
           "smcp"
         ],
         "weight": 700,
-        "filename": "Cabin-BoldItalic"
+        "filesize": 176992
       }
     ],
-    "slug": "cabin",
     "name": "Cabin"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 153128,
         "style": "normal",
         "features": [
           "kern",
           "smcp"
         ],
         "weight": 400,
-        "filename": "CabinCondensed-Regular"
+        "filesize": 153128
       },
       {
-        "filesize": 167004,
         "style": "normal",
         "features": [
           "kern",
           "smcp"
         ],
         "weight": 500,
-        "filename": "CabinCondensed-Medium"
+        "filesize": 167004
       },
       {
-        "filesize": 168732,
         "style": "normal",
         "features": [
           "kern",
           "smcp"
         ],
         "weight": 600,
-        "filename": "CabinCondensed-SemiBold"
+        "filesize": 168732
       },
       {
-        "filesize": 166912,
         "style": "normal",
         "features": [
           "kern",
           "smcp"
         ],
         "weight": 700,
-        "filename": "CabinCondensed-Bold"
+        "filesize": 166912
       }
     ],
-    "slug": "cabincondensed",
     "name": "Cabin Condensed"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 163116,
         "style": "normal",
         "features": [
           "frac",
@@ -1632,17 +1526,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "CantoraOne-Regular"
+        "filesize": 163116
       }
     ],
-    "slug": "cantoraone",
     "name": "Cantora One"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 400468,
         "style": "normal",
         "features": [
           "ccmp",
@@ -1672,10 +1564,9 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "Cardo-Regular"
+        "filesize": 400468
       },
       {
-        "filesize": 262868,
         "style": "italic",
         "features": [
           "dlig",
@@ -1687,26 +1578,23 @@
           "pnum"
         ],
         "weight": 400,
-        "filename": "Cardo-Italic"
+        "filesize": 262868
       },
       {
-        "filesize": 348320,
         "style": "normal",
         "features": [
           "kern"
         ],
         "weight": 700,
-        "filename": "Cardo-Bold"
+        "filesize": 348320
       }
     ],
-    "slug": "cardo",
     "name": "Cardo"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 45828,
         "style": "normal",
         "features": [
           "case",
@@ -1714,17 +1602,15 @@
           "liga"
         ],
         "weight": 400,
-        "filename": "Changa-Regular"
+        "filesize": 45828
       }
     ],
-    "slug": "changa",
     "name": "Changa"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 22716,
         "style": "normal",
         "features": [
           "case",
@@ -1732,26 +1618,23 @@
           "liga"
         ],
         "weight": 400,
-        "filename": "ChangaOne-Regular"
+        "filesize": 22716
       },
       {
-        "filesize": 26728,
         "style": "italic",
         "features": [
           "kern"
         ],
         "weight": 400,
-        "filename": "ChangaOne-Italic"
+        "filesize": 26728
       }
     ],
-    "slug": "changaone",
     "name": "Changa One"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 40056,
         "style": "normal",
         "features": [
           "kern",
@@ -1760,10 +1643,9 @@
           "smcp"
         ],
         "weight": 400,
-        "filename": "ChauPhilomeneOne-Regular"
+        "filesize": 40056
       },
       {
-        "filesize": 44272,
         "style": "italic",
         "features": [
           "kern",
@@ -1772,17 +1654,15 @@
           "smcp"
         ],
         "weight": 400,
-        "filename": "ChauPhilomeneOne-Italic"
+        "filesize": 44272
       }
     ],
-    "slug": "chauphilomeneone",
     "name": "Chau Philomene One"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 168256,
         "style": "normal",
         "features": [
           "SS01",
@@ -1809,17 +1689,15 @@
           "titl"
         ],
         "weight": 400,
-        "filename": "Clara-Regular"
+        "filesize": 168256
       }
     ],
-    "slug": "clara",
     "name": "Clara"
   },
   {
     "category": "Handwriting",
     "variants": [
       {
-        "filesize": 64012,
         "style": "normal",
         "features": [
           "aalt",
@@ -1830,53 +1708,47 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "ClickerScript-Regular"
+        "filesize": 64012
       }
     ],
-    "slug": "clickerscript",
     "name": "Clicker Script"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 86992,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 400,
-        "filename": "Coda-Regular"
+        "filesize": 86992
       },
       {
-        "filesize": 90476,
         "style": "normal",
         "features": [
           "kern"
         ],
         "weight": 800,
-        "filename": "Coda-Heavy"
+        "filesize": 90476
       }
     ],
-    "slug": "coda",
     "name": "Coda"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 36000,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 400,
-        "filename": "Corben-Regular"
+        "filesize": 36000
       },
       {
-        "filesize": 139588,
         "style": "normal",
         "features": [
           "aalt",
@@ -1886,61 +1758,54 @@
           "smcp"
         ],
         "weight": 700,
-        "filename": "Corben-Bold"
+        "filesize": 139588
       }
     ],
-    "slug": "corben",
     "name": "Corben"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 79556,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 400,
-        "filename": "Coustard-Regular"
+        "filesize": 79556
       },
       {
-        "filesize": 82652,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 900,
-        "filename": "Coustard-Black"
+        "filesize": 82652
       }
     ],
-    "slug": "coustard",
     "name": "Coustard"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 54744,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 400,
-        "filename": "CroissantOne-Regular"
+        "filesize": 54744
       }
     ],
-    "slug": "croissantone",
     "name": "Croissant One"
   },
   {
     "category": "Handwriting",
     "variants": [
       {
-        "filesize": 116580,
         "style": "normal",
         "features": [
           "fina",
@@ -1950,10 +1815,9 @@
           "salt"
         ],
         "weight": 400,
-        "filename": "DancingScript-Regular"
+        "filesize": 116580
       },
       {
-        "filesize": 115568,
         "style": "normal",
         "features": [
           "fina",
@@ -1963,17 +1827,15 @@
           "salt"
         ],
         "weight": 700,
-        "filename": "DancingScript-Bold"
+        "filesize": 115568
       }
     ],
-    "slug": "dancingscript",
     "name": "Dancing Script"
   },
   {
     "category": "Handwriting",
     "variants": [
       {
-        "filesize": 67240,
         "style": "normal",
         "features": [
           "aalt",
@@ -1984,44 +1846,39 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "Devonshire-Regular"
+        "filesize": 67240
       }
     ],
-    "slug": "devonshire",
     "name": "Devonshire"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 72348,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 400,
-        "filename": "Dhyana-Regular"
+        "filesize": 72348
       },
       {
-        "filesize": 61304,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 700,
-        "filename": "Dhyana-Bold"
+        "filesize": 61304
       }
     ],
-    "slug": "dhyana",
     "name": "Dhyana"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 137880,
         "style": "normal",
         "features": [
           "frac",
@@ -2032,10 +1889,9 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "Domine-Regular"
+        "filesize": 137880
       },
       {
-        "filesize": 146200,
         "style": "normal",
         "features": [
           "frac",
@@ -2046,17 +1902,15 @@
           "sups"
         ],
         "weight": 700,
-        "filename": "Domine-Bold"
+        "filesize": 146200
       }
     ],
-    "slug": "domine",
     "name": "Domine"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 135140,
         "style": "normal",
         "features": [
           "aalt",
@@ -2072,10 +1926,9 @@
           "ss05"
         ],
         "weight": 200,
-        "filename": "Dosis-ExtraLight"
+        "filesize": 135140
       },
       {
-        "filesize": 136376,
         "style": "normal",
         "features": [
           "aalt",
@@ -2091,10 +1944,9 @@
           "ss05"
         ],
         "weight": 300,
-        "filename": "Dosis-Light"
+        "filesize": 136376
       },
       {
-        "filesize": 136940,
         "style": "normal",
         "features": [
           "aalt",
@@ -2110,10 +1962,9 @@
           "ss05"
         ],
         "weight": 400,
-        "filename": "Dosis-Regular"
+        "filesize": 136940
       },
       {
-        "filesize": 136444,
         "style": "normal",
         "features": [
           "aalt",
@@ -2129,10 +1980,9 @@
           "ss05"
         ],
         "weight": 500,
-        "filename": "Dosis-Medium"
+        "filesize": 136444
       },
       {
-        "filesize": 135520,
         "style": "normal",
         "features": [
           "aalt",
@@ -2148,10 +1998,9 @@
           "ss05"
         ],
         "weight": 600,
-        "filename": "Dosis-SemiBold"
+        "filesize": 135520
       },
       {
-        "filesize": 136412,
         "style": "normal",
         "features": [
           "aalt",
@@ -2167,10 +2016,9 @@
           "ss05"
         ],
         "weight": 700,
-        "filename": "Dosis-Bold"
+        "filesize": 136412
       },
       {
-        "filesize": 137200,
         "style": "normal",
         "features": [
           "aalt",
@@ -2186,17 +2034,15 @@
           "ss05"
         ],
         "weight": 800,
-        "filename": "Dosis-ExtraBold"
+        "filesize": 137200
       }
     ],
-    "slug": "dosis",
     "name": "Dosis"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 227928,
         "style": "normal",
         "features": [
           "ccmp",
@@ -2204,10 +2050,9 @@
           "mark"
         ],
         "weight": 400,
-        "filename": "DroidSansEthiopic-Regular"
+        "filesize": 227928
       },
       {
-        "filesize": 222592,
         "style": "normal",
         "features": [
           "ccmp",
@@ -2215,17 +2060,15 @@
           "mark"
         ],
         "weight": 700,
-        "filename": "DroidSansEthiopic-Bold"
+        "filesize": 222592
       }
     ],
-    "slug": "droidsansethiopic",
     "name": "Droid Sans Ethiopic"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 53148,
         "style": "normal",
         "features": [
           "aalt",
@@ -2236,17 +2079,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "Dynalight-Regular"
+        "filesize": 53148
       }
     ],
-    "slug": "dynalight",
     "name": "Dynalight"
   },
   {
     "category": "Handwriting",
     "variants": [
       {
-        "filesize": 78000,
         "style": "normal",
         "features": [
           "aalt",
@@ -2257,64 +2098,57 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "EagleLake-Regular"
+        "filesize": 78000
       }
     ],
-    "slug": "eaglelake",
     "name": "Eagle Lake"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 26756,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 400,
-        "filename": "Economica-Regular"
+        "filesize": 26756
       },
       {
-        "filesize": 27692,
         "style": "italic",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 400,
-        "filename": "Economica-Italic"
+        "filesize": 27692
       },
       {
-        "filesize": 27196,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 700,
-        "filename": "Economica-Bold"
+        "filesize": 27196
       },
       {
-        "filesize": 27024,
         "style": "italic",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 700,
-        "filename": "Economica-BoldItalic"
+        "filesize": 27024
       }
     ],
-    "slug": "economica",
     "name": "Economica"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 182200,
         "style": "normal",
         "features": [
           "c2sc",
@@ -2335,10 +2169,9 @@
           "tnum"
         ],
         "weight": 100,
-        "filename": "EncodeSans-Thin"
+        "filesize": 182200
       },
       {
-        "filesize": 185096,
         "style": "normal",
         "features": [
           "c2sc",
@@ -2359,10 +2192,9 @@
           "tnum"
         ],
         "weight": 200,
-        "filename": "EncodeSans-ExtraLight"
+        "filesize": 185096
       },
       {
-        "filesize": 191308,
         "style": "normal",
         "features": [
           "c2sc",
@@ -2383,10 +2215,9 @@
           "tnum"
         ],
         "weight": 300,
-        "filename": "EncodeSans-Light"
+        "filesize": 191308
       },
       {
-        "filesize": 191792,
         "style": "normal",
         "features": [
           "c2sc",
@@ -2407,10 +2238,9 @@
           "tnum"
         ],
         "weight": 400,
-        "filename": "EncodeSans-Regular"
+        "filesize": 191792
       },
       {
-        "filesize": 196808,
         "style": "normal",
         "features": [
           "c2sc",
@@ -2431,10 +2261,9 @@
           "tnum"
         ],
         "weight": 500,
-        "filename": "EncodeSans-Medium"
+        "filesize": 196808
       },
       {
-        "filesize": 198768,
         "style": "normal",
         "features": [
           "c2sc",
@@ -2455,10 +2284,9 @@
           "tnum"
         ],
         "weight": 600,
-        "filename": "EncodeSans-SemiBold"
+        "filesize": 198768
       },
       {
-        "filesize": 196084,
         "style": "normal",
         "features": [
           "c2sc",
@@ -2479,10 +2307,9 @@
           "tnum"
         ],
         "weight": 700,
-        "filename": "EncodeSans-Bold"
+        "filesize": 196084
       },
       {
-        "filesize": 195652,
         "style": "normal",
         "features": [
           "c2sc",
@@ -2503,10 +2330,9 @@
           "tnum"
         ],
         "weight": 800,
-        "filename": "EncodeSans-ExtraBold"
+        "filesize": 195652
       },
       {
-        "filesize": 187296,
         "style": "normal",
         "features": [
           "c2sc",
@@ -2527,17 +2353,15 @@
           "tnum"
         ],
         "weight": 900,
-        "filename": "EncodeSans-Black"
+        "filesize": 187296
       }
     ],
-    "slug": "encodesans",
     "name": "Encode Sans"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 189756,
         "style": "normal",
         "features": [
           "c2sc",
@@ -2558,10 +2382,9 @@
           "tnum"
         ],
         "weight": 100,
-        "filename": "EncodeSansCompressed-Thin"
+        "filesize": 189756
       },
       {
-        "filesize": 201992,
         "style": "normal",
         "features": [
           "c2sc",
@@ -2582,10 +2405,9 @@
           "tnum"
         ],
         "weight": 200,
-        "filename": "EncodeSansCompressed-ExtraLight"
+        "filesize": 201992
       },
       {
-        "filesize": 203556,
         "style": "normal",
         "features": [
           "c2sc",
@@ -2606,10 +2428,9 @@
           "tnum"
         ],
         "weight": 300,
-        "filename": "EncodeSansCompressed-Light"
+        "filesize": 203556
       },
       {
-        "filesize": 207864,
         "style": "normal",
         "features": [
           "c2sc",
@@ -2630,10 +2451,9 @@
           "tnum"
         ],
         "weight": 400,
-        "filename": "EncodeSansCompressed-Regular"
+        "filesize": 207864
       },
       {
-        "filesize": 211064,
         "style": "normal",
         "features": [
           "c2sc",
@@ -2654,10 +2474,9 @@
           "tnum"
         ],
         "weight": 500,
-        "filename": "EncodeSansCompressed-Medium"
+        "filesize": 211064
       },
       {
-        "filesize": 209888,
         "style": "normal",
         "features": [
           "c2sc",
@@ -2678,10 +2497,9 @@
           "tnum"
         ],
         "weight": 600,
-        "filename": "EncodeSansCompressed-SemiBold"
+        "filesize": 209888
       },
       {
-        "filesize": 218188,
         "style": "normal",
         "features": [
           "c2sc",
@@ -2702,10 +2520,9 @@
           "tnum"
         ],
         "weight": 700,
-        "filename": "EncodeSansCompressed-Bold"
+        "filesize": 218188
       },
       {
-        "filesize": 217076,
         "style": "normal",
         "features": [
           "c2sc",
@@ -2726,10 +2543,9 @@
           "tnum"
         ],
         "weight": 800,
-        "filename": "EncodeSansCompressed-ExtraBold"
+        "filesize": 217076
       },
       {
-        "filesize": 199100,
         "style": "normal",
         "features": [
           "c2sc",
@@ -2750,17 +2566,15 @@
           "tnum"
         ],
         "weight": 900,
-        "filename": "EncodeSansCompressed-Black"
+        "filesize": 199100
       }
     ],
-    "slug": "encodesanscompressed",
     "name": "Encode Sans Compressed"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 199528,
         "style": "normal",
         "features": [
           "c2sc",
@@ -2781,10 +2595,9 @@
           "tnum"
         ],
         "weight": 100,
-        "filename": "EncodeSansCondensed-Thin"
+        "filesize": 199528
       },
       {
-        "filesize": 204924,
         "style": "normal",
         "features": [
           "c2sc",
@@ -2805,10 +2618,9 @@
           "tnum"
         ],
         "weight": 200,
-        "filename": "EncodeSansCondensed-ExtraLight"
+        "filesize": 204924
       },
       {
-        "filesize": 210480,
         "style": "normal",
         "features": [
           "c2sc",
@@ -2829,10 +2641,9 @@
           "tnum"
         ],
         "weight": 300,
-        "filename": "EncodeSansCondensed-Light"
+        "filesize": 210480
       },
       {
-        "filesize": 212176,
         "style": "normal",
         "features": [
           "c2sc",
@@ -2853,10 +2664,9 @@
           "tnum"
         ],
         "weight": 400,
-        "filename": "EncodeSansCondensed-Regular"
+        "filesize": 212176
       },
       {
-        "filesize": 214360,
         "style": "normal",
         "features": [
           "c2sc",
@@ -2877,10 +2687,9 @@
           "tnum"
         ],
         "weight": 500,
-        "filename": "EncodeSansCondensed-Medium"
+        "filesize": 214360
       },
       {
-        "filesize": 219864,
         "style": "normal",
         "features": [
           "c2sc",
@@ -2901,10 +2710,9 @@
           "tnum"
         ],
         "weight": 600,
-        "filename": "EncodeSansCondensed-SemiBold"
+        "filesize": 219864
       },
       {
-        "filesize": 222876,
         "style": "normal",
         "features": [
           "c2sc",
@@ -2925,10 +2733,9 @@
           "tnum"
         ],
         "weight": 700,
-        "filename": "EncodeSansCondensed-Bold"
+        "filesize": 222876
       },
       {
-        "filesize": 218908,
         "style": "normal",
         "features": [
           "c2sc",
@@ -2949,10 +2756,9 @@
           "tnum"
         ],
         "weight": 800,
-        "filename": "EncodeSansCondensed-ExtraBold"
+        "filesize": 218908
       },
       {
-        "filesize": 207636,
         "style": "normal",
         "features": [
           "c2sc",
@@ -2973,17 +2779,15 @@
           "tnum"
         ],
         "weight": 900,
-        "filename": "EncodeSansCondensed-Black"
+        "filesize": 207636
       }
     ],
-    "slug": "encodesanscondensed",
     "name": "Encode Sans Condensed"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 200976,
         "style": "normal",
         "features": [
           "c2sc",
@@ -3004,10 +2808,9 @@
           "tnum"
         ],
         "weight": 100,
-        "filename": "EncodeSansNarrow-Thin"
+        "filesize": 200976
       },
       {
-        "filesize": 209080,
         "style": "normal",
         "features": [
           "c2sc",
@@ -3028,10 +2831,9 @@
           "tnum"
         ],
         "weight": 200,
-        "filename": "EncodeSansNarrow-ExtraLight"
+        "filesize": 209080
       },
       {
-        "filesize": 215616,
         "style": "normal",
         "features": [
           "c2sc",
@@ -3052,10 +2854,9 @@
           "tnum"
         ],
         "weight": 300,
-        "filename": "EncodeSansNarrow-Light"
+        "filesize": 215616
       },
       {
-        "filesize": 215632,
         "style": "normal",
         "features": [
           "c2sc",
@@ -3076,10 +2877,9 @@
           "tnum"
         ],
         "weight": 400,
-        "filename": "EncodeSansNarrow-Regular"
+        "filesize": 215632
       },
       {
-        "filesize": 216640,
         "style": "normal",
         "features": [
           "c2sc",
@@ -3100,10 +2900,9 @@
           "tnum"
         ],
         "weight": 500,
-        "filename": "EncodeSansNarrow-Medium"
+        "filesize": 216640
       },
       {
-        "filesize": 224680,
         "style": "normal",
         "features": [
           "c2sc",
@@ -3124,10 +2923,9 @@
           "tnum"
         ],
         "weight": 600,
-        "filename": "EncodeSansNarrow-SemiBold"
+        "filesize": 224680
       },
       {
-        "filesize": 218304,
         "style": "normal",
         "features": [
           "c2sc",
@@ -3148,10 +2946,9 @@
           "tnum"
         ],
         "weight": 700,
-        "filename": "EncodeSansNarrow-Bold"
+        "filesize": 218304
       },
       {
-        "filesize": 219104,
         "style": "normal",
         "features": [
           "c2sc",
@@ -3172,10 +2969,9 @@
           "tnum"
         ],
         "weight": 800,
-        "filename": "EncodeSansNarrow-ExtraBold"
+        "filesize": 219104
       },
       {
-        "filesize": 207824,
         "style": "normal",
         "features": [
           "c2sc",
@@ -3196,17 +2992,15 @@
           "tnum"
         ],
         "weight": 900,
-        "filename": "EncodeSansNarrow-Black"
+        "filesize": 207824
       }
     ],
-    "slug": "encodesansnarrow",
     "name": "Encode Sans Narrow"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 204296,
         "style": "normal",
         "features": [
           "c2sc",
@@ -3227,10 +3021,9 @@
           "tnum"
         ],
         "weight": 100,
-        "filename": "EncodeSansWide-Thin"
+        "filesize": 204296
       },
       {
-        "filesize": 206716,
         "style": "normal",
         "features": [
           "c2sc",
@@ -3251,10 +3044,9 @@
           "tnum"
         ],
         "weight": 200,
-        "filename": "EncodeSansWide-ExtraLight"
+        "filesize": 206716
       },
       {
-        "filesize": 214308,
         "style": "normal",
         "features": [
           "c2sc",
@@ -3275,10 +3067,9 @@
           "tnum"
         ],
         "weight": 300,
-        "filename": "EncodeSansWide-Light"
+        "filesize": 214308
       },
       {
-        "filesize": 218928,
         "style": "normal",
         "features": [
           "c2sc",
@@ -3299,10 +3090,9 @@
           "tnum"
         ],
         "weight": 400,
-        "filename": "EncodeSansWide-Regular"
+        "filesize": 218928
       },
       {
-        "filesize": 218812,
         "style": "normal",
         "features": [
           "c2sc",
@@ -3323,10 +3113,9 @@
           "tnum"
         ],
         "weight": 500,
-        "filename": "EncodeSansWide-Medium"
+        "filesize": 218812
       },
       {
-        "filesize": 220696,
         "style": "normal",
         "features": [
           "c2sc",
@@ -3347,10 +3136,9 @@
           "tnum"
         ],
         "weight": 600,
-        "filename": "EncodeSansWide-SemiBold"
+        "filesize": 220696
       },
       {
-        "filesize": 218508,
         "style": "normal",
         "features": [
           "c2sc",
@@ -3371,10 +3159,9 @@
           "tnum"
         ],
         "weight": 700,
-        "filename": "EncodeSansWide-Bold"
+        "filesize": 218508
       },
       {
-        "filesize": 218868,
         "style": "normal",
         "features": [
           "c2sc",
@@ -3395,10 +3182,9 @@
           "tnum"
         ],
         "weight": 800,
-        "filename": "EncodeSansWide-ExtraBold"
+        "filesize": 218868
       },
       {
-        "filesize": 211300,
         "style": "normal",
         "features": [
           "c2sc",
@@ -3419,17 +3205,15 @@
           "tnum"
         ],
         "weight": 900,
-        "filename": "EncodeSansWide-Black"
+        "filesize": 211300
       }
     ],
-    "slug": "encodesanswide",
     "name": "Encode Sans Wide"
   },
   {
     "category": "Handwriting",
     "variants": [
       {
-        "filesize": 76408,
         "style": "normal",
         "features": [
           "aalt",
@@ -3440,17 +3224,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "Engagement-Regular"
+        "filesize": 76408
       }
     ],
-    "slug": "engagement",
     "name": "Engagement"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 53048,
         "style": "normal",
         "features": [
           "aalt",
@@ -3461,17 +3243,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "Englebert-Regular"
+        "filesize": 53048
       }
     ],
-    "slug": "englebert",
     "name": "Englebert"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 93100,
         "style": "normal",
         "features": [
           "\t<un",
@@ -3494,10 +3274,9 @@
           "zero"
         ],
         "weight": 100,
-        "filename": "Exo-Thin"
+        "filesize": 93100
       },
       {
-        "filesize": 104444,
         "style": "italic",
         "features": [
           "\t<un",
@@ -3520,10 +3299,9 @@
           "zero"
         ],
         "weight": 100,
-        "filename": "Exo-ThinItalic"
+        "filesize": 104444
       },
       {
-        "filesize": 93444,
         "style": "normal",
         "features": [
           "\t<un",
@@ -3546,10 +3324,9 @@
           "zero"
         ],
         "weight": 200,
-        "filename": "Exo-ExtraLight"
+        "filesize": 93444
       },
       {
-        "filesize": 106936,
         "style": "italic",
         "features": [
           "\t<un",
@@ -3572,10 +3349,9 @@
           "zero"
         ],
         "weight": 200,
-        "filename": "Exo-ExtraLightItalic"
+        "filesize": 106936
       },
       {
-        "filesize": 98124,
         "style": "normal",
         "features": [
           "\t<un",
@@ -3598,10 +3374,9 @@
           "zero"
         ],
         "weight": 300,
-        "filename": "Exo-Light"
+        "filesize": 98124
       },
       {
-        "filesize": 107040,
         "style": "italic",
         "features": [
           "\t<un",
@@ -3624,10 +3399,9 @@
           "zero"
         ],
         "weight": 300,
-        "filename": "Exo-LightItalic"
+        "filesize": 107040
       },
       {
-        "filesize": 93848,
         "style": "normal",
         "features": [
           "\t<un",
@@ -3650,10 +3424,9 @@
           "zero"
         ],
         "weight": 400,
-        "filename": "Exo-Regular"
+        "filesize": 93848
       },
       {
-        "filesize": 104188,
         "style": "italic",
         "features": [
           "\t<un",
@@ -3676,10 +3449,9 @@
           "zero"
         ],
         "weight": 400,
-        "filename": "Exo-Italic"
+        "filesize": 104188
       },
       {
-        "filesize": 98136,
         "style": "normal",
         "features": [
           "\t<un",
@@ -3702,10 +3474,9 @@
           "zero"
         ],
         "weight": 500,
-        "filename": "Exo-Medium"
+        "filesize": 98136
       },
       {
-        "filesize": 106744,
         "style": "italic",
         "features": [
           "\t<un",
@@ -3728,10 +3499,9 @@
           "zero"
         ],
         "weight": 500,
-        "filename": "Exo-MediumItalic"
+        "filesize": 106744
       },
       {
-        "filesize": 96740,
         "style": "normal",
         "features": [
           "\t<un",
@@ -3754,10 +3524,9 @@
           "zero"
         ],
         "weight": 600,
-        "filename": "Exo-SemiBold"
+        "filesize": 96740
       },
       {
-        "filesize": 106552,
         "style": "italic",
         "features": [
           "\t<un",
@@ -3780,10 +3549,9 @@
           "zero"
         ],
         "weight": 600,
-        "filename": "Exo-SemiBoldItalic"
+        "filesize": 106552
       },
       {
-        "filesize": 96268,
         "style": "normal",
         "features": [
           "\t<un",
@@ -3806,10 +3574,9 @@
           "zero"
         ],
         "weight": 700,
-        "filename": "Exo-Bold"
+        "filesize": 96268
       },
       {
-        "filesize": 105140,
         "style": "italic",
         "features": [
           "\t<un",
@@ -3832,10 +3599,9 @@
           "zero"
         ],
         "weight": 700,
-        "filename": "Exo-BoldItalic"
+        "filesize": 105140
       },
       {
-        "filesize": 95732,
         "style": "normal",
         "features": [
           "\t<un",
@@ -3858,10 +3624,9 @@
           "zero"
         ],
         "weight": 800,
-        "filename": "Exo-ExtraBold"
+        "filesize": 95732
       },
       {
-        "filesize": 104552,
         "style": "italic",
         "features": [
           "\t<un",
@@ -3884,10 +3649,9 @@
           "zero"
         ],
         "weight": 800,
-        "filename": "Exo-ExtraBoldItalic"
+        "filesize": 104552
       },
       {
-        "filesize": 91504,
         "style": "normal",
         "features": [
           "\t<un",
@@ -3910,10 +3674,9 @@
           "zero"
         ],
         "weight": 900,
-        "filename": "Exo-Black"
+        "filesize": 91504
       },
       {
-        "filesize": 101132,
         "style": "italic",
         "features": [
           "\t<un",
@@ -3936,204 +3699,183 @@
           "zero"
         ],
         "weight": 900,
-        "filename": "Exo-BlackItalic"
+        "filesize": 101132
       }
     ],
-    "slug": "exo",
     "name": "Exo"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 101776,
         "style": "normal",
         "features": [
           "kern",
           "mark"
         ],
         "weight": 100,
-        "filename": "Exo2-Thin"
+        "filesize": 101776
       },
       {
-        "filesize": 111284,
         "style": "italic",
         "features": [
           "kern",
           "mark"
         ],
         "weight": 100,
-        "filename": "Exo2-ThinItalic"
+        "filesize": 111284
       },
       {
-        "filesize": 106856,
         "style": "normal",
         "features": [
           "kern",
           "mark"
         ],
         "weight": 200,
-        "filename": "Exo2-ExtraLight"
+        "filesize": 106856
       },
       {
-        "filesize": 110208,
         "style": "italic",
         "features": [
           "kern",
           "mark"
         ],
         "weight": 200,
-        "filename": "Exo2-ExtraLightItalic"
+        "filesize": 110208
       },
       {
-        "filesize": 104148,
         "style": "normal",
         "features": [
           "kern",
           "mark"
         ],
         "weight": 300,
-        "filename": "Exo2-Light"
+        "filesize": 104148
       },
       {
-        "filesize": 108544,
         "style": "italic",
         "features": [
           "kern",
           "mark"
         ],
         "weight": 300,
-        "filename": "Exo2-LightItalic"
+        "filesize": 108544
       },
       {
-        "filesize": 106380,
         "style": "normal",
         "features": [
           "kern",
           "mark"
         ],
         "weight": 400,
-        "filename": "Exo2-Regular"
+        "filesize": 106380
       },
       {
-        "filesize": 111136,
         "style": "italic",
         "features": [
           "kern",
           "mark"
         ],
         "weight": 400,
-        "filename": "Exo2-Italic"
+        "filesize": 111136
       },
       {
-        "filesize": 107196,
         "style": "normal",
         "features": [
           "kern",
           "mark"
         ],
         "weight": 500,
-        "filename": "Exo2-Medium"
+        "filesize": 107196
       },
       {
-        "filesize": 111380,
         "style": "italic",
         "features": [
           "kern",
           "mark"
         ],
         "weight": 500,
-        "filename": "Exo2-MediumItalic"
+        "filesize": 111380
       },
       {
-        "filesize": 108868,
         "style": "normal",
         "features": [
           "kern",
           "mark"
         ],
         "weight": 600,
-        "filename": "Exo2-SemiBold"
+        "filesize": 108868
       },
       {
-        "filesize": 111204,
         "style": "italic",
         "features": [
           "kern",
           "mark"
         ],
         "weight": 600,
-        "filename": "Exo2-SemiBoldItalic"
+        "filesize": 111204
       },
       {
-        "filesize": 109136,
         "style": "normal",
         "features": [
           "kern",
           "mark"
         ],
         "weight": 700,
-        "filename": "Exo2-Bold"
+        "filesize": 109136
       },
       {
-        "filesize": 111056,
         "style": "italic",
         "features": [
           "kern",
           "mark"
         ],
         "weight": 700,
-        "filename": "Exo2-BoldItalic"
+        "filesize": 111056
       },
       {
-        "filesize": 110068,
         "style": "normal",
         "features": [
           "kern",
           "mark"
         ],
         "weight": 800,
-        "filename": "Exo2-ExtraBold"
+        "filesize": 110068
       },
       {
-        "filesize": 113468,
         "style": "italic",
         "features": [
           "kern",
           "mark"
         ],
         "weight": 800,
-        "filename": "Exo2-ExtraBoldItalic"
+        "filesize": 113468
       },
       {
-        "filesize": 109776,
         "style": "normal",
         "features": [
           "kern",
           "mark"
         ],
         "weight": 900,
-        "filename": "Exo2-Black"
+        "filesize": 109776
       },
       {
-        "filesize": 111492,
         "style": "italic",
         "features": [
           "kern",
           "mark"
         ],
         "weight": 900,
-        "filename": "Exo2-BlackItalic"
+        "filesize": 111492
       }
     ],
-    "slug": "exo2",
     "name": "Exo 2"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 119216,
         "style": "normal",
         "features": [
           "aalt",
@@ -4153,10 +3895,9 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "FanwoodText-Regular"
+        "filesize": 119216
       },
       {
-        "filesize": 96364,
         "style": "italic",
         "features": [
           "aalt",
@@ -4174,17 +3915,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "FanwoodText-Italic"
+        "filesize": 96364
       }
     ],
-    "slug": "fanwoodtext",
     "name": "Fanwood Text"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 51900,
         "style": "normal",
         "features": [
           "aalt",
@@ -4196,17 +3935,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "Fascinate-Regular"
+        "filesize": 51900
       }
     ],
-    "slug": "fascinate",
     "name": "Fascinate"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 59604,
         "style": "normal",
         "features": [
           "aalt",
@@ -4218,17 +3955,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "FascinateInline-Regular"
+        "filesize": 59604
       }
     ],
-    "slug": "fascinateinline",
     "name": "Fascinate Inline"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 45304,
         "style": "normal",
         "features": [
           "case",
@@ -4237,34 +3972,30 @@
           "liga"
         ],
         "weight": 400,
-        "filename": "FasterOne-Regular"
+        "filesize": 45304
       }
     ],
-    "slug": "fasterone",
     "name": "Faster One"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 45144,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 400,
-        "filename": "Fenix-Regular"
+        "filesize": 45144
       }
     ],
-    "slug": "fenix",
     "name": "Fenix"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 158520,
         "style": "normal",
         "features": [
           "aalt",
@@ -4290,10 +4021,9 @@
           "zero"
         ],
         "weight": 300,
-        "filename": "FiraSans-Light"
+        "filesize": 158520
       },
       {
-        "filesize": 162140,
         "style": "italic",
         "features": [
           "aalt",
@@ -4319,10 +4049,9 @@
           "zero"
         ],
         "weight": 300,
-        "filename": "FiraSans-LightItalic"
+        "filesize": 162140
       },
       {
-        "filesize": 158584,
         "style": "normal",
         "features": [
           "aalt",
@@ -4348,10 +4077,9 @@
           "zero"
         ],
         "weight": 400,
-        "filename": "FiraSans-Regular"
+        "filesize": 158584
       },
       {
-        "filesize": 162248,
         "style": "italic",
         "features": [
           "aalt",
@@ -4377,10 +4105,9 @@
           "zero"
         ],
         "weight": 400,
-        "filename": "FiraSans-Italic"
+        "filesize": 162248
       },
       {
-        "filesize": 158552,
         "style": "normal",
         "features": [
           "aalt",
@@ -4406,10 +4133,9 @@
           "zero"
         ],
         "weight": 500,
-        "filename": "FiraSans-Medium"
+        "filesize": 158552
       },
       {
-        "filesize": 162312,
         "style": "italic",
         "features": [
           "aalt",
@@ -4435,10 +4161,9 @@
           "zero"
         ],
         "weight": 500,
-        "filename": "FiraSans-MediumItalic"
+        "filesize": 162312
       },
       {
-        "filesize": 158444,
         "style": "normal",
         "features": [
           "aalt",
@@ -4464,10 +4189,9 @@
           "zero"
         ],
         "weight": 700,
-        "filename": "FiraSans-Bold"
+        "filesize": 158444
       },
       {
-        "filesize": 161912,
         "style": "italic",
         "features": [
           "aalt",
@@ -4493,17 +4217,15 @@
           "zero"
         ],
         "weight": 700,
-        "filename": "FiraSans-BoldItalic"
+        "filesize": 161912
       }
     ],
-    "slug": "firasans",
     "name": "Fira Sans"
   },
   {
     "category": "Handwriting",
     "variants": [
       {
-        "filesize": 87160,
         "style": "normal",
         "features": [
           "aalt",
@@ -4514,10 +4236,9 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "Fondamento-Regular"
+        "filesize": 87160
       },
       {
-        "filesize": 78760,
         "style": "italic",
         "features": [
           "aalt",
@@ -4528,17 +4249,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "Fondamento-Italic"
+        "filesize": 78760
       }
     ],
-    "slug": "fondamento",
     "name": "Fondamento"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 121088,
         "style": "normal",
         "features": [
           "aalt",
@@ -4549,17 +4268,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "FreckleFace-Regular"
+        "filesize": 121088
       }
     ],
-    "slug": "freckleface",
     "name": "Freckle Face"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 43500,
         "style": "normal",
         "features": [
           "frac",
@@ -4569,17 +4286,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "FredokaOne-Regular"
+        "filesize": 43500
       }
     ],
-    "slug": "fredokaone",
     "name": "Fredoka One"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 191168,
         "style": "normal",
         "features": [
           "c2sc",
@@ -4598,17 +4313,15 @@
           "tnum"
         ],
         "weight": 400,
-        "filename": "GFSDidot-Regular"
+        "filesize": 191168
       }
     ],
-    "slug": "gfsdidot",
     "name": "GFS Didot"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 460072,
         "style": "normal",
         "features": [
           "c2sc",
@@ -4628,10 +4341,9 @@
           "tnum"
         ],
         "weight": 400,
-        "filename": "GFSNeohellenic"
+        "filesize": 460072
       },
       {
-        "filesize": 369060,
         "style": "italic",
         "features": [
           "fina",
@@ -4643,10 +4355,9 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "GFSNeohellenicItalic"
+        "filesize": 369060
       },
       {
-        "filesize": 344708,
         "style": "normal",
         "features": [
           "fina",
@@ -4657,10 +4368,9 @@
           "sups"
         ],
         "weight": 700,
-        "filename": "GFSNeohellenicBold"
+        "filesize": 344708
       },
       {
-        "filesize": 362080,
         "style": "italic",
         "features": [
           "fina",
@@ -4672,17 +4382,15 @@
           "sups"
         ],
         "weight": 700,
-        "filename": "GFSNeohellenicBoldItalic"
+        "filesize": 362080
       }
     ],
-    "slug": "gfsneohellenic",
     "name": "GFS Neohellenic"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 53332,
         "style": "normal",
         "features": [
           "calt",
@@ -4692,17 +4400,15 @@
           "ss01"
         ],
         "weight": 400,
-        "filename": "Gabriela-Regular"
+        "filesize": 53332
       }
     ],
-    "slug": "gabriela",
     "name": "Gabriela"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 51552,
         "style": "normal",
         "features": [
           "aalt",
@@ -4711,17 +4417,15 @@
           "ss01"
         ],
         "weight": 400,
-        "filename": "Gafata-Regular"
+        "filesize": 51552
       }
     ],
-    "slug": "gafata",
     "name": "Gafata"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 58104,
         "style": "normal",
         "features": [
           "aalt",
@@ -4732,51 +4436,45 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "Galindo-Regular"
+        "filesize": 58104
       }
     ],
-    "slug": "galindo",
     "name": "Galindo"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 36804,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 400,
-        "filename": "GildaDisplay-Regular"
+        "filesize": 36804
       }
     ],
-    "slug": "gildadisplay",
     "name": "Gilda Display"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 63012,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 400,
-        "filename": "GlassAntiqua-Regular"
+        "filesize": 63012
       }
     ],
-    "slug": "glassantiqua",
     "name": "Glass Antiqua"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 73496,
         "style": "normal",
         "features": [
           "aalt",
@@ -4784,17 +4482,15 @@
           "ss01"
         ],
         "weight": 400,
-        "filename": "GoudyBookletter1911"
+        "filesize": 73496
       }
     ],
-    "slug": "goudybookletter1911",
     "name": "Goudy Bookletter 1911"
   },
   {
     "category": "Handwriting",
     "variants": [
       {
-        "filesize": 65012,
         "style": "normal",
         "features": [
           "aalt",
@@ -4805,17 +4501,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "GrandHotel-Regular"
+        "filesize": 65012
       }
     ],
-    "slug": "grandhotel",
     "name": "Grand Hotel"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 36260,
         "style": "normal",
         "features": [
           "dlig",
@@ -4827,17 +4521,15 @@
           "ss01"
         ],
         "weight": 400,
-        "filename": "Habibi-Regular"
+        "filesize": 36260
       }
     ],
-    "slug": "habibi",
     "name": "Habibi"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 184176,
         "style": "normal",
         "features": [
           "aalt",
@@ -4848,17 +4540,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "Hanalei-Regular"
+        "filesize": 184176
       }
     ],
-    "slug": "hanalei",
     "name": "Hanalei"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 92108,
         "style": "normal",
         "features": [
           "aalt",
@@ -4869,17 +4559,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "HanaleiFill-Regular"
+        "filesize": 92108
       }
     ],
-    "slug": "hanaleifill",
     "name": "Hanalei Fill"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 92596,
         "style": "normal",
         "features": [
           "aalt",
@@ -4888,51 +4576,45 @@
           "liga"
         ],
         "weight": 400,
-        "filename": "HennyPenny-Regular"
+        "filesize": 92596
       }
     ],
-    "slug": "hennypenny",
     "name": "Henny Penny"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 132940,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 400,
-        "filename": "HermeneusOne-Regular"
+        "filesize": 132940
       }
     ],
-    "slug": "hermeneusone",
     "name": "Hermeneus One"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 24912,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 400,
-        "filename": "Imprima-Regular"
+        "filesize": 24912
       }
     ],
-    "slug": "imprima",
     "name": "Imprima"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 315392,
         "style": "normal",
         "features": [
           "c2sc",
@@ -4946,10 +4628,9 @@
           "tnum"
         ],
         "weight": 500,
-        "filename": "IstokWeb-Regular"
+        "filesize": 315392
       },
       {
-        "filesize": 218164,
         "style": "italic",
         "features": [
           "case",
@@ -4962,10 +4643,9 @@
           "tnum"
         ],
         "weight": 500,
-        "filename": "IstokWeb-BoldItalic"
+        "filesize": 218164
       },
       {
-        "filesize": 218124,
         "style": "italic",
         "features": [
           "case",
@@ -4978,10 +4658,9 @@
           "tnum"
         ],
         "weight": 500,
-        "filename": "IstokWeb-Italic"
+        "filesize": 218124
       },
       {
-        "filesize": 224440,
         "style": "normal",
         "features": [
           "case",
@@ -4993,17 +4672,15 @@
           "tnum"
         ],
         "weight": 700,
-        "filename": "IstokWeb-Bold"
+        "filesize": 224440
       }
     ],
-    "slug": "istokweb",
     "name": "Istok Web"
   },
   {
     "category": "Handwriting",
     "variants": [
       {
-        "filesize": 153680,
         "style": "normal",
         "features": [
           "aalt",
@@ -5014,51 +4691,45 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "JimNightshade-Regular"
+        "filesize": 153680
       }
     ],
-    "slug": "jimnightshade",
     "name": "Jim Nightshade"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 48608,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 400,
-        "filename": "JockeyOne-Regular"
+        "filesize": 48608
       }
     ],
-    "slug": "jockeyone",
     "name": "Jockey One"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 45584,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 400,
-        "filename": "JotiOne-Regular"
+        "filesize": 45584
       }
     ],
-    "slug": "jotione",
     "name": "Joti One"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 220844,
         "style": "normal",
         "features": [
           "abvm",
@@ -5069,10 +4740,9 @@
           "mkmk"
         ],
         "weight": 400,
-        "filename": "Judson-Regular"
+        "filesize": 220844
       },
       {
-        "filesize": 212008,
         "style": "italic",
         "features": [
           "abvm",
@@ -5082,10 +4752,9 @@
           "mkmk"
         ],
         "weight": 400,
-        "filename": "Judson-Italic"
+        "filesize": 212008
       },
       {
-        "filesize": 195504,
         "style": "normal",
         "features": [
           "abvm",
@@ -5095,17 +4764,15 @@
           "mkmk"
         ],
         "weight": 700,
-        "filename": "Judson-Bold"
+        "filesize": 195504
       }
     ],
-    "slug": "judson",
     "name": "Judson"
   },
   {
     "category": "Handwriting",
     "variants": [
       {
-        "filesize": 192544,
         "style": "normal",
         "features": [
           "aalt",
@@ -5116,64 +4783,57 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "JustAnotherHand"
+        "filesize": 192544
       }
     ],
-    "slug": "justanotherhand",
     "name": "Just Another Hand"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 16816,
         "style": "normal",
         "features": [
           "kern",
           "onum"
         ],
         "weight": 400,
-        "filename": "Karla-Regular"
+        "filesize": 16816
       },
       {
-        "filesize": 18548,
         "style": "italic",
         "features": [
           "kern",
           "onum"
         ],
         "weight": 400,
-        "filename": "Karla-Italic"
+        "filesize": 18548
       },
       {
-        "filesize": 17868,
         "style": "normal",
         "features": [
           "kern",
           "onum"
         ],
         "weight": 700,
-        "filename": "Karla-Bold"
+        "filesize": 17868
       },
       {
-        "filesize": 18672,
         "style": "italic",
         "features": [
           "kern",
           "onum"
         ],
         "weight": 700,
-        "filename": "Karla-BoldItalic"
+        "filesize": 18672
       }
     ],
-    "slug": "karla",
     "name": "Karla"
   },
   {
     "category": "Handwriting",
     "variants": [
       {
-        "filesize": 210672,
         "style": "normal",
         "features": [
           "aalt",
@@ -5185,34 +4845,30 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "KaushanScript-Regular"
+        "filesize": 210672
       }
     ],
-    "slug": "kaushanscript",
     "name": "Kaushan Script"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 49536,
         "style": "normal",
         "features": [
           "kern",
           "titl"
         ],
         "weight": 400,
-        "filename": "Lancelot-Regular"
+        "filesize": 49536
       }
     ],
-    "slug": "lancelot",
     "name": "Lancelot"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 115316,
         "style": "normal",
         "features": [
           "case",
@@ -5221,10 +4877,9 @@
           "sups"
         ],
         "weight": 100,
-        "filename": "Lato-Hairline"
+        "filesize": 115316
       },
       {
-        "filesize": 91460,
         "style": "italic",
         "features": [
           "case",
@@ -5233,10 +4888,9 @@
           "sups"
         ],
         "weight": 100,
-        "filename": "Lato-HairlineItalic"
+        "filesize": 91460
       },
       {
-        "filesize": 122524,
         "style": "normal",
         "features": [
           "case",
@@ -5245,10 +4899,9 @@
           "sups"
         ],
         "weight": 300,
-        "filename": "Lato-Light"
+        "filesize": 122524
       },
       {
-        "filesize": 91600,
         "style": "italic",
         "features": [
           "case",
@@ -5257,10 +4910,9 @@
           "sups"
         ],
         "weight": 300,
-        "filename": "Lato-LightItalic"
+        "filesize": 91600
       },
       {
-        "filesize": 120196,
         "style": "normal",
         "features": [
           "case",
@@ -5269,10 +4921,9 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "Lato-Regular"
+        "filesize": 120196
       },
       {
-        "filesize": 118352,
         "style": "italic",
         "features": [
           "case",
@@ -5281,10 +4932,9 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "Lato-Italic"
+        "filesize": 118352
       },
       {
-        "filesize": 121788,
         "style": "normal",
         "features": [
           "case",
@@ -5293,10 +4943,9 @@
           "sups"
         ],
         "weight": 700,
-        "filename": "Lato-Bold"
+        "filesize": 121788
       },
       {
-        "filesize": 120312,
         "style": "italic",
         "features": [
           "case",
@@ -5305,10 +4954,9 @@
           "sups"
         ],
         "weight": 700,
-        "filename": "Lato-BoldItalic"
+        "filesize": 120312
       },
       {
-        "filesize": 114588,
         "style": "normal",
         "features": [
           "case",
@@ -5317,10 +4965,9 @@
           "sups"
         ],
         "weight": 900,
-        "filename": "Lato-Black"
+        "filesize": 114588
       },
       {
-        "filesize": 111616,
         "style": "italic",
         "features": [
           "case",
@@ -5329,34 +4976,30 @@
           "sups"
         ],
         "weight": 900,
-        "filename": "Lato-BlackItalic"
+        "filesize": 111616
       }
     ],
-    "slug": "lato",
     "name": "Lato"
   },
   {
     "category": "Handwriting",
     "variants": [
       {
-        "filesize": 69216,
         "style": "normal",
         "features": [
           "dlig",
           "kern"
         ],
         "weight": 400,
-        "filename": "LeagueScript"
+        "filesize": 69216
       }
     ],
-    "slug": "leaguescript",
     "name": "League Script"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 114320,
         "style": "normal",
         "features": [
           "calt",
@@ -5377,19 +5020,17 @@
           "titl"
         ],
         "weight": 400,
-        "filename": "Lekton-Regular"
+        "filesize": 114320
       },
       {
-        "filesize": 34212,
         "style": "italic",
         "features": [
           "kern"
         ],
         "weight": 400,
-        "filename": "Lekton-Italic"
+        "filesize": 34212
       },
       {
-        "filesize": 113684,
         "style": "normal",
         "features": [
           "calt",
@@ -5410,17 +5051,15 @@
           "titl"
         ],
         "weight": 700,
-        "filename": "Lekton-Bold"
+        "filesize": 113684
       }
     ],
-    "slug": "lekton",
     "name": "Lekton"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 160364,
         "style": "normal",
         "features": [
           "dlig",
@@ -5432,10 +5071,9 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "LibreBaskerville-Regular"
+        "filesize": 160364
       },
       {
-        "filesize": 175480,
         "style": "italic",
         "features": [
           "dlig",
@@ -5448,10 +5086,9 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "LibreBaskerville-Italic"
+        "filesize": 175480
       },
       {
-        "filesize": 161104,
         "style": "normal",
         "features": [
           "dlig",
@@ -5463,17 +5100,15 @@
           "sups"
         ],
         "weight": 700,
-        "filename": "LibreBaskerville-Bold"
+        "filesize": 161104
       }
     ],
-    "slug": "librebaskerville",
     "name": "Libre Baskerville"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 160736,
         "style": "normal",
         "features": [
           "dlig",
@@ -5489,10 +5124,9 @@
           "tnum"
         ],
         "weight": 400,
-        "filename": "LibreCaslonText-Regular"
+        "filesize": 160736
       },
       {
-        "filesize": 192152,
         "style": "italic",
         "features": [
           "dlig",
@@ -5509,10 +5143,9 @@
           "tnum"
         ],
         "weight": 400,
-        "filename": "LibreCaslonText-Italic"
+        "filesize": 192152
       },
       {
-        "filesize": 169340,
         "style": "normal",
         "features": [
           "dlig",
@@ -5528,17 +5161,15 @@
           "tnum"
         ],
         "weight": 700,
-        "filename": "LibreCaslonText-Bold"
+        "filesize": 169340
       }
     ],
-    "slug": "librecaslontext",
     "name": "Libre Caslon Text"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 198256,
         "style": "normal",
         "features": [
           "dlig",
@@ -5548,10 +5179,9 @@
           "ss01"
         ],
         "weight": 400,
-        "filename": "LifeSavers-Regular"
+        "filesize": 198256
       },
       {
-        "filesize": 179864,
         "style": "normal",
         "features": [
           "dlig",
@@ -5561,10 +5191,9 @@
           "ss01"
         ],
         "weight": 700,
-        "filename": "LifeSavers-Bold"
+        "filesize": 179864
       },
       {
-        "filesize": 212396,
         "style": "normal",
         "features": [
           "dlig",
@@ -5574,17 +5203,15 @@
           "ss01"
         ],
         "weight": 800,
-        "filename": "LifeSavers-ExtraBold"
+        "filesize": 212396
       }
     ],
-    "slug": "lifesavers",
     "name": "Life Savers"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 124844,
         "style": "normal",
         "features": [
           "aalt",
@@ -5604,10 +5231,9 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "LindenHill-Regular"
+        "filesize": 124844
       },
       {
-        "filesize": 94540,
         "style": "italic",
         "features": [
           "aalt",
@@ -5628,17 +5254,15 @@
           "swsh"
         ],
         "weight": 400,
-        "filename": "LindenHill-Italic"
+        "filesize": 94540
       }
     ],
-    "slug": "lindenhill",
     "name": "Linden Hill"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 140856,
         "style": "normal",
         "features": [
           "aalt",
@@ -5647,17 +5271,15 @@
           "salt"
         ],
         "weight": 400,
-        "filename": "Lobster"
+        "filesize": 140856
       }
     ],
-    "slug": "lobster",
     "name": "Lobster"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 254332,
         "style": "normal",
         "features": [
           "aalt",
@@ -5666,10 +5288,9 @@
           "salt"
         ],
         "weight": 400,
-        "filename": "LobsterTwo-Regular"
+        "filesize": 254332
       },
       {
-        "filesize": 249896,
         "style": "italic",
         "features": [
           "aalt",
@@ -5678,10 +5299,9 @@
           "salt"
         ],
         "weight": 400,
-        "filename": "LobsterTwo-Italic"
+        "filesize": 249896
       },
       {
-        "filesize": 241104,
         "style": "normal",
         "features": [
           "aalt",
@@ -5690,10 +5310,9 @@
           "salt"
         ],
         "weight": 700,
-        "filename": "LobsterTwo-Bold"
+        "filesize": 241104
       },
       {
-        "filesize": 235632,
         "style": "italic",
         "features": [
           "aalt",
@@ -5702,17 +5321,15 @@
           "salt"
         ],
         "weight": 700,
-        "filename": "LobsterTwo-BoldItalic"
+        "filesize": 235632
       }
     ],
-    "slug": "lobstertwo",
     "name": "Lobster Two"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 73728,
         "style": "normal",
         "features": [
           "aalt",
@@ -5723,17 +5340,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "LuckiestGuy"
+        "filesize": 73728
       }
     ],
-    "slug": "luckiestguy",
     "name": "Luckiest Guy"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 60928,
         "style": "normal",
         "features": [
           "aalt",
@@ -5744,17 +5359,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "MaidenOrange"
+        "filesize": 60928
       }
     ],
-    "slug": "maidenorange",
     "name": "Maiden Orange"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 46004,
         "style": "normal",
         "features": [
           "aalt",
@@ -5765,17 +5378,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "Marcellus-Regular"
+        "filesize": 46004
       }
     ],
-    "slug": "marcellus",
     "name": "Marcellus"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 47888,
         "style": "normal",
         "features": [
           "aalt",
@@ -5786,17 +5397,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "MarcellusSC-Regular"
+        "filesize": 47888
       }
     ],
-    "slug": "marcellussc",
     "name": "Marcellus SC"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 148820,
         "style": "normal",
         "features": [
           "aalt",
@@ -5807,17 +5416,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "Margarine-Regular"
+        "filesize": 148820
       }
     ],
-    "slug": "margarine",
     "name": "Margarine"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 28216,
         "style": "normal",
         "features": [
           "case",
@@ -5825,10 +5432,9 @@
           "kern"
         ],
         "weight": 400,
-        "filename": "Mate-Regular"
+        "filesize": 28216
       },
       {
-        "filesize": 27708,
         "style": "italic",
         "features": [
           "case",
@@ -5837,17 +5443,15 @@
           "liga"
         ],
         "weight": 400,
-        "filename": "Mate-Italic"
+        "filesize": 27708
       }
     ],
-    "slug": "mate",
     "name": "Mate"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 29856,
         "style": "normal",
         "features": [
           "case",
@@ -5855,17 +5459,15 @@
           "kern"
         ],
         "weight": 400,
-        "filename": "MateSC-Regular"
+        "filesize": 29856
       }
     ],
-    "slug": "matesc",
     "name": "Mate SC"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 54504,
         "style": "normal",
         "features": [
           "aalt",
@@ -5876,17 +5478,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "McLaren-Regular"
+        "filesize": 54504
       }
     ],
-    "slug": "mclaren",
     "name": "McLaren"
   },
   {
     "category": "Handwriting",
     "variants": [
       {
-        "filesize": 41076,
         "style": "normal",
         "features": [
           "case",
@@ -5895,34 +5495,30 @@
           "liga"
         ],
         "weight": 400,
-        "filename": "Merienda-Regular"
+        "filesize": 41076
       },
       {
-        "filesize": 35032,
         "style": "normal",
         "features": [],
         "weight": 700,
-        "filename": "Merienda-Bold"
+        "filesize": 35032
       }
     ],
-    "slug": "merienda",
     "name": "Merienda"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 46900,
         "style": "normal",
         "features": [
           "dlig",
           "kern"
         ],
         "weight": 300,
-        "filename": "Merriweather-Light"
+        "filesize": 46900
       },
       {
-        "filesize": 53492,
         "style": "italic",
         "features": [
           "aalt",
@@ -5933,20 +5529,18 @@
           "sups"
         ],
         "weight": 300,
-        "filename": "Merriweather-LightItalic"
+        "filesize": 53492
       },
       {
-        "filesize": 46576,
         "style": "normal",
         "features": [
           "dlig",
           "kern"
         ],
         "weight": 400,
-        "filename": "Merriweather-Regular"
+        "filesize": 46576
       },
       {
-        "filesize": 53140,
         "style": "italic",
         "features": [
           "aalt",
@@ -5957,20 +5551,18 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "Merriweather-Italic"
+        "filesize": 53140
       },
       {
-        "filesize": 46796,
         "style": "normal",
         "features": [
           "dlig",
           "kern"
         ],
         "weight": 700,
-        "filename": "Merriweather-Bold"
+        "filesize": 46796
       },
       {
-        "filesize": 59316,
         "style": "italic",
         "features": [
           "aalt",
@@ -5981,20 +5573,18 @@
           "sups"
         ],
         "weight": 700,
-        "filename": "Merriweather-BoldItalic"
+        "filesize": 59316
       },
       {
-        "filesize": 46816,
         "style": "normal",
         "features": [
           "dlig",
           "kern"
         ],
         "weight": 900,
-        "filename": "Merriweather-Black"
+        "filesize": 46816
       },
       {
-        "filesize": 52432,
         "style": "italic",
         "features": [
           "aalt",
@@ -6005,17 +5595,15 @@
           "sups"
         ],
         "weight": 900,
-        "filename": "Merriweather-HeavyItalic"
+        "filesize": 52432
       }
     ],
-    "slug": "merriweather",
     "name": "Merriweather"
   },
   {
     "category": "Handwriting",
     "variants": [
       {
-        "filesize": 74340,
         "style": "normal",
         "features": [
           "aalt",
@@ -6026,17 +5614,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "MervaleScript-Regular"
+        "filesize": 74340
       }
     ],
-    "slug": "mervalescript",
     "name": "Mervale Script"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 209948,
         "style": "normal",
         "features": [
           "frac",
@@ -6050,17 +5636,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "Milonga-Regular"
+        "filesize": 209948
       }
     ],
-    "slug": "milonga",
     "name": "Milonga"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 65464,
         "style": "normal",
         "features": [
           "ccmp",
@@ -6069,44 +5653,39 @@
           "mkmk"
         ],
         "weight": 400,
-        "filename": "Molengo-Regular"
+        "filesize": 65464
       }
     ],
-    "slug": "molengo",
     "name": "Molengo"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 43604,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 400,
-        "filename": "Monda-Regular"
+        "filesize": 43604
       },
       {
-        "filesize": 48752,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 700,
-        "filename": "Monda-Bold"
+        "filesize": 48752
       }
     ],
-    "slug": "monda",
     "name": "Monda"
   },
   {
     "category": "Handwriting",
     "variants": [
       {
-        "filesize": 77192,
         "style": "normal",
         "features": [
           "aalt",
@@ -6117,17 +5696,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "Montez-Regular"
+        "filesize": 77192
       }
     ],
-    "slug": "montez",
     "name": "Montez"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 51812,
         "style": "normal",
         "features": [
           "aalt",
@@ -6142,10 +5719,9 @@
           "sups"
         ],
         "weight": 100,
-        "filename": "Montserrat-Thin"
+        "filesize": 51812
       },
       {
-        "filesize": 52824,
         "style": "normal",
         "features": [
           "aalt",
@@ -6160,10 +5736,9 @@
           "sups"
         ],
         "weight": 300,
-        "filename": "Montserrat-Light"
+        "filesize": 52824
       },
       {
-        "filesize": 53224,
         "style": "normal",
         "features": [
           "aalt",
@@ -6178,10 +5753,9 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "Montserrat-Regular"
+        "filesize": 53224
       },
       {
-        "filesize": 55024,
         "style": "normal",
         "features": [
           "aalt",
@@ -6196,10 +5770,9 @@
           "sups"
         ],
         "weight": 700,
-        "filename": "Montserrat-Bold"
+        "filesize": 55024
       },
       {
-        "filesize": 53680,
         "style": "normal",
         "features": [
           "aalt",
@@ -6214,17 +5787,15 @@
           "sups"
         ],
         "weight": 900,
-        "filename": "Montserrat-Black"
+        "filesize": 53680
       }
     ],
-    "slug": "montserrat",
     "name": "Montserrat"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 55932,
         "style": "normal",
         "features": [
           "aalt",
@@ -6235,17 +5806,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "MouseMemoirs-Regular"
+        "filesize": 55932
       }
     ],
-    "slug": "mousememoirs",
     "name": "Mouse Memoirs"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 173224,
         "style": "normal",
         "features": [
           "frac",
@@ -6256,17 +5825,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "NewRocker-Regular"
+        "filesize": 173224
       }
     ],
-    "slug": "newrocker",
     "name": "New Rocker"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 384848,
         "style": "normal",
         "features": [
           "aalt",
@@ -6275,110 +5842,98 @@
           "onum"
         ],
         "weight": 400,
-        "filename": "NewsCycle-Regular"
+        "filesize": 384848
       },
       {
-        "filesize": 207540,
         "style": "normal",
         "features": [
           "kern"
         ],
         "weight": 700,
-        "filename": "NewsCycle-Bold"
+        "filesize": 207540
       }
     ],
-    "slug": "newscycle",
     "name": "News Cycle"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 65140,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 400,
-        "filename": "Nobile-Regular"
+        "filesize": 65140
       },
       {
-        "filesize": 92032,
         "style": "italic",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 400,
-        "filename": "Nobile-Italic"
+        "filesize": 92032
       },
       {
-        "filesize": 67844,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 500,
-        "filename": "Nobile-Medium"
+        "filesize": 67844
       },
       {
-        "filesize": 89920,
         "style": "italic",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 500,
-        "filename": "Nobile-MediumItalic"
+        "filesize": 89920
       },
       {
-        "filesize": 61516,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 700,
-        "filename": "Nobile-Bold"
+        "filesize": 61516
       },
       {
-        "filesize": 86172,
         "style": "italic",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 700,
-        "filename": "Nobile-BoldItalic"
+        "filesize": 86172
       }
     ],
-    "slug": "nobile",
     "name": "Nobile"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 43652,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 400,
-        "filename": "NosiferCaps-Regular"
+        "filesize": 43652
       }
     ],
-    "slug": "nosifercaps",
     "name": "Nosifer Caps"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 306788,
         "style": "normal",
         "features": [
           "ccmp",
@@ -6387,10 +5942,9 @@
           "mkmk"
         ],
         "weight": 400,
-        "filename": "NotoSans-Regular"
+        "filesize": 306788
       },
       {
-        "filesize": 279300,
         "style": "italic",
         "features": [
           "ccmp",
@@ -6399,10 +5953,9 @@
           "mkmk"
         ],
         "weight": 400,
-        "filename": "NotoSans-Italic"
+        "filesize": 279300
       },
       {
-        "filesize": 311508,
         "style": "normal",
         "features": [
           "ccmp",
@@ -6411,10 +5964,9 @@
           "mkmk"
         ],
         "weight": 700,
-        "filename": "NotoSans-Bold"
+        "filesize": 311508
       },
       {
-        "filesize": 290480,
         "style": "italic",
         "features": [
           "ccmp",
@@ -6423,17 +5975,15 @@
           "mkmk"
         ],
         "weight": 700,
-        "filename": "NotoSans-BoldItalic"
+        "filesize": 290480
       }
     ],
-    "slug": "notosans",
     "name": "Noto Sans"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 306804,
         "style": "normal",
         "features": [
           "ccmp",
@@ -6442,10 +5992,9 @@
           "mkmk"
         ],
         "weight": 400,
-        "filename": "NotoSansUI-Regular"
+        "filesize": 306804
       },
       {
-        "filesize": 279284,
         "style": "italic",
         "features": [
           "ccmp",
@@ -6454,10 +6003,9 @@
           "mkmk"
         ],
         "weight": 400,
-        "filename": "NotoSansUI-Italic"
+        "filesize": 279284
       },
       {
-        "filesize": 311496,
         "style": "normal",
         "features": [
           "ccmp",
@@ -6466,10 +6014,9 @@
           "mkmk"
         ],
         "weight": 700,
-        "filename": "NotoSansUI-Bold"
+        "filesize": 311496
       },
       {
-        "filesize": 290452,
         "style": "italic",
         "features": [
           "ccmp",
@@ -6478,17 +6025,15 @@
           "mkmk"
         ],
         "weight": 700,
-        "filename": "NotoSansUI-BoldItalic"
+        "filesize": 290452
       }
     ],
-    "slug": "notosansui",
     "name": "Noto Sans UI"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 379228,
         "style": "normal",
         "features": [
           "ccmp",
@@ -6497,10 +6042,9 @@
           "mkmk"
         ],
         "weight": 400,
-        "filename": "NotoSerif-Regular"
+        "filesize": 379228
       },
       {
-        "filesize": 353736,
         "style": "italic",
         "features": [
           "ccmp",
@@ -6509,10 +6053,9 @@
           "mkmk"
         ],
         "weight": 400,
-        "filename": "NotoSerif-Italic"
+        "filesize": 353736
       },
       {
-        "filesize": 399668,
         "style": "normal",
         "features": [
           "ccmp",
@@ -6521,10 +6064,9 @@
           "mkmk"
         ],
         "weight": 700,
-        "filename": "NotoSerif-Bold"
+        "filesize": 399668
       },
       {
-        "filesize": 363928,
         "style": "italic",
         "features": [
           "ccmp",
@@ -6533,17 +6075,15 @@
           "mkmk"
         ],
         "weight": 700,
-        "filename": "NotoSerif-BoldItalic"
+        "filesize": 363928
       }
     ],
-    "slug": "notoserif",
     "name": "Noto Serif"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 173520,
         "style": "normal",
         "features": [
           "aalt",
@@ -6564,10 +6104,9 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "OFLGoudyStMTT"
+        "filesize": 173520
       },
       {
-        "filesize": 161228,
         "style": "italic",
         "features": [
           "aalt",
@@ -6586,41 +6125,36 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "OFLGoudyStMTT-Italic"
+        "filesize": 161228
       }
     ],
-    "slug": "oflsortsmillgoudytt",
     "name": "OFL Sorts Mill Goudy TT"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 30840,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 400,
-        "filename": "Offside-Regular"
+        "filesize": 30840
       }
     ],
-    "slug": "offside",
     "name": "Offside"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 64784,
         "style": "normal",
         "features": [],
         "weight": 400,
-        "filename": "OldStandard-Regular"
+        "filesize": 64784
       },
       {
-        "filesize": 65852,
         "style": "italic",
         "features": [
           " RQD",
@@ -6632,24 +6166,21 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "OldStandard-Italic"
+        "filesize": 65852
       },
       {
-        "filesize": 65924,
         "style": "normal",
         "features": [],
         "weight": 700,
-        "filename": "OldStandard-Bold"
+        "filesize": 65924
       }
     ],
-    "slug": "oldstandardtt",
     "name": "Old Standard TT"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 221108,
         "style": "normal",
         "features": [
           "liga",
@@ -6663,10 +6194,9 @@
           "tnum"
         ],
         "weight": 300,
-        "filename": "OpenSans-CondLight"
+        "filesize": 221108
       },
       {
-        "filesize": 210804,
         "style": "italic",
         "features": [
           "liga",
@@ -6680,10 +6210,9 @@
           "tnum"
         ],
         "weight": 300,
-        "filename": "OpenSans-CondLightItalic"
+        "filesize": 210804
       },
       {
-        "filesize": 264372,
         "style": "normal",
         "features": [
           "aalt",
@@ -6699,17 +6228,15 @@
           "tnum"
         ],
         "weight": 700,
-        "filename": "OpenSans-CondBold"
+        "filesize": 264372
       }
     ],
-    "slug": "opensanscondensed",
     "name": "Open Sans Condensed"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 39484,
         "style": "normal",
         "features": [
           "aalt",
@@ -6721,10 +6248,9 @@
           "ss03"
         ],
         "weight": 400,
-        "filename": "Orbitron-Regular"
+        "filesize": 39484
       },
       {
-        "filesize": 39816,
         "style": "normal",
         "features": [
           "aalt",
@@ -6736,10 +6262,9 @@
           "ss03"
         ],
         "weight": 500,
-        "filename": "Orbitron-Medium"
+        "filesize": 39816
       },
       {
-        "filesize": 38580,
         "style": "normal",
         "features": [
           "aalt",
@@ -6751,10 +6276,9 @@
           "ss03"
         ],
         "weight": 700,
-        "filename": "Orbitron-Bold"
+        "filesize": 38580
       },
       {
-        "filesize": 37584,
         "style": "normal",
         "features": [
           "aalt",
@@ -6766,17 +6290,15 @@
           "ss03"
         ],
         "weight": 900,
-        "filename": "Orbitron-Black"
+        "filesize": 37584
       }
     ],
-    "slug": "orbitron",
     "name": "Orbitron"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 80320,
         "style": "normal",
         "features": [
           "aalt",
@@ -6787,10 +6309,9 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "Oregano-Regular"
+        "filesize": 80320
       },
       {
-        "filesize": 87000,
         "style": "italic",
         "features": [
           "aalt",
@@ -6801,17 +6322,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "Oregano-Italic"
+        "filesize": 87000
       }
     ],
-    "slug": "oregano",
     "name": "Oregano"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 57792,
         "style": "normal",
         "features": [
           "aalt",
@@ -6822,89 +6341,79 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "OriginalSurfer-Regular"
+        "filesize": 57792
       }
     ],
-    "slug": "originalsurfer",
     "name": "Original Surfer"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 44740,
         "style": "normal",
         "features": [
           "kern"
         ],
         "weight": 300,
-        "filename": "Oswald-Light"
+        "filesize": 44740
       },
       {
-        "filesize": 50944,
         "style": "normal",
         "features": [
           "kern"
         ],
         "weight": 400,
-        "filename": "Oswald-Regular"
+        "filesize": 50944
       },
       {
-        "filesize": 53056,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 700,
-        "filename": "Oswald-Bold"
+        "filesize": 53056
       }
     ],
-    "slug": "oswald",
     "name": "Oswald"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 43852,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 300,
-        "filename": "Oxygen-Light"
+        "filesize": 43852
       },
       {
-        "filesize": 48092,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 400,
-        "filename": "Oxygen-Regular"
+        "filesize": 48092
       },
       {
-        "filesize": 48812,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 700,
-        "filename": "Oxygen-Bold"
+        "filesize": 48812
       }
     ],
-    "slug": "oxygen",
     "name": "Oxygen"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 442960,
         "style": "normal",
         "features": [
           "aalt",
@@ -6919,10 +6428,9 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "PT_Sans-Web-Regular"
+        "filesize": 442960
       },
       {
-        "filesize": 436452,
         "style": "italic",
         "features": [
           "aalt",
@@ -6937,10 +6445,9 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "PT_Sans-Web-Italic"
+        "filesize": 436452
       },
       {
-        "filesize": 470240,
         "style": "normal",
         "features": [
           "aalt",
@@ -6955,10 +6462,9 @@
           "sups"
         ],
         "weight": 700,
-        "filename": "PT_Sans-Web-Bold"
+        "filesize": 470240
       },
       {
-        "filesize": 375204,
         "style": "italic",
         "features": [
           "aalt",
@@ -6973,17 +6479,15 @@
           "sups"
         ],
         "weight": 700,
-        "filename": "PT_Sans-Web-BoldItalic"
+        "filesize": 375204
       }
     ],
-    "slug": "ptsans",
     "name": "PT Sans"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 387192,
         "style": "normal",
         "features": [
           "aalt",
@@ -6998,10 +6502,9 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "PT_Sans-Caption-Web-Regular"
+        "filesize": 387192
       },
       {
-        "filesize": 398780,
         "style": "normal",
         "features": [
           "aalt",
@@ -7016,17 +6519,15 @@
           "sups"
         ],
         "weight": 700,
-        "filename": "PT_Sans-Caption-Web-Bold"
+        "filesize": 398780
       }
     ],
-    "slug": "ptsanscaption",
     "name": "PT Sans Caption"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 396212,
         "style": "normal",
         "features": [
           "aalt",
@@ -7041,10 +6542,9 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "PT_Sans-Narrow-Web-Regular"
+        "filesize": 396212
       },
       {
-        "filesize": 487720,
         "style": "normal",
         "features": [
           "aalt",
@@ -7059,17 +6559,15 @@
           "sups"
         ],
         "weight": 700,
-        "filename": "PT_Sans-Narrow-Web-Bold"
+        "filesize": 487720
       }
     ],
-    "slug": "ptsansnarrow",
     "name": "PT Sans Narrow"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 359048,
         "style": "normal",
         "features": [
           "aalt",
@@ -7082,10 +6580,9 @@
           "ordn"
         ],
         "weight": 400,
-        "filename": "PT_Serif-Web-Regular"
+        "filesize": 359048
       },
       {
-        "filesize": 375356,
         "style": "italic",
         "features": [
           "aalt",
@@ -7098,10 +6595,9 @@
           "ordn"
         ],
         "weight": 400,
-        "filename": "PT_Serif-Web-Italic"
+        "filesize": 375356
       },
       {
-        "filesize": 339996,
         "style": "normal",
         "features": [
           "aalt",
@@ -7114,10 +6610,9 @@
           "ordn"
         ],
         "weight": 700,
-        "filename": "PT_Serif-Web-Bold"
+        "filesize": 339996
       },
       {
-        "filesize": 337580,
         "style": "italic",
         "features": [
           "aalt",
@@ -7130,17 +6625,15 @@
           "ordn"
         ],
         "weight": 700,
-        "filename": "PT_Serif-Web-BoldItalic"
+        "filesize": 337580
       }
     ],
-    "slug": "ptserif",
     "name": "PT Serif"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 399840,
         "style": "normal",
         "features": [
           "aalt",
@@ -7153,10 +6646,9 @@
           "ordn"
         ],
         "weight": 400,
-        "filename": "PT_Serif-Caption-Web-Regular"
+        "filesize": 399840
       },
       {
-        "filesize": 406612,
         "style": "italic",
         "features": [
           "aalt",
@@ -7169,17 +6661,15 @@
           "ordn"
         ],
         "weight": 400,
-        "filename": "PT_Serif-Caption-Web-Italic"
+        "filesize": 406612
       }
     ],
-    "slug": "ptserifcaption",
     "name": "PT Serif Caption"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 42340,
         "style": "normal",
         "features": [
           "case",
@@ -7188,17 +6678,15 @@
           "liga"
         ],
         "weight": 400,
-        "filename": "Paprika-Regular"
+        "filesize": 42340
       }
     ],
-    "slug": "paprika",
     "name": "Paprika"
   },
   {
     "category": "Handwriting",
     "variants": [
       {
-        "filesize": 61248,
         "style": "normal",
         "features": [
           "aalt",
@@ -7209,17 +6697,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "Parisienne-Regular"
+        "filesize": 61248
       }
     ],
-    "slug": "parisienne",
     "name": "Parisienne"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 59600,
         "style": "normal",
         "features": [
           "aalt",
@@ -7230,81 +6716,72 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "Peralta-Regular"
+        "filesize": 59600
       }
     ],
-    "slug": "peralta",
     "name": "Peralta"
   },
   {
     "category": "Handwriting",
     "variants": [
       {
-        "filesize": 175068,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 400,
-        "filename": "PetitFormalScript-Regular"
+        "filesize": 175068
       }
     ],
-    "slug": "petitformalscript",
     "name": "Petit Formal Script"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 257540,
         "style": "normal",
         "features": [
           "frac",
           "kern"
         ],
         "weight": 400,
-        "filename": "Philosopher-Regular"
+        "filesize": 257540
       },
       {
-        "filesize": 240984,
         "style": "italic",
         "features": [
           "frac",
           "kern"
         ],
         "weight": 400,
-        "filename": "Philosopher-Italic"
+        "filesize": 240984
       },
       {
-        "filesize": 211380,
         "style": "normal",
         "features": [
           "frac",
           "kern"
         ],
         "weight": 700,
-        "filename": "Philosopher-Bold"
+        "filesize": 211380
       },
       {
-        "filesize": 220080,
         "style": "italic",
         "features": [
           "frac",
           "kern"
         ],
         "weight": 700,
-        "filename": "Philosopher-BoldItalic"
+        "filesize": 220080
       }
     ],
-    "slug": "philosopher",
     "name": "Philosopher"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 216264,
         "style": "normal",
         "features": [
           "aalt",
@@ -7329,10 +6806,9 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "PlayfairDisplay-Regular"
+        "filesize": 216264
       },
       {
-        "filesize": 208732,
         "style": "italic",
         "features": [
           "aalt",
@@ -7357,10 +6833,9 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "PlayfairDisplay-Italic"
+        "filesize": 208732
       },
       {
-        "filesize": 222412,
         "style": "normal",
         "features": [
           "aalt",
@@ -7385,10 +6860,9 @@
           "sups"
         ],
         "weight": 700,
-        "filename": "PlayfairDisplay-Bold"
+        "filesize": 222412
       },
       {
-        "filesize": 215552,
         "style": "italic",
         "features": [
           "aalt",
@@ -7413,10 +6887,9 @@
           "sups"
         ],
         "weight": 700,
-        "filename": "PlayfairDisplay-BoldItalic"
+        "filesize": 215552
       },
       {
-        "filesize": 219588,
         "style": "normal",
         "features": [
           "aalt",
@@ -7441,10 +6914,9 @@
           "sups"
         ],
         "weight": 900,
-        "filename": "PlayfairDisplay-Black"
+        "filesize": 219588
       },
       {
-        "filesize": 212048,
         "style": "italic",
         "features": [
           "aalt",
@@ -7469,17 +6941,15 @@
           "sups"
         ],
         "weight": 900,
-        "filename": "PlayfairDisplay-BlackItalic"
+        "filesize": 212048
       }
     ],
-    "slug": "playfairdisplay",
     "name": "Playfair Display"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 153236,
         "style": "normal",
         "features": [
           "aalt",
@@ -7502,10 +6972,9 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "PlayfairDisplaySC-Regular"
+        "filesize": 153236
       },
       {
-        "filesize": 149740,
         "style": "italic",
         "features": [
           "aalt",
@@ -7529,10 +6998,9 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "PlayfairDisplaySC-Italic"
+        "filesize": 149740
       },
       {
-        "filesize": 157092,
         "style": "normal",
         "features": [
           "aalt",
@@ -7555,10 +7023,9 @@
           "sups"
         ],
         "weight": 700,
-        "filename": "PlayfairDisplaySC-Bold"
+        "filesize": 157092
       },
       {
-        "filesize": 154024,
         "style": "italic",
         "features": [
           "aalt",
@@ -7582,10 +7049,9 @@
           "sups"
         ],
         "weight": 700,
-        "filename": "PlayfairDisplaySC-BoldItalic"
+        "filesize": 154024
       },
       {
-        "filesize": 155088,
         "style": "normal",
         "features": [
           "aalt",
@@ -7608,10 +7074,9 @@
           "sups"
         ],
         "weight": 900,
-        "filename": "PlayfairDisplaySC-Black"
+        "filesize": 155088
       },
       {
-        "filesize": 155512,
         "style": "italic",
         "features": [
           "aalt",
@@ -7635,17 +7100,15 @@
           "sups"
         ],
         "weight": 900,
-        "filename": "PlayfairDisplaySC-BlackItalic"
+        "filesize": 155512
       }
     ],
-    "slug": "playfairdisplaysc",
     "name": "Playfair Display SC"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 200920,
         "style": "normal",
         "features": [
           "frac",
@@ -7656,17 +7119,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "PoetsenOne-Regular"
+        "filesize": 200920
       }
     ],
-    "slug": "poetsenone",
     "name": "Poetsen One"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 31136,
         "style": "normal",
         "features": [
           "CAPS",
@@ -7677,17 +7138,15 @@
           "ss01"
         ],
         "weight": 400,
-        "filename": "Prociono-Regular"
+        "filesize": 31136
       }
     ],
-    "slug": "prociono",
     "name": "Prociono"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 62868,
         "style": "normal",
         "features": [
           "aalt",
@@ -7698,17 +7157,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "PurplePurse-Regular"
+        "filesize": 62868
       }
     ],
-    "slug": "purplepurse",
     "name": "Purple Purse"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 158200,
         "style": "normal",
         "features": [
           "aalt",
@@ -7720,10 +7177,9 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "Quattrocento-Regular"
+        "filesize": 158200
       },
       {
-        "filesize": 164948,
         "style": "normal",
         "features": [
           "aalt",
@@ -7735,17 +7191,15 @@
           "sups"
         ],
         "weight": 700,
-        "filename": "Quattrocento-Bold"
+        "filesize": 164948
       }
     ],
-    "slug": "quattrocento",
     "name": "Quattrocento"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 98340,
         "style": "normal",
         "features": [
           "aalt",
@@ -7756,10 +7210,9 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "QuattrocentoSans-Regular"
+        "filesize": 98340
       },
       {
-        "filesize": 108700,
         "style": "italic",
         "features": [
           "aalt",
@@ -7770,10 +7223,9 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "QuattrocentoSans-Italic"
+        "filesize": 108700
       },
       {
-        "filesize": 100560,
         "style": "normal",
         "features": [
           "aalt",
@@ -7784,10 +7236,9 @@
           "sups"
         ],
         "weight": 700,
-        "filename": "QuattrocentoSans-Bold"
+        "filesize": 100560
       },
       {
-        "filesize": 100748,
         "style": "italic",
         "features": [
           "aalt",
@@ -7798,17 +7249,15 @@
           "sups"
         ],
         "weight": 700,
-        "filename": "QuattrocentoSans-BoldItalic"
+        "filesize": 100748
       }
     ],
-    "slug": "quattrocentosans",
     "name": "Quattrocento Sans"
   },
   {
     "category": "Handwriting",
     "variants": [
       {
-        "filesize": 73892,
         "style": "normal",
         "features": [
           "aalt",
@@ -7819,17 +7268,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "Quintessential-Regular"
+        "filesize": 73892
       }
     ],
-    "slug": "quintessential",
     "name": "Quintessential"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 145796,
         "style": "normal",
         "features": [
           "dlig",
@@ -7839,44 +7286,39 @@
           "ss01"
         ],
         "weight": 400,
-        "filename": "RacingSansOne-Regular"
+        "filesize": 145796
       }
     ],
-    "slug": "racingsansone",
     "name": "Racing Sans One"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 90328,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 400,
-        "filename": "Radley-Regular"
+        "filesize": 90328
       },
       {
-        "filesize": 90744,
         "style": "italic",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 400,
-        "filename": "Radley-Italic"
+        "filesize": 90744
       }
     ],
-    "slug": "radley",
     "name": "Radley"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 175316,
         "style": "normal",
         "features": [
           "aalt",
@@ -7891,10 +7333,9 @@
           "ss02"
         ],
         "weight": 100,
-        "filename": "Raleway-Thin"
+        "filesize": 175316
       },
       {
-        "filesize": 174176,
         "style": "normal",
         "features": [
           "aalt",
@@ -7909,10 +7350,9 @@
           "ss02"
         ],
         "weight": 200,
-        "filename": "Raleway-ExtraLight"
+        "filesize": 174176
       },
       {
-        "filesize": 141688,
         "style": "italic",
         "features": [
           "aalt",
@@ -7927,10 +7367,9 @@
           "ss02"
         ],
         "weight": 250,
-        "filename": "Raleway-ExtraLightItalic"
+        "filesize": 141688
       },
       {
-        "filesize": 141964,
         "style": "italic",
         "features": [
           "aalt",
@@ -7945,10 +7384,9 @@
           "ss02"
         ],
         "weight": 250,
-        "filename": "Raleway-ThinItalic"
+        "filesize": 141964
       },
       {
-        "filesize": 180680,
         "style": "normal",
         "features": [
           "aalt",
@@ -7963,10 +7401,9 @@
           "ss02"
         ],
         "weight": 300,
-        "filename": "Raleway-Light"
+        "filesize": 180680
       },
       {
-        "filesize": 146512,
         "style": "italic",
         "features": [
           "aalt",
@@ -7981,10 +7418,9 @@
           "ss02"
         ],
         "weight": 300,
-        "filename": "Raleway-LightItalic"
+        "filesize": 146512
       },
       {
-        "filesize": 176188,
         "style": "normal",
         "features": [
           "aalt",
@@ -7999,10 +7435,9 @@
           "ss02"
         ],
         "weight": 400,
-        "filename": "Raleway-Regular"
+        "filesize": 176188
       },
       {
-        "filesize": 144500,
         "style": "italic",
         "features": [
           "aalt",
@@ -8017,10 +7452,9 @@
           "ss02"
         ],
         "weight": 400,
-        "filename": "Raleway-Italic"
+        "filesize": 144500
       },
       {
-        "filesize": 178116,
         "style": "normal",
         "features": [
           "aalt",
@@ -8035,10 +7469,9 @@
           "ss02"
         ],
         "weight": 500,
-        "filename": "Raleway-Medium"
+        "filesize": 178116
       },
       {
-        "filesize": 146304,
         "style": "italic",
         "features": [
           "aalt",
@@ -8053,10 +7486,9 @@
           "ss02"
         ],
         "weight": 500,
-        "filename": "Raleway-MediumItalic"
+        "filesize": 146304
       },
       {
-        "filesize": 177968,
         "style": "normal",
         "features": [
           "aalt",
@@ -8071,10 +7503,9 @@
           "ss02"
         ],
         "weight": 600,
-        "filename": "Raleway-SemiBold"
+        "filesize": 177968
       },
       {
-        "filesize": 145556,
         "style": "italic",
         "features": [
           "aalt",
@@ -8089,10 +7520,9 @@
           "ss02"
         ],
         "weight": 600,
-        "filename": "Raleway-SemiBoldItalic"
+        "filesize": 145556
       },
       {
-        "filesize": 176280,
         "style": "normal",
         "features": [
           "aalt",
@@ -8107,10 +7537,9 @@
           "ss02"
         ],
         "weight": 700,
-        "filename": "Raleway-Bold"
+        "filesize": 176280
       },
       {
-        "filesize": 146180,
         "style": "italic",
         "features": [
           "aalt",
@@ -8125,10 +7554,9 @@
           "ss02"
         ],
         "weight": 700,
-        "filename": "Raleway-BoldItalic"
+        "filesize": 146180
       },
       {
-        "filesize": 174492,
         "style": "normal",
         "features": [
           "aalt",
@@ -8143,10 +7571,9 @@
           "ss02"
         ],
         "weight": 800,
-        "filename": "Raleway-ExtraBold"
+        "filesize": 174492
       },
       {
-        "filesize": 145532,
         "style": "italic",
         "features": [
           "aalt",
@@ -8161,10 +7588,9 @@
           "ss02"
         ],
         "weight": 800,
-        "filename": "Raleway-ExtraBoldItalic"
+        "filesize": 145532
       },
       {
-        "filesize": 177664,
         "style": "normal",
         "features": [
           "aalt",
@@ -8179,10 +7605,9 @@
           "ss02"
         ],
         "weight": 900,
-        "filename": "Raleway-Black"
+        "filesize": 177664
       },
       {
-        "filesize": 145676,
         "style": "italic",
         "features": [
           "aalt",
@@ -8197,17 +7622,15 @@
           "ss02"
         ],
         "weight": 900,
-        "filename": "Raleway-BlackItalic"
+        "filesize": 145676
       }
     ],
-    "slug": "raleway",
     "name": "Raleway"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 465136,
         "style": "normal",
         "features": [
           "aalt",
@@ -8222,34 +7645,30 @@
           "ss02"
         ],
         "weight": 400,
-        "filename": "RalewayDots-Regular"
+        "filesize": 465136
       }
     ],
-    "slug": "ralewaydots",
     "name": "Raleway Dots"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 30420,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 400,
-        "filename": "RammettoOne-Regular"
+        "filesize": 30420
       }
     ],
-    "slug": "rammettoone",
     "name": "Rammetto One"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 167420,
         "style": "normal",
         "features": [
           "frac",
@@ -8260,17 +7679,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "Ranchers-Regular"
+        "filesize": 167420
       }
     ],
-    "slug": "ranchers",
     "name": "Ranchers"
   },
   {
     "category": "Handwriting",
     "variants": [
       {
-        "filesize": 79220,
         "style": "normal",
         "features": [
           "aalt",
@@ -8281,17 +7698,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "Redressed"
+        "filesize": 79220
       }
     ],
-    "slug": "redressed",
     "name": "Redressed"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 78492,
         "style": "normal",
         "features": [
           "aalt",
@@ -8302,17 +7717,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "Ribeye-Regular"
+        "filesize": 78492
       }
     ],
-    "slug": "ribeye",
     "name": "Ribeye"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 84896,
         "style": "normal",
         "features": [
           "aalt",
@@ -8323,17 +7736,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "RibeyeMarrow-Regular"
+        "filesize": 84896
       }
     ],
-    "slug": "ribeyemarrow",
     "name": "Ribeye Marrow"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 59392,
         "style": "normal",
         "features": [
           "aalt",
@@ -8344,17 +7755,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "Risque-Regular"
+        "filesize": 59392
       }
     ],
-    "slug": "risque",
     "name": "Risque"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 130044,
         "style": "normal",
         "features": [
           "kern",
@@ -8363,10 +7772,9 @@
           "smcp"
         ],
         "weight": 100,
-        "filename": "Roboto-Thin"
+        "filesize": 130044
       },
       {
-        "filesize": 132376,
         "style": "italic",
         "features": [
           "kern",
@@ -8375,10 +7783,9 @@
           "smcp"
         ],
         "weight": 100,
-        "filename": "Roboto-ThinItalic"
+        "filesize": 132376
       },
       {
-        "filesize": 140276,
         "style": "normal",
         "features": [
           "aalt",
@@ -8391,10 +7798,9 @@
           "ss02"
         ],
         "weight": 300,
-        "filename": "Roboto-Light"
+        "filesize": 140276
       },
       {
-        "filesize": 145932,
         "style": "italic",
         "features": [
           "aalt",
@@ -8406,20 +7812,18 @@
           "ss02"
         ],
         "weight": 300,
-        "filename": "Roboto-LightItalic"
+        "filesize": 145932
       },
       {
-        "filesize": 145348,
         "style": "normal",
         "features": [
           "aalt",
           "kern"
         ],
         "weight": 400,
-        "filename": "Roboto-Regular"
+        "filesize": 145348
       },
       {
-        "filesize": 148540,
         "style": "italic",
         "features": [
           "aalt",
@@ -8431,20 +7835,18 @@
           "ss02"
         ],
         "weight": 400,
-        "filename": "Roboto-Italic"
+        "filesize": 148540
       },
       {
-        "filesize": 137308,
         "style": "normal",
         "features": [
           "aalt",
           "kern"
         ],
         "weight": 500,
-        "filename": "Roboto-Medium"
+        "filesize": 137308
       },
       {
-        "filesize": 147876,
         "style": "italic",
         "features": [
           "aalt",
@@ -8456,20 +7858,18 @@
           "ss02"
         ],
         "weight": 500,
-        "filename": "Roboto-MediumItalic"
+        "filesize": 147876
       },
       {
-        "filesize": 135820,
         "style": "normal",
         "features": [
           "aalt",
           "kern"
         ],
         "weight": 700,
-        "filename": "Roboto-Bold"
+        "filesize": 135820
       },
       {
-        "filesize": 144700,
         "style": "italic",
         "features": [
           "aalt",
@@ -8481,10 +7881,9 @@
           "ss02"
         ],
         "weight": 700,
-        "filename": "Roboto-BoldItalic"
+        "filesize": 144700
       },
       {
-        "filesize": 142472,
         "style": "normal",
         "features": [
           "aalt",
@@ -8497,10 +7896,9 @@
           "ss02"
         ],
         "weight": 900,
-        "filename": "Roboto-Black"
+        "filesize": 142472
       },
       {
-        "filesize": 149644,
         "style": "italic",
         "features": [
           "aalt",
@@ -8512,17 +7910,15 @@
           "ss02"
         ],
         "weight": 900,
-        "filename": "Roboto-BlackItalic"
+        "filesize": 149644
       }
     ],
-    "slug": "roboto",
     "name": "Roboto"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 141384,
         "style": "normal",
         "features": [
           "aalt",
@@ -8534,10 +7930,9 @@
           "ss02"
         ],
         "weight": 300,
-        "filename": "RobotoCondensed-Light"
+        "filesize": 141384
       },
       {
-        "filesize": 145104,
         "style": "italic",
         "features": [
           "aalt",
@@ -8549,10 +7944,9 @@
           "ss02"
         ],
         "weight": 300,
-        "filename": "RobotoCondensed-LightItalic"
+        "filesize": 145104
       },
       {
-        "filesize": 140396,
         "style": "normal",
         "features": [
           "aalt",
@@ -8564,10 +7958,9 @@
           "ss02"
         ],
         "weight": 400,
-        "filename": "RobotoCondensed-Regular"
+        "filesize": 140396
       },
       {
-        "filesize": 144404,
         "style": "italic",
         "features": [
           "aalt",
@@ -8579,10 +7972,9 @@
           "ss02"
         ],
         "weight": 400,
-        "filename": "RobotoCondensed-Italic"
+        "filesize": 144404
       },
       {
-        "filesize": 141796,
         "style": "normal",
         "features": [
           "aalt",
@@ -8594,10 +7986,9 @@
           "ss02"
         ],
         "weight": 700,
-        "filename": "RobotoCondensed-Bold"
+        "filesize": 141796
       },
       {
-        "filesize": 145256,
         "style": "italic",
         "features": [
           "aalt",
@@ -8609,17 +8000,15 @@
           "ss02"
         ],
         "weight": 700,
-        "filename": "RobotoCondensed-BoldItalic"
+        "filesize": 145256
       }
     ],
-    "slug": "robotocondensed",
     "name": "Roboto Condensed"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 181156,
         "style": "normal",
         "features": [
           "kern",
@@ -8632,10 +8021,9 @@
           "ss04"
         ],
         "weight": 100,
-        "filename": "RobotoSlab-Thin"
+        "filesize": 181156
       },
       {
-        "filesize": 179096,
         "style": "normal",
         "features": [
           "kern",
@@ -8648,10 +8036,9 @@
           "ss04"
         ],
         "weight": 300,
-        "filename": "RobotoSlab-Light"
+        "filesize": 179096
       },
       {
-        "filesize": 169064,
         "style": "normal",
         "features": [
           "kern",
@@ -8664,10 +8051,9 @@
           "ss04"
         ],
         "weight": 400,
-        "filename": "RobotoSlab-Regular"
+        "filesize": 169064
       },
       {
-        "filesize": 170616,
         "style": "normal",
         "features": [
           "kern",
@@ -8680,50 +8066,44 @@
           "ss04"
         ],
         "weight": 700,
-        "filename": "RobotoSlab-Bold"
+        "filesize": 170616
       }
     ],
-    "slug": "robotoslab",
     "name": "Roboto Slab"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 24760,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 300,
-        "filename": "Rokkitt-Light"
+        "filesize": 24760
       },
       {
-        "filesize": 56716,
         "style": "normal",
         "features": [],
         "weight": 400,
-        "filename": "Rokkitt-Regular"
+        "filesize": 56716
       },
       {
-        "filesize": 62696,
         "style": "normal",
         "features": [
           "kern"
         ],
         "weight": 700,
-        "filename": "Rokkitt-Bold"
+        "filesize": 62696
       }
     ],
-    "slug": "rokkitt",
     "name": "Rokkitt"
   },
   {
     "category": "Handwriting",
     "variants": [
       {
-        "filesize": 52528,
         "style": "normal",
         "features": [
           "aalt",
@@ -8734,46 +8114,41 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "Romanesco-Regular"
+        "filesize": 52528
       }
     ],
-    "slug": "romanesco",
     "name": "Romanesco"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 62704,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 400,
-        "filename": "Rosario-Regular"
+        "filesize": 62704
       },
       {
-        "filesize": 61588,
         "style": "italic",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 400,
-        "filename": "Rosario-Italic"
+        "filesize": 61588
       },
       {
-        "filesize": 43316,
         "style": "normal",
         "features": [
           "kern"
         ],
         "weight": 700,
-        "filename": "Rosario-Bold"
+        "filesize": 43316
       },
       {
-        "filesize": 62672,
         "style": "italic",
         "features": [
           "aalt",
@@ -8784,43 +8159,38 @@
           "ordn"
         ],
         "weight": 700,
-        "filename": "Rosario-BoldItalic"
+        "filesize": 62672
       }
     ],
-    "slug": "rosario",
     "name": "Rosario"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 41344,
         "style": "normal",
         "features": [
           "kern",
           "lig\t"
         ],
         "weight": 400,
-        "filename": "Rosarivo-Regular"
+        "filesize": 41344
       },
       {
-        "filesize": 39244,
         "style": "italic",
         "features": [
           "kern"
         ],
         "weight": 400,
-        "filename": "Rosarivo-Italic"
+        "filesize": 39244
       }
     ],
-    "slug": "rosarivo",
     "name": "Rosarivo"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 61812,
         "style": "normal",
         "features": [
           "aalt",
@@ -8831,17 +8201,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "RumRaisin-Regular"
+        "filesize": 61812
       }
     ],
-    "slug": "rumraisin",
     "name": "Rum Raisin"
   },
   {
     "category": "Handwriting",
     "variants": [
       {
-        "filesize": 79696,
         "style": "normal",
         "features": [
           "aalt",
@@ -8852,17 +8220,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "Sacramento-Regular"
+        "filesize": 79696
       }
     ],
-    "slug": "sacramento",
     "name": "Sacramento"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 56680,
         "style": "normal",
         "features": [
           "fina",
@@ -8872,17 +8238,15 @@
           "swsh"
         ],
         "weight": 400,
-        "filename": "Salsa-Regular"
+        "filesize": 56680
       }
     ],
-    "slug": "salsa",
     "name": "Salsa"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 72552,
         "style": "normal",
         "features": [
           "kern",
@@ -8890,10 +8254,9 @@
           "salt"
         ],
         "weight": 400,
-        "filename": "Sanchez-Regular"
+        "filesize": 72552
       },
       {
-        "filesize": 75212,
         "style": "italic",
         "features": [
           "aalt",
@@ -8902,17 +8265,15 @@
           "salt"
         ],
         "weight": 400,
-        "filename": "Sanchez-Italic"
+        "filesize": 75212
       }
     ],
-    "slug": "sanchez",
     "name": "Sanchez"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 300108,
         "style": "normal",
         "features": [
           "ccmp",
@@ -8922,10 +8283,9 @@
           "rlig"
         ],
         "weight": 400,
-        "filename": "Sarabun-Regular"
+        "filesize": 300108
       },
       {
-        "filesize": 98848,
         "style": "italic",
         "features": [
           "ccmp",
@@ -8935,10 +8295,9 @@
           "rlig"
         ],
         "weight": 400,
-        "filename": "Sarabun-Italic"
+        "filesize": 98848
       },
       {
-        "filesize": 244956,
         "style": "normal",
         "features": [
           "ccmp",
@@ -8948,10 +8307,9 @@
           "rlig"
         ],
         "weight": 700,
-        "filename": "Sarabun-Bold"
+        "filesize": 244956
       },
       {
-        "filesize": 99568,
         "style": "italic",
         "features": [
           "ccmp",
@@ -8961,26 +8319,23 @@
           "rlig"
         ],
         "weight": 700,
-        "filename": "Sarabun-BoldItalic"
+        "filesize": 99568
       }
     ],
-    "slug": "sarabun",
     "name": "Sarabun"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 37072,
         "style": "normal",
         "features": [
           "kern"
         ],
         "weight": 400,
-        "filename": "Sedan-Regular"
+        "filesize": 37072
       },
       {
-        "filesize": 38808,
         "style": "italic",
         "features": [
           "aalt",
@@ -8988,17 +8343,15 @@
           "onum"
         ],
         "weight": 400,
-        "filename": "Sedan-Italic"
+        "filesize": 38808
       }
     ],
-    "slug": "sedan",
     "name": "Sedan"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 162872,
         "style": "normal",
         "features": [
           "aalt",
@@ -9006,17 +8359,15 @@
           "kern"
         ],
         "weight": 400,
-        "filename": "Sevillana-Regular"
+        "filesize": 162872
       }
     ],
-    "slug": "sevillana",
     "name": "Sevillana"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 91940,
         "style": "normal",
         "features": [
           "aalt",
@@ -9029,10 +8380,9 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "Share-Regular"
+        "filesize": 91940
       },
       {
-        "filesize": 76608,
         "style": "italic",
         "features": [
           "aalt",
@@ -9045,10 +8395,9 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "Share-Italic"
+        "filesize": 76608
       },
       {
-        "filesize": 91048,
         "style": "normal",
         "features": [
           "aalt",
@@ -9061,10 +8410,9 @@
           "sups"
         ],
         "weight": 700,
-        "filename": "Share-Bold"
+        "filesize": 91048
       },
       {
-        "filesize": 75836,
         "style": "italic",
         "features": [
           "aalt",
@@ -9077,17 +8425,15 @@
           "sups"
         ],
         "weight": 700,
-        "filename": "Share-BoldItalic"
+        "filesize": 75836
       }
     ],
-    "slug": "share",
     "name": "Share"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 29536,
         "style": "normal",
         "features": [
           "aalt",
@@ -9100,17 +8446,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "ShareTech-Regular"
+        "filesize": 29536
       }
     ],
-    "slug": "sharetech",
     "name": "Share Tech"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 71672,
         "style": "normal",
         "features": [
           "aalt",
@@ -9121,17 +8465,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "Shojumaru-Regular"
+        "filesize": 71672
       }
     ],
-    "slug": "shojumaru",
     "name": "Shojumaru"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 134108,
         "style": "normal",
         "features": [
           "aalt",
@@ -9141,10 +8483,9 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "Simonetta-Regular"
+        "filesize": 134108
       },
       {
-        "filesize": 126988,
         "style": "italic",
         "features": [
           "aalt",
@@ -9154,10 +8495,9 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "Simonetta-Italic"
+        "filesize": 126988
       },
       {
-        "filesize": 124700,
         "style": "normal",
         "features": [
           "aalt",
@@ -9167,10 +8507,9 @@
           "liga"
         ],
         "weight": 900,
-        "filename": "Simonetta-Black"
+        "filesize": 124700
       },
       {
-        "filesize": 123036,
         "style": "italic",
         "features": [
           "aalt",
@@ -9180,44 +8519,39 @@
           "liga"
         ],
         "weight": 900,
-        "filename": "Simonetta-BlackItalic"
+        "filesize": 123036
       }
     ],
-    "slug": "simonetta",
     "name": "Simonetta"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 25712,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 400,
-        "filename": "Sintony-Regular"
+        "filesize": 25712
       },
       {
-        "filesize": 26016,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 700,
-        "filename": "Sintony-Bold"
+        "filesize": 26016
       }
     ],
-    "slug": "sintony",
     "name": "Sintony"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 55796,
         "style": "normal",
         "features": [
           "case",
@@ -9226,17 +8560,15 @@
           "liga"
         ],
         "weight": 400,
-        "filename": "Slabo13px-Regular"
+        "filesize": 55796
       }
     ],
-    "slug": "slabo13px",
     "name": "Slabo 13px"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 56088,
         "style": "normal",
         "features": [
           "case",
@@ -9245,44 +8577,39 @@
           "liga"
         ],
         "weight": 400,
-        "filename": "Slabo27px-Regular"
+        "filesize": 56088
       }
     ],
-    "slug": "slabo27px",
     "name": "Slabo 27px"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 75212,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 400,
-        "filename": "Sniglet-Regular"
+        "filesize": 75212
       },
       {
-        "filesize": 74228,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 800,
-        "filename": "Sniglet-ExtraBold"
+        "filesize": 74228
       }
     ],
-    "slug": "sniglet",
     "name": "Sniglet"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 121372,
         "style": "normal",
         "features": [
           "aalt",
@@ -9303,10 +8630,9 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "SortsMillGoudy-Regular"
+        "filesize": 121372
       },
       {
-        "filesize": 105684,
         "style": "italic",
         "features": [
           "aalt",
@@ -9325,17 +8651,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "SortsMillGoudy-Italic"
+        "filesize": 105684
       }
     ],
-    "slug": "sortsmillgoudy",
     "name": "Sorts Mill Goudy"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 150528,
         "style": "normal",
         "features": [
           "aalt",
@@ -9366,10 +8690,9 @@
           "zero"
         ],
         "weight": 200,
-        "filename": "SourceSansPro-ExtraLight"
+        "filesize": 150528
       },
       {
-        "filesize": 117140,
         "style": "italic",
         "features": [
           "aalt",
@@ -9398,10 +8721,9 @@
           "zero"
         ],
         "weight": 200,
-        "filename": "SourceSansPro-ExtraLightItalic"
+        "filesize": 117140
       },
       {
-        "filesize": 150244,
         "style": "normal",
         "features": [
           "aalt",
@@ -9432,10 +8754,9 @@
           "zero"
         ],
         "weight": 300,
-        "filename": "SourceSansPro-Light"
+        "filesize": 150244
       },
       {
-        "filesize": 116960,
         "style": "italic",
         "features": [
           "aalt",
@@ -9464,10 +8785,9 @@
           "zero"
         ],
         "weight": 300,
-        "filename": "SourceSansPro-LightItalic"
+        "filesize": 116960
       },
       {
-        "filesize": 149972,
         "style": "normal",
         "features": [
           "aalt",
@@ -9498,10 +8818,9 @@
           "zero"
         ],
         "weight": 400,
-        "filename": "SourceSansPro-Regular"
+        "filesize": 149972
       },
       {
-        "filesize": 117328,
         "style": "italic",
         "features": [
           "aalt",
@@ -9530,10 +8849,9 @@
           "zero"
         ],
         "weight": 400,
-        "filename": "SourceSansPro-Italic"
+        "filesize": 117328
       },
       {
-        "filesize": 149636,
         "style": "normal",
         "features": [
           "aalt",
@@ -9564,10 +8882,9 @@
           "zero"
         ],
         "weight": 600,
-        "filename": "SourceSansPro-Semibold"
+        "filesize": 149636
       },
       {
-        "filesize": 116424,
         "style": "italic",
         "features": [
           "aalt",
@@ -9596,10 +8913,9 @@
           "zero"
         ],
         "weight": 600,
-        "filename": "SourceSansPro-SemiboldItalic"
+        "filesize": 116424
       },
       {
-        "filesize": 148932,
         "style": "normal",
         "features": [
           "aalt",
@@ -9630,10 +8946,9 @@
           "zero"
         ],
         "weight": 700,
-        "filename": "SourceSansPro-Bold"
+        "filesize": 148932
       },
       {
-        "filesize": 116192,
         "style": "italic",
         "features": [
           "aalt",
@@ -9662,10 +8977,9 @@
           "zero"
         ],
         "weight": 700,
-        "filename": "SourceSansPro-BoldItalic"
+        "filesize": 116192
       },
       {
-        "filesize": 148368,
         "style": "normal",
         "features": [
           "aalt",
@@ -9696,10 +9010,9 @@
           "zero"
         ],
         "weight": 900,
-        "filename": "SourceSansPro-Black"
+        "filesize": 148368
       },
       {
-        "filesize": 116360,
         "style": "italic",
         "features": [
           "aalt",
@@ -9728,17 +9041,15 @@
           "zero"
         ],
         "weight": 900,
-        "filename": "SourceSansPro-BlackItalic"
+        "filesize": 116360
       }
     ],
-    "slug": "sourcesanspro",
     "name": "Source Sans Pro"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 113640,
         "style": "normal",
         "features": [
           "aalt",
@@ -9760,10 +9071,9 @@
           "zero"
         ],
         "weight": 400,
-        "filename": "SourceSerifPro-Regular"
+        "filesize": 113640
       },
       {
-        "filesize": 114352,
         "style": "normal",
         "features": [
           "aalt",
@@ -9785,10 +9095,9 @@
           "zero"
         ],
         "weight": 600,
-        "filename": "SourceSerifPro-Semibold"
+        "filesize": 114352
       },
       {
-        "filesize": 113188,
         "style": "normal",
         "features": [
           "aalt",
@@ -9810,17 +9119,15 @@
           "zero"
         ],
         "weight": 700,
-        "filename": "SourceSerifPro-Bold"
+        "filesize": 113188
       }
     ],
-    "slug": "sourceserifpro",
     "name": "Source Serif Pro"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 166224,
         "style": "normal",
         "features": [
           "aalt",
@@ -9831,17 +9138,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "SpecialElite"
+        "filesize": 166224
       }
     ],
-    "slug": "specialelite",
     "name": "Special Elite"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 67244,
         "style": "normal",
         "features": [
           "aalt",
@@ -9852,17 +9157,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "SpicyRice-Regular"
+        "filesize": 67244
       }
     ],
-    "slug": "spicyrice",
     "name": "Spicy Rice"
   },
   {
     "category": "Handwriting",
     "variants": [
       {
-        "filesize": 75356,
         "style": "normal",
         "features": [
           "aalt",
@@ -9873,17 +9176,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "Stalemate-Regular"
+        "filesize": 75356
       }
     ],
-    "slug": "stalemate",
     "name": "Stalemate"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 40272,
         "style": "normal",
         "features": [
           "aalt",
@@ -9894,17 +9195,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "StintUltraCondensed-Regular"
+        "filesize": 40272
       }
     ],
-    "slug": "stintultracondensed",
     "name": "Stint Ultra Condensed"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 42788,
         "style": "normal",
         "features": [
           "aalt",
@@ -9915,17 +9214,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "StintUltraExpanded-Regular"
+        "filesize": 42788
       }
     ],
-    "slug": "stintultraexpanded",
     "name": "Stint Ultra Expanded"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 135248,
         "style": "normal",
         "features": [
           "aalt",
@@ -9941,10 +9238,9 @@
           "ss05"
         ],
         "weight": 200,
-        "filename": "TerminalDosis-ExtraLight"
+        "filesize": 135248
       },
       {
-        "filesize": 136484,
         "style": "normal",
         "features": [
           "aalt",
@@ -9960,10 +9256,9 @@
           "ss05"
         ],
         "weight": 300,
-        "filename": "TerminalDosis-Light"
+        "filesize": 136484
       },
       {
-        "filesize": 137048,
         "style": "normal",
         "features": [
           "aalt",
@@ -9979,10 +9274,9 @@
           "ss05"
         ],
         "weight": 400,
-        "filename": "TerminalDosis-Regular"
+        "filesize": 137048
       },
       {
-        "filesize": 136552,
         "style": "normal",
         "features": [
           "aalt",
@@ -9998,10 +9292,9 @@
           "ss05"
         ],
         "weight": 500,
-        "filename": "TerminalDosis-Medium"
+        "filesize": 136552
       },
       {
-        "filesize": 135624,
         "style": "normal",
         "features": [
           "aalt",
@@ -10017,10 +9310,9 @@
           "ss05"
         ],
         "weight": 600,
-        "filename": "TerminalDosis-SemiBold"
+        "filesize": 135624
       },
       {
-        "filesize": 136188,
         "style": "normal",
         "features": [
           "aalt",
@@ -10036,10 +9328,9 @@
           "ss05"
         ],
         "weight": 700,
-        "filename": "TerminalDosis-Bold"
+        "filesize": 136188
       },
       {
-        "filesize": 136976,
         "style": "normal",
         "features": [
           "aalt",
@@ -10055,17 +9346,15 @@
           "ss05"
         ],
         "weight": 800,
-        "filename": "TerminalDosis-ExtraBold"
+        "filesize": 136976
       }
     ],
-    "slug": "terminaldosis",
     "name": "Terminal Dosis"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 109500,
         "style": "normal",
         "features": [
           "aalt",
@@ -10079,17 +9368,15 @@
           "ss04"
         ],
         "weight": 400,
-        "filename": "TerminalDosis-Light"
+        "filesize": 109500
       }
     ],
-    "slug": "terminaldosislight",
     "name": "Terminal Dosis Light"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 475996,
         "style": "normal",
         "features": [
           "ccmp",
@@ -10098,10 +9385,9 @@
           "mkmk"
         ],
         "weight": 400,
-        "filename": "Tinos-Regular"
+        "filesize": 475996
       },
       {
-        "filesize": 456156,
         "style": "italic",
         "features": [
           "ccmp",
@@ -10110,10 +9396,9 @@
           "mkmk"
         ],
         "weight": 400,
-        "filename": "Tinos-Italic"
+        "filesize": 456156
       },
       {
-        "filesize": 452284,
         "style": "normal",
         "features": [
           "ccmp",
@@ -10122,10 +9407,9 @@
           "mkmk"
         ],
         "weight": 700,
-        "filename": "Tinos-Bold"
+        "filesize": 452284
       },
       {
-        "filesize": 457320,
         "style": "italic",
         "features": [
           "ccmp",
@@ -10134,17 +9418,15 @@
           "mkmk"
         ],
         "weight": 700,
-        "filename": "Tinos-BoldItalic"
+        "filesize": 457320
       }
     ],
-    "slug": "tinos",
     "name": "Tinos"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 63124,
         "style": "normal",
         "features": [
           "case",
@@ -10154,10 +9436,9 @@
           "locl"
         ],
         "weight": 200,
-        "filename": "TitilliumWeb-ExtraLight"
+        "filesize": 63124
       },
       {
-        "filesize": 67788,
         "style": "italic",
         "features": [
           "case",
@@ -10167,10 +9448,9 @@
           "locl"
         ],
         "weight": 200,
-        "filename": "TitilliumWeb-ExtraLightItalic"
+        "filesize": 67788
       },
       {
-        "filesize": 64032,
         "style": "normal",
         "features": [
           "case",
@@ -10180,10 +9460,9 @@
           "locl"
         ],
         "weight": 300,
-        "filename": "TitilliumWeb-Light"
+        "filesize": 64032
       },
       {
-        "filesize": 71720,
         "style": "italic",
         "features": [
           "case",
@@ -10193,10 +9472,9 @@
           "locl"
         ],
         "weight": 300,
-        "filename": "TitilliumWeb-LightItalic"
+        "filesize": 71720
       },
       {
-        "filesize": 63752,
         "style": "normal",
         "features": [
           "case",
@@ -10206,10 +9484,9 @@
           "locl"
         ],
         "weight": 400,
-        "filename": "TitilliumWeb-Regular"
+        "filesize": 63752
       },
       {
-        "filesize": 72416,
         "style": "italic",
         "features": [
           "case",
@@ -10219,10 +9496,9 @@
           "locl"
         ],
         "weight": 400,
-        "filename": "TitilliumWeb-Italic"
+        "filesize": 72416
       },
       {
-        "filesize": 63044,
         "style": "normal",
         "features": [
           "case",
@@ -10232,10 +9508,9 @@
           "locl"
         ],
         "weight": 600,
-        "filename": "TitilliumWeb-SemiBold"
+        "filesize": 63044
       },
       {
-        "filesize": 71812,
         "style": "italic",
         "features": [
           "case",
@@ -10245,10 +9520,9 @@
           "locl"
         ],
         "weight": 600,
-        "filename": "TitilliumWeb-SemiBoldItalic"
+        "filesize": 71812
       },
       {
-        "filesize": 59908,
         "style": "normal",
         "features": [
           "case",
@@ -10258,10 +9532,9 @@
           "locl"
         ],
         "weight": 700,
-        "filename": "TitilliumWeb-Bold"
+        "filesize": 59908
       },
       {
-        "filesize": 69796,
         "style": "italic",
         "features": [
           "case",
@@ -10271,10 +9544,9 @@
           "locl"
         ],
         "weight": 700,
-        "filename": "TitilliumWeb-BoldItalic"
+        "filesize": 69796
       },
       {
-        "filesize": 49356,
         "style": "normal",
         "features": [
           "case",
@@ -10284,17 +9556,15 @@
           "locl"
         ],
         "weight": 900,
-        "filename": "TitilliumWeb-Black"
+        "filesize": 49356
       }
     ],
-    "slug": "titilliumweb",
     "name": "Titillium Web"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 143880,
         "style": "normal",
         "features": [
           "dlig",
@@ -10302,17 +9572,15 @@
           "liga"
         ],
         "weight": 400,
-        "filename": "Trocchi-Regular"
+        "filesize": 143880
       }
     ],
-    "slug": "trocchi",
     "name": "Trocchi"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 137224,
         "style": "normal",
         "features": [
           "frac",
@@ -10321,10 +9589,9 @@
           "locl"
         ],
         "weight": 400,
-        "filename": "Tuffy-Regular"
+        "filesize": 137224
       },
       {
-        "filesize": 218664,
         "style": "italic",
         "features": [
           "frac",
@@ -10333,35 +9600,31 @@
           "locl"
         ],
         "weight": 400,
-        "filename": "Tuffy-Italic"
+        "filesize": 218664
       },
       {
-        "filesize": 93532,
         "style": "normal",
         "features": [
           "kern"
         ],
         "weight": 700,
-        "filename": "Tuffy-Bold"
+        "filesize": 93532
       },
       {
-        "filesize": 111540,
         "style": "italic",
         "features": [
           "kern"
         ],
         "weight": 700,
-        "filename": "Tuffy-BoldItalic"
+        "filesize": 111540
       }
     ],
-    "slug": "tuffy",
     "name": "Tuffy"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 415552,
         "style": "normal",
         "features": [
           "case",
@@ -10380,10 +9643,9 @@
           "tnum"
         ],
         "weight": 300,
-        "filename": "Ubuntu-Light"
+        "filesize": 415552
       },
       {
-        "filesize": 409608,
         "style": "italic",
         "features": [
           "case",
@@ -10403,10 +9665,9 @@
           "tnum"
         ],
         "weight": 300,
-        "filename": "Ubuntu-LightItalic"
+        "filesize": 409608
       },
       {
-        "filesize": 353824,
         "style": "normal",
         "features": [
           "case",
@@ -10425,10 +9686,9 @@
           "tnum"
         ],
         "weight": 400,
-        "filename": "Ubuntu-Regular"
+        "filesize": 353824
       },
       {
-        "filesize": 386440,
         "style": "italic",
         "features": [
           "case",
@@ -10447,10 +9707,9 @@
           "tnum"
         ],
         "weight": 400,
-        "filename": "Ubuntu-Italic"
+        "filesize": 386440
       },
       {
-        "filesize": 341324,
         "style": "normal",
         "features": [
           "case",
@@ -10469,10 +9728,9 @@
           "tnum"
         ],
         "weight": 500,
-        "filename": "Ubuntu-Medium"
+        "filesize": 341324
       },
       {
-        "filesize": 366992,
         "style": "italic",
         "features": [
           "case",
@@ -10491,10 +9749,9 @@
           "tnum"
         ],
         "weight": 500,
-        "filename": "Ubuntu-MediumItalic"
+        "filesize": 366992
       },
       {
-        "filesize": 333616,
         "style": "normal",
         "features": [
           "case",
@@ -10513,10 +9770,9 @@
           "tnum"
         ],
         "weight": 700,
-        "filename": "Ubuntu-Bold"
+        "filesize": 333616
       },
       {
-        "filesize": 356980,
         "style": "italic",
         "features": [
           "case",
@@ -10535,17 +9791,15 @@
           "tnum"
         ],
         "weight": 700,
-        "filename": "Ubuntu-BoldItalic"
+        "filesize": 356980
       }
     ],
-    "slug": "ubuntu",
     "name": "Ubuntu"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 350420,
         "style": "normal",
         "features": [
           "case",
@@ -10564,17 +9818,15 @@
           "tnum"
         ],
         "weight": 400,
-        "filename": "UbuntuCondensed-Regular"
+        "filesize": 350420
       }
     ],
-    "slug": "ubuntucondensed",
     "name": "Ubuntu Condensed"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 63404,
         "style": "normal",
         "features": [
           "aalt",
@@ -10585,17 +9837,15 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "UncialAntiqua-Regular"
+        "filesize": 63404
       }
     ],
-    "slug": "uncialantiqua",
     "name": "Uncial Antiqua"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 166860,
         "style": "normal",
         "features": [
           "aalt",
@@ -10622,10 +9872,9 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "VesperLibre-Regular"
+        "filesize": 166860
       },
       {
-        "filesize": 169692,
         "style": "normal",
         "features": [
           "aalt",
@@ -10652,10 +9901,9 @@
           "sups"
         ],
         "weight": 500,
-        "filename": "VesperLibre-Medium"
+        "filesize": 169692
       },
       {
-        "filesize": 168324,
         "style": "normal",
         "features": [
           "aalt",
@@ -10682,10 +9930,9 @@
           "sups"
         ],
         "weight": 700,
-        "filename": "VesperLibre-Bold"
+        "filesize": 168324
       },
       {
-        "filesize": 166348,
         "style": "normal",
         "features": [
           "aalt",
@@ -10712,34 +9959,30 @@
           "sups"
         ],
         "weight": 900,
-        "filename": "VesperLibre-Heavy"
+        "filesize": 166348
       }
     ],
-    "slug": "vesperlibre",
     "name": "Vesper Libre"
   },
   {
     "category": "Handwriting",
     "variants": [
       {
-        "filesize": 173604,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 400,
-        "filename": "Vibur-Regular"
+        "filesize": 173604
       }
     ],
-    "slug": "vibur",
     "name": "Vibur"
   },
   {
     "category": "Serif",
     "variants": [
       {
-        "filesize": 62004,
         "style": "normal",
         "features": [
           "aalt",
@@ -10749,10 +9992,9 @@
           "liga"
         ],
         "weight": 400,
-        "filename": "Vollkorn-Regular"
+        "filesize": 62004
       },
       {
-        "filesize": 57552,
         "style": "italic",
         "features": [
           "aalt",
@@ -10766,10 +10008,9 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "Vollkorn-Italic"
+        "filesize": 57552
       },
       {
-        "filesize": 68608,
         "style": "normal",
         "features": [
           "aalt",
@@ -10779,10 +10020,9 @@
           "liga"
         ],
         "weight": 700,
-        "filename": "Vollkorn-Bold"
+        "filesize": 68608
       },
       {
-        "filesize": 55208,
         "style": "italic",
         "features": [
           "aalt",
@@ -10796,34 +10036,30 @@
           "sups"
         ],
         "weight": 700,
-        "filename": "Vollkorn-BoldItalic"
+        "filesize": 55208
       }
     ],
-    "slug": "vollkorn",
     "name": "Vollkorn"
   },
   {
     "category": "Display",
     "variants": [
       {
-        "filesize": 99012,
         "style": "normal",
         "features": [
           "kern",
           "liga"
         ],
         "weight": 400,
-        "filename": "Warnes-Regular"
+        "filesize": 99012
       }
     ],
-    "slug": "warnes",
     "name": "Warnes"
   },
   {
     "category": "Sans Serif",
     "variants": [
       {
-        "filesize": 86288,
         "style": "normal",
         "features": [
           "aalt",
@@ -10845,10 +10081,9 @@
           "sups"
         ],
         "weight": 200,
-        "filename": "YanoneKaffeesatz-ExtraLight"
+        "filesize": 86288
       },
       {
-        "filesize": 92000,
         "style": "normal",
         "features": [
           "aalt",
@@ -10870,10 +10105,9 @@
           "sups"
         ],
         "weight": 300,
-        "filename": "YanoneKaffeesatz-Light"
+        "filesize": 92000
       },
       {
-        "filesize": 92724,
         "style": "normal",
         "features": [
           "aalt",
@@ -10895,10 +10129,9 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "YanoneKaffeesatz-Regular"
+        "filesize": 92724
       },
       {
-        "filesize": 90840,
         "style": "normal",
         "features": [
           "aalt",
@@ -10920,17 +10153,15 @@
           "sups"
         ],
         "weight": 700,
-        "filename": "YanoneKaffeesatz-Bold"
+        "filesize": 90840
       }
     ],
-    "slug": "yanonekaffeesatz",
     "name": "Yanone Kaffeesatz"
   },
   {
     "category": "Handwriting",
     "variants": [
       {
-        "filesize": 64856,
         "style": "normal",
         "features": [
           "aalt",
@@ -10941,10 +10172,9 @@
           "sups"
         ],
         "weight": 400,
-        "filename": "Yesteryear-Regular"
+        "filesize": 64856
       }
     ],
-    "slug": "yesteryear",
     "name": "Yesteryear"
   }
 ]

@@ -173,7 +173,6 @@ def import_fonts(root, whitelist=None):
 
         font = dict(
             name=info['name'],
-            slug=basename, # for the css filename/url
             category=info['category'],
             variants=[]
         )
@@ -201,7 +200,6 @@ def import_fonts(root, whitelist=None):
             font['variants'].append(dict(
                 weight=variant['weight'],
                 style=variant['style'],
-                filename=name,
                 filesize=filesize,
                 features=features
             ))
@@ -216,7 +214,7 @@ def import_fonts(root, whitelist=None):
     fonts.sort(key=operator.itemgetter('name'))
 
     write_json(fonts)
-    write_html(fonts)
+    #write_html(fonts)
 
 def load_whitelist(whitelist_path):
     whitelist = []
