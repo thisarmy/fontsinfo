@@ -95,11 +95,7 @@ def write_html(fonts):
 
       html += '<div class="variants">'
       for variant in font['variants']:
-
         variantname = combine_variant(variant['weight'], variant['style'])
-        #variantname = str(variant['weight'])
-        #if variant['style'] == 'italic':
-        #  variantname += variant['style']
         html += '<div class="variantname">'+variantname+'</div>'
       html += '</div>'
 
@@ -107,6 +103,11 @@ def write_html(fonts):
 
       html += '<div class="features">'
       for featurename in features:
+        # ignore kerning because we use that as a minimum requirement, so they
+        # all have it. We're interested in more interesting features only.
+        if featurename == 'kern':
+          continue
+
         # they split the features into multiple pages by letter range..
         # also: lol @ .htm files
         letter = str(featurename[0])
@@ -206,8 +207,9 @@ def import_fonts(root, whitelist=None):
             ))
 
         # only include fonts with features
+        # must have kerning and at least one other feature
         unique = unique_features(font)
-        if len(unique) > 0:
+        if len(unique) > 1 and 'kern' in unique:
           print font['name']+' '+str(unique)
           fonts.append(font)
 
