@@ -7,6 +7,11 @@ body {
   color: #222;
 }
 
+a {
+  color: #000;
+  text-decoration: none;
+}
+
 .ui {
   .flex-display();
   min-height: 100vh;
@@ -15,11 +20,13 @@ body {
 .ui > * {
   .box-sizing(border-box);
   padding: 60px 30px;
+  max-height: 100vh;
+  overflow: auto;
 }
 
 .font-selector,
-.test-selector {
-  width: 28%;
+.feature-selector {
+  width: 25%;
 }
 
 .previewer {
@@ -27,15 +34,65 @@ body {
   box-shadow: 0 0 4px 0 #dddddd;
   flex: 1;
 
+}
+
+.preview {
+  font-size: 48px;
+  line-height: 1.1em;
+  p {
+    -ms-font-feature-settings: inherit;
+    -moz-font-feature-settings: inherit;
+    -webkit-font-feature-settings: inherit;
+    font-feature-settings: inherit;
+  }
+  p + p {
+    margin-top: 24px;
+  }
+  text-rendering: optimizeLegibility;
   &:focus {
     outline: none;
   }
 }
 
-.help {
+.fonts {
+  .font {
+    display: block;
+  }
+
+  .font + .font {
+    margin-top: 20px;
+  }
+
+  .fontname {
+    font-weight: bold;
+  }
+
+  .variantname,
+  .featurename {
+    display: inline-block;
+  }
+
+  .variantname {
+    cursor: pointer;
+  }
+
+  .featurename {
+    &.complete {
+    }
+    &.partial {
+      font-style: italic;
+    }
+  }
 }
 
-.preview {
-  font-size: 20px;
-  line-height: 26px;
+.font-info {
+  font-weight: bold;
+}
+.font-info * {
+  display: inline-block;
+}
+
+.features label {
+  display: block;
+  margin-top: 10px;
 }

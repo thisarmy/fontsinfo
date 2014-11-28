@@ -5,35 +5,33 @@
     <meta charset="utf-8">
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href='http://fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,600,700,900,200italic,300italic,400italic,600italic,700italic,900italic&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
     <script src="dist/vendor.bundle.js"></script>
     <script src="dist/bundle.js"></script>
   </head>
   <body>
   <div class="ui">
-  <div class="font-selector">
-    <div class="help">
-      Font names link to the Google Fonts specimen pages.
-      Features link straight to Microsoft's OpenType feature descriptions.
-      Click a font variant to preview it.
+    <div class="font-selector">
+      <div class="fonts"></div>
     </div>
-    <div class="fonts"></div>
-  </div>
-  <div class="previewer">
-    <div class="help">
-      Toggle individual features on and off to see the difference it makes.
+    <div class="previewer">
+      <div class="preview" contenteditable>
+      <p class="font-name"></p>
+      <p>The quick brown fox jumps over the lazy dog.</p>
+      <p>Grumpy wizards make toxic brew for the evil Queen and Jack.</p>
+      <p>The glass is 1/2 full.</p>
+      <p>Aa Bb Cc Dd Ee Ff Gg Hh Ii Jj Kk Ll Mm Nn Oo Pp Qq Rr Ss Tt Uu Vv Ww Xx Yy Zz
+      0123456789</p>
+      <p>AA AE AO AU AV AY IJ OE OO TZ Th aa ae ao au av ay ct eT et ff ffi ffj ffl fh fi fj fl fs ft ij oe oo ss st tz ue ui</p>
+      </div>
     </div>
-    <div class="preview"></div>
-    <div class="features">
-      
+    <div class="feature-selector">
+      <div class="font-info">
+        <div class="font-name"></div>
+        <div class="font-weight"></div>
+        <div class="font-style"></div>
+      </div>
+      <div class="features"></div>
     </div>
-  </div>
-  <div class="test-selector">
-    <div class="help">
-      Select test content. Some work better for testing a specific OpenType feature than others.
-    </div>
-    <div class="tests"></div>
-  </div>
   </div>
   </body>
 </html>

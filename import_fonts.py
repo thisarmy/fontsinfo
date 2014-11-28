@@ -42,100 +42,6 @@ def write_json(fonts):
         regex = re.compile('\ $', re.MULTILINE)
         f.write(regex.sub('', jsonString))
 
-def write_html(fonts):
-    html = """
-    <style>
-    html {
-      padding: 0;
-    }
-    body {
-      font-family: sans-serif;
-      color: #333;
-      background-color: #fff;
-      padding: 50px;
-    }
-
-    .font {
-      display: block;
-    }
-
-    .font + .font {
-      margin-top: 20px;
-    }
-
-    a {
-      color: #000;
-    }
-
-    .fontname {
-      font-weight: bold;
-    }
-
-    .variantname,
-    .featurename {
-      display: inline-block;
-    }
-
-    .variantname + .variantname,
-    .featurename + .featurename {
-      margin-left: 4px;
-    }
-
-    </style>
-    """
-    html += '<div class="fonts">'
-    for font in fonts:
-      html += '<div class="font">'
-
-      slug = font['name'].replace(' ', '+')
-      href = 'https://www.google.com/fonts/specimen/'+slug
-
-      html += '<a href="'+href+'" class="fontname" target="_blank">'+\
-        font['name']+'</a>'
-
-      html += '<div class="variants">'
-      for variant in font['variants']:
-        variantname = combine_variant(variant['weight'], variant['style'])
-        html += '<div class="variantname">'+variantname+'</div>'
-      html += '</div>'
-
-      features = unique_features(font)
-
-      html += '<div class="features">'
-      for featurename in features:
-        # ignore kerning because we use that as a minimum requirement, so they
-        # all have it. We're interested in more interesting features only.
-        if featurename == 'kern':
-          continue
-
-        # they split the features into multiple pages by letter range..
-        # also: lol @ .htm files
-        letter = str(featurename[0])
-        if letter >= 'a' and letter <= 'e':
-          href = 'http://www.microsoft.com/typography/otspec/features_ae.htm'
-        elif letter >= 'f' and letter <= 'j':
-          href = 'http://www.microsoft.com/typography/otspec/features_fj.htm'
-        elif letter >= 'k' and letter <= 'o':
-          href = 'http://www.microsoft.com/typography/otspec/features_ko.htm'
-        elif letter >= 'p' and letter <= 't':
-          href = 'http://www.microsoft.com/typography/otspec/features_pt.htm'
-        elif letter >= 'u' and letter <= 'z':
-          href = 'http://www.microsoft.com/typography/otspec/features_uz.htm'
-        else:
-          href = 'http://www.microsoft.com/typography/otspec/featurelist.htm'
-
-        href = href + '#' + featurename
-
-        html += '<a href="'+href+'" class="featurename" target="_blank">'+\
-          featurename+'</a>'
-      html += '</div>'
-
-      html += '</div>'
-    html += '</div>'
-
-    with open('fonts.html', 'w') as f:
-        f.write(html)
-
 def unique_features(font):
   features = []
   for variant in font['variants']:
@@ -155,6 +61,10 @@ def import_fonts(root, whitelist=None):
     found = set([])
     fonts = []
     for font_path in generate_font_paths(root):
+        # if any of the woff files for the variants in this font doesn't exist,
+        # then we just skip this font for now
+        skipped = False
+
         basename = os.path.basename(font_path)
 
         # read and parse the metadata json file
@@ -182,39 +92,54 @@ def import_fonts(root, whitelist=None):
         for variant in variants:
             ttf_path = os.path.join(font_path, variant['filename'])
 
+            # calculate the woff filename and path
+            name, ext = os.path.splitext(variant['filename'])
+            woff_filename = name+'.woff'
+            woff_path = os.path.join(font_path, woff_filename)
+
+            # skip if the woff file doesn't exist (for now)
+            if not os.path.exists(woff_path):
+              print "skipping due to missing WOFF files:", info['name']
+              skipped = True
+              break
+
+            # gather the supported opentype features
             p = Popen(["otfinfo", "-f", ttf_path], stdout=PIPE)
             out, err = p.communicate()
-
             lines = out.splitlines()
             features = []
             for line in lines:
               features.append(line[:4])
 
-            # we're interested in the filename without extension
-            name, ext = os.path.splitext(variant['filename'])
-
-            # just use the ttf file's size
-            filesize = os.path.getsize(ttf_path)
+            # use the woff file's size as that's what most people would be
+            # downloading nowadays
+            filesize = os.path.getsize(woff_path)
             #print " ", name, '/', filesize
 
             font['variants'].append(dict(
+                filename=woff_filename,
                 weight=variant['weight'],
                 style=variant['style'],
                 filesize=filesize,
                 features=features
             ))
 
+            # copy the woff file in place so we can serve it up for the demo
+            shutil.copyfile(woff_path, "woffs/"+woff_filename)
+
+        if skipped:
+          continue
+
         # only include fonts with features
         # must have kerning and at least one other feature
         unique = unique_features(font)
         if len(unique) > 1 and 'kern' in unique:
-          print font['name']+' '+str(unique)
+          #print font['name']+' '+str(unique)
           fonts.append(font)
 
     fonts.sort(key=operator.itemgetter('name'))
 
     write_json(fonts)
-    #write_html(fonts)
 
 def load_whitelist(whitelist_path):
     whitelist = []
