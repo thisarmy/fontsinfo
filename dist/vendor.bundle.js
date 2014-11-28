@@ -101,10 +101,7 @@
 /***/ function(module, exports, __webpack_require__) {
 
 	__webpack_require__(/*! jquery */1);
-	__webpack_require__(/*! underscore */2);
-	(function webpackMissingModule() { throw new Error("Cannot find module \"backbone\""); }());
-	(function webpackMissingModule() { throw new Error("Cannot find module \"backbone.marionette\""); }());
-	(function webpackMissingModule() { throw new Error("Cannot find module \"webfont\""); }());
+	module.exports = __webpack_require__(/*! underscore */2);
 
 
 /***/ },

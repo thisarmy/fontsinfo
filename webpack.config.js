@@ -6,7 +6,7 @@ module.exports = {
   },
   entry: {
     app: "./js/app.coffee",
-    vendor: ["jquery", "underscore", "backbone", "backbone.marionette", "webfont"],
+    vendor: ["jquery", "underscore"],
   },
   output: {
     path: "./dist",

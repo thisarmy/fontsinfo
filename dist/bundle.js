@@ -12,11 +12,11 @@ webpackJsonp([1],[
 	
 	_ = __webpack_require__(/*! underscore */ 2);
 	
-	__webpack_require__(/*! ../css/style.less */ 8);
+	__webpack_require__(/*! ../css/style.less */ 5);
 	
-	fonts = __webpack_require__(/*! ../fonts.json */ 6);
+	fonts = __webpack_require__(/*! ../fonts.json */ 3);
 	
-	features = __webpack_require__(/*! ../features.json */ 7);
+	features = __webpack_require__(/*! ../features.json */ 4);
 	
 	gatherFontFeatures = function(font) {
 	  var counts, feature, variant, _i, _j, _len, _len1, _ref, _ref1;
@@ -246,10 +246,7 @@ webpackJsonp([1],[
 /***/ },
 /* 1 */,
 /* 2 */,
-/* 3 */,
-/* 4 */,
-/* 5 */,
-/* 6 */
+/* 3 */
 /*!********************!*\
   !*** ./fonts.json ***!
   \********************/
@@ -7877,7 +7874,7 @@ webpackJsonp([1],[
 	]
 
 /***/ },
-/* 7 */
+/* 4 */
 /*!***********************!*\
   !*** ./features.json ***!
   \***********************/
@@ -8020,7 +8017,7 @@ webpackJsonp([1],[
 	}
 
 /***/ },
-/* 8 */
+/* 5 */
 /*!************************!*\
   !*** ./css/style.less ***!
   \************************/
@@ -8029,10 +8026,10 @@ webpackJsonp([1],[
 	// style-loader: Adds some css to the DOM by adding a <style> tag
 	
 	// load the styles
-	var content = __webpack_require__(/*! !./~/css-loader!./~/less-loader!./css/style.less */ 9);
+	var content = __webpack_require__(/*! !./~/css-loader!./~/less-loader!./css/style.less */ 6);
 	if(typeof content === 'string') content = [[module.id, content, '']];
 	// add the styles to the DOM
-	var update = __webpack_require__(/*! ./~/style-loader/addStyles.js */ 10)(content, {});
+	var update = __webpack_require__(/*! ./~/style-loader/addStyles.js */ 7)(content, {});
 	// Hot Module Replacement
 	if(false) {
 		// When the styles change, update the <style> tags
@@ -8046,17 +8043,17 @@ webpackJsonp([1],[
 	}
 
 /***/ },
-/* 9 */
+/* 6 */
 /*!*******************************************************!*\
   !*** ./~/css-loader!./~/less-loader!./css/style.less ***!
   \*******************************************************/
 /***/ function(module, exports, __webpack_require__) {
 
-	exports = module.exports = __webpack_require__(/*! ./~/css-loader/cssToString.js */ 13)();
+	exports = module.exports = __webpack_require__(/*! ./~/css-loader/cssToString.js */ 10)();
 	exports.push([module.id, "body,\ndiv,\ndl,\ndt,\ndd,\nul,\nol,\nli,\nh1,\nh2,\nh3,\nh4,\nh5,\nh6,\npre,\nform,\nfieldset,\ninput,\np,\nblockquote,\nth,\ntd {\n  margin: 0;\n  padding: 0;\n}\ntable {\n  border-collapse: collapse;\n  border-spacing: 0;\n}\nfieldset,\nimg {\n  border: 0;\n}\naddress,\ncaption,\ncite,\ncode,\ndfn,\nem,\nstrong,\nth,\nvar {\n  font-style: normal;\n  font-weight: normal;\n}\nol,\nul {\n  list-style: none;\n}\ncaption,\nth {\n  text-align: left;\n}\nh1,\nh2,\nh3,\nh4,\nh5,\nh6 {\n  font-size: 100%;\n  font-weight: normal;\n}\nq:before,\nq:after {\n  content: '';\n}\na,\na:link,\na:visited,\na:active,\na:hover {\n  outline: none;\n}\n:focus {\n  outline: none;\n}\nhtml {\n  text-rendering: optimizeLegibility;\n}\nbody {\n  font-family: 'Source Sans Pro', sans-serif;\n  background-color: #f8f8f8;\n  color: #222;\n}\na {\n  color: #000;\n  text-decoration: none;\n}\n.ui {\n  display: -webkit-flex;\n  display: -moz-flex;\n  display: -ms-flexbox;\n  display: -ms-flex;\n  display: flex;\n  min-height: 100vh;\n}\n.ui > * {\n  -webkit-box-sizing: border-box;\n  -moz-box-sizing: border-box;\n  -ms-box-sizing: border-box;\n  box-sizing: border-box;\n  padding: 60px 30px;\n  max-height: 100vh;\n  overflow: auto;\n}\n.font-selector,\n.feature-selector {\n  width: 25%;\n}\n.previewer {\n  background-color: #ffffff;\n  box-shadow: 0 0 4px 0 #dddddd;\n  flex: 1;\n}\n.preview {\n  font-size: 48px;\n  line-height: 1.1em;\n  text-rendering: optimizeLegibility;\n}\n.preview p {\n  -ms-font-feature-settings: inherit;\n  -moz-font-feature-settings: inherit;\n  -webkit-font-feature-settings: inherit;\n  font-feature-settings: inherit;\n}\n.preview p + p {\n  margin-top: 24px;\n}\n.preview:focus {\n  outline: none;\n}\n.fonts .font {\n  display: block;\n}\n.fonts .font + .font {\n  margin-top: 20px;\n}\n.fonts .fontname {\n  font-weight: bold;\n}\n.fonts .variantname,\n.fonts .featurename {\n  display: inline-block;\n}\n.fonts .variantname {\n  cursor: pointer;\n}\n.fonts .featurename.partial {\n  font-style: italic;\n}\n.font-info {\n  font-weight: bold;\n}\n.font-info * {\n  display: inline-block;\n}\n.features label {\n  display: block;\n  margin-top: 10px;\n}\n", ""]);
 
 /***/ },
-/* 10 */
+/* 7 */
 /*!*************************************!*\
   !*** ./~/style-loader/addStyles.js ***!
   \*************************************/
@@ -8255,9 +8252,9 @@ webpackJsonp([1],[
 
 
 /***/ },
-/* 11 */,
-/* 12 */,
-/* 13 */
+/* 8 */,
+/* 9 */,
+/* 10 */
 /*!*************************************!*\
   !*** ./~/css-loader/cssToString.js ***!
   \*************************************/
