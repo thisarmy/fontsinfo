@@ -16,8 +16,6 @@ This builds a *fonts.json* file that contains info about all the fonts, their in
 
 Only fonts that at support kerning and at least one other feature are included. Right now a few fonts also get skipped because they don't come with woff files. Those could probably be generated if you really wanted them included in the list.
 
-The included index.html is a demo app for testing out these fonts. The woff files are served up directly, because Google Fonts strips out all these extra features.
-
 # all fonts
 
 `./import_fonts.py ~/src/googlefontdirectory`
@@ -28,4 +26,13 @@ The included index.html is a demo app for testing out these fonts. The woff file
 
 Just change the paths to where things are located on your system.
 
+# Demo
+
+The included index.html is a demo app for testing out these fonts. The woff files are served up directly, because Google Fonts strips out all these extra features.
+
+Click a font variant on the left to preview it. The features supported by that font variant (weight and style) will appear on the right so you can toggle them one by one. text-rendering: optimizeLegibility is set by default, so things like kerning and standard ligatures will just work anyway.
+
+If all variants of a font don't support all the same features, then the feature name will be italicised in the font list on the left.
+
+The font names are linked to Google Font Specimen pages and the features are linked to Microsoft's OpenType font feature documentation.
 
