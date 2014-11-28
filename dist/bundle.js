@@ -5,16 +5,12 @@ webpackJsonp([1],[
   \***********************/
 /***/ function(module, exports, __webpack_require__) {
 
-	var $, backbone, combineVariant, features, fonts, gatherCheckedFeatures, gatherFontFeatures, gatherVariantFeatures, getFeatureLink, loadVariant, loaded, start, syncFeatures, _,
+	var $, combineVariant, features, fonts, gatherCheckedFeatures, gatherFontFeatures, gatherVariantFeatures, getFeatureLink, loadVariant, loaded, start, syncFeatures, _,
 	  __indexOf = [].indexOf || function(item) { for (var i = 0, l = this.length; i < l; i++) { if (i in this && this[i] === item) return i; } return -1; };
 	
 	$ = __webpack_require__(/*! jquery */ 1);
 	
 	_ = __webpack_require__(/*! underscore */ 2);
-	
-	backbone = __webpack_require__(/*! backbone */ 3);
-	
-	__webpack_require__(/*! backbone.marionette */ 4);
 	
 	__webpack_require__(/*! ../css/style.less */ 8);
 	

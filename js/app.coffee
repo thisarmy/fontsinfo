@@ -1,7 +1,5 @@
 $ = require 'jquery'
 _ = require 'underscore'
-backbone = require 'backbone'
-require 'backbone.marionette'
 
 require '../css/style.less'
 
