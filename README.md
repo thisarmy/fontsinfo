@@ -1,6 +1,6 @@
 This is a set of tools for making sense of the Google Font directory, because fonts.google.com isn't always as full-featured as it could be.
 
-There is a [demo](http://thisarmy.github.com/fontsinfo) on GitHub pages.
+There is a [demo](http://code.thisarmy.com/fontsinfo/) on GitHub pages.
 
 # Dependencies
 
