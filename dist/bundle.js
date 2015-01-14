@@ -28,6 +28,9 @@ webpackJsonp([1],[
 	      if (feature === 'kern') {
 	        continue;
 	      }
+	      if (feature === 'liga') {
+	        continue;
+	      }
 	      if (!features[feature]) {
 	        continue;
 	      }
@@ -65,6 +68,9 @@ webpackJsonp([1],[
 	    feature = _ref[_i];
 	    feature = feature.toLowerCase();
 	    if (feature === 'kern') {
+	      continue;
+	    }
+	    if (feature === 'liga') {
 	      continue;
 	    }
 	    if (!features[feature]) {
@@ -287,46 +293,6 @@ webpackJsonp([1],[
 			"name": "Aclonica"
 		},
 		{
-			"category": "Sans Serif",
-			"variants": [
-				{
-					"filesize": 32116,
-					"style": "normal",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 400,
-					"filename": "Actor-Regular.woff"
-				}
-			],
-			"name": "Actor"
-		},
-		{
-			"category": "Sans Serif",
-			"variants": [
-				{
-					"filesize": 45828,
-					"style": "normal",
-					"features": [
-						"liga"
-					],
-					"weight": 400,
-					"filename": "Alef-Regular.woff"
-				},
-				{
-					"filesize": 44528,
-					"style": "normal",
-					"features": [
-						"liga"
-					],
-					"weight": 700,
-					"filename": "Alef-Bold.woff"
-				}
-			],
-			"name": "Alef"
-		},
-		{
 			"category": "Serif",
 			"variants": [
 				{
@@ -447,22 +413,6 @@ webpackJsonp([1],[
 			"name": "Alegreya"
 		},
 		{
-			"category": "Serif",
-			"variants": [
-				{
-					"filesize": 69368,
-					"style": "normal",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 400,
-					"filename": "Alice-Regular.woff"
-				}
-			],
-			"name": "Alice"
-		},
-		{
 			"category": "Display",
 			"variants": [
 				{
@@ -486,74 +436,6 @@ webpackJsonp([1],[
 				}
 			],
 			"name": "Allan"
-		},
-		{
-			"category": "Serif",
-			"variants": [
-				{
-					"filesize": 28832,
-					"style": "normal",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 400,
-					"filename": "Almendra-Regular.woff"
-				},
-				{
-					"filesize": 17396,
-					"style": "italic",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 400,
-					"filename": "Almendra-Italic.woff"
-				},
-				{
-					"filesize": 17664,
-					"style": "normal",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 700,
-					"filename": "Almendra-Bold.woff"
-				},
-				{
-					"filesize": 17828,
-					"style": "italic",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 700,
-					"filename": "Almendra-BoldItalic.woff"
-				}
-			],
-			"name": "Almendra"
-		},
-		{
-			"category": "Handwriting",
-			"variants": [
-				{
-					"filesize": 25496,
-					"style": "normal",
-					"features": [
-						"liga"
-					],
-					"weight": 400,
-					"filename": "AmaticSC-Regular.woff"
-				},
-				{
-					"filesize": 24704,
-					"style": "normal",
-					"features": [],
-					"weight": 700,
-					"filename": "AmaticSC-Bold.woff"
-				}
-			],
-			"name": "Amatic SC"
 		},
 		{
 			"category": "Serif",
@@ -756,21 +638,6 @@ webpackJsonp([1],[
 			"name": "Andika"
 		},
 		{
-			"category": "Display",
-			"variants": [
-				{
-					"filesize": 53468,
-					"style": "normal",
-					"features": [
-						"liga"
-					],
-					"weight": 400,
-					"filename": "Angkor.woff"
-				}
-			],
-			"name": "Angkor"
-		},
-		{
 			"category": "Serif",
 			"variants": [
 				{
@@ -941,22 +808,6 @@ webpackJsonp([1],[
 			"category": "Sans Serif",
 			"variants": [
 				{
-					"filesize": 20696,
-					"style": "normal",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 400,
-					"filename": "AverageSans-Regular.woff"
-				}
-			],
-			"name": "Average Sans"
-		},
-		{
-			"category": "Sans Serif",
-			"variants": [
-				{
 					"filesize": 19820,
 					"style": "normal",
 					"features": [
@@ -967,86 +818,6 @@ webpackJsonp([1],[
 				}
 			],
 			"name": "Basic"
-		},
-		{
-			"category": "Display",
-			"variants": [
-				{
-					"filesize": 55916,
-					"style": "normal",
-					"features": [
-						"liga"
-					],
-					"weight": 400,
-					"filename": "Bayon.woff"
-				}
-			],
-			"name": "Bayon"
-		},
-		{
-			"category": "Sans Serif",
-			"variants": [
-				{
-					"filesize": 16208,
-					"style": "normal",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 400,
-					"filename": "Belleza-Regular.woff"
-				}
-			],
-			"name": "Belleza"
-		},
-		{
-			"category": "Sans Serif",
-			"variants": [
-				{
-					"filesize": 32008,
-					"style": "normal",
-					"features": [
-						"kern"
-					],
-					"weight": 300,
-					"filename": "BenchNine-Light.woff"
-				},
-				{
-					"filesize": 32556,
-					"style": "normal",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 400,
-					"filename": "BenchNine-Regular.woff"
-				},
-				{
-					"filesize": 33056,
-					"style": "normal",
-					"features": [
-						"kern"
-					],
-					"weight": 700,
-					"filename": "BenchNine-Bold.woff"
-				}
-			],
-			"name": "BenchNine"
-		},
-		{
-			"category": "Serif",
-			"variants": [
-				{
-					"filesize": 31180,
-					"style": "normal",
-					"features": [
-						"liga"
-					],
-					"weight": 400,
-					"filename": "Bentham-Regular.woff"
-				}
-			],
-			"name": "Bentham"
 		},
 		{
 			"category": "Handwriting",
@@ -1089,21 +860,6 @@ webpackJsonp([1],[
 			"name": "Bigelow Rules"
 		},
 		{
-			"category": "Display",
-			"variants": [
-				{
-					"filesize": 66300,
-					"style": "normal",
-					"features": [
-						"liga"
-					],
-					"weight": 400,
-					"filename": "Bokor.woff"
-				}
-			],
-			"name": "Bokor"
-		},
-		{
 			"category": "Sans Serif",
 			"variants": [
 				{
@@ -1142,21 +898,6 @@ webpackJsonp([1],[
 				}
 			],
 			"name": "Bruno Ace SC"
-		},
-		{
-			"category": "Display",
-			"variants": [
-				{
-					"filesize": 44400,
-					"style": "normal",
-					"features": [
-						"liga"
-					],
-					"weight": 400,
-					"filename": "ButchermanCaps-Regular.woff"
-				}
-			],
-			"name": "Butcherman Caps"
 		},
 		{
 			"category": "Sans Serif",
@@ -1460,21 +1201,6 @@ webpackJsonp([1],[
 			"category": "Display",
 			"variants": [
 				{
-					"filesize": 61792,
-					"style": "normal",
-					"features": [
-						"liga"
-					],
-					"weight": 400,
-					"filename": "Chenla.woff"
-				}
-			],
-			"name": "Chenla"
-		},
-		{
-			"category": "Display",
-			"variants": [
-				{
 					"filesize": 78580,
 					"style": "normal",
 					"features": [
@@ -1528,55 +1254,6 @@ webpackJsonp([1],[
 			"name": "Clicker Script"
 		},
 		{
-			"category": "Display",
-			"variants": [
-				{
-					"filesize": 39092,
-					"style": "normal",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 400,
-					"filename": "Coda-Regular.woff"
-				},
-				{
-					"filesize": 39184,
-					"style": "normal",
-					"features": [
-						"kern"
-					],
-					"weight": 800,
-					"filename": "Coda-Heavy.woff"
-				}
-			],
-			"name": "Coda"
-		},
-		{
-			"category": "Display",
-			"variants": [
-				{
-					"filesize": 63856,
-					"style": "normal",
-					"features": [
-						"liga"
-					],
-					"weight": 400,
-					"filename": "Content-Regular.woff"
-				},
-				{
-					"filesize": 63416,
-					"style": "normal",
-					"features": [
-						"liga"
-					],
-					"weight": 700,
-					"filename": "Content-Bold.woff"
-				}
-			],
-			"name": "Content"
-		},
-		{
 			"category": "Handwriting",
 			"variants": [
 				{
@@ -1623,48 +1300,6 @@ webpackJsonp([1],[
 			"name": "Corben"
 		},
 		{
-			"category": "Serif",
-			"variants": [
-				{
-					"filesize": 39048,
-					"style": "normal",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 400,
-					"filename": "Coustard-Regular.woff"
-				},
-				{
-					"filesize": 41260,
-					"style": "normal",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 900,
-					"filename": "Coustard-Black.woff"
-				}
-			],
-			"name": "Coustard"
-		},
-		{
-			"category": "Display",
-			"variants": [
-				{
-					"filesize": 22880,
-					"style": "normal",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 400,
-					"filename": "CroissantOne-Regular.woff"
-				}
-			],
-			"name": "Croissant One"
-		},
-		{
 			"category": "Handwriting",
 			"variants": [
 				{
@@ -1697,21 +1332,6 @@ webpackJsonp([1],[
 			"name": "Dancing Script"
 		},
 		{
-			"category": "Display",
-			"variants": [
-				{
-					"filesize": 60164,
-					"style": "normal",
-					"features": [
-						"liga"
-					],
-					"weight": 400,
-					"filename": "Dangrek.woff"
-				}
-			],
-			"name": "Dangrek"
-		},
-		{
 			"category": "Handwriting",
 			"variants": [
 				{
@@ -1730,32 +1350,6 @@ webpackJsonp([1],[
 				}
 			],
 			"name": "Devonshire"
-		},
-		{
-			"category": "Serif",
-			"variants": [
-				{
-					"filesize": 41512,
-					"style": "normal",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 400,
-					"filename": "Dhyana-Regular.woff"
-				},
-				{
-					"filesize": 37844,
-					"style": "normal",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 700,
-					"filename": "Dhyana-Bold.woff"
-				}
-			],
-			"name": "Dhyana"
 		},
 		{
 			"category": "Serif",
@@ -2036,52 +1630,6 @@ webpackJsonp([1],[
 			"name": "Eagle Lake"
 		},
 		{
-			"category": "Sans Serif",
-			"variants": [
-				{
-					"filesize": 15500,
-					"style": "normal",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 400,
-					"filename": "Economica-Regular.woff"
-				},
-				{
-					"filesize": 16452,
-					"style": "italic",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 400,
-					"filename": "Economica-Italic.woff"
-				},
-				{
-					"filesize": 15920,
-					"style": "normal",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 700,
-					"filename": "Economica-Bold.woff"
-				},
-				{
-					"filesize": 16612,
-					"style": "italic",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 700,
-					"filename": "Economica-BoldItalic.woff"
-				}
-			],
-			"name": "Economica"
-		},
-		{
 			"category": "Display",
 			"variants": [
 				{
@@ -2107,30 +1655,6 @@ webpackJsonp([1],[
 				}
 			],
 			"name": "Elsie"
-		},
-		{
-			"category": "Display",
-			"variants": [
-				{
-					"filesize": 18640,
-					"style": "normal",
-					"features": [
-						"liga"
-					],
-					"weight": 400,
-					"filename": "ElsieSwashCaps-Regular.woff"
-				},
-				{
-					"filesize": 21172,
-					"style": "normal",
-					"features": [
-						"liga"
-					],
-					"weight": 900,
-					"filename": "ElsieSwashCaps-Black.woff"
-				}
-			],
-			"name": "Elsie Swash Caps"
 		},
 		{
 			"category": "Handwriting",
@@ -2757,22 +2281,6 @@ webpackJsonp([1],[
 			"name": "Faster One"
 		},
 		{
-			"category": "Serif",
-			"variants": [
-				{
-					"filesize": 21672,
-					"style": "normal",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 400,
-					"filename": "Fenix-Regular.woff"
-				}
-			],
-			"name": "Fenix"
-		},
-		{
 			"category": "Sans Serif",
 			"variants": [
 				{
@@ -2863,21 +2371,6 @@ webpackJsonp([1],[
 				}
 			],
 			"name": "Fredoka One"
-		},
-		{
-			"category": "Display",
-			"variants": [
-				{
-					"filesize": 80232,
-					"style": "normal",
-					"features": [
-						"liga"
-					],
-					"weight": 400,
-					"filename": "Freehand.woff"
-				}
-			],
-			"name": "Freehand"
 		},
 		{
 			"category": "Display",
@@ -3168,53 +2661,6 @@ webpackJsonp([1],[
 			"category": "Serif",
 			"variants": [
 				{
-					"filesize": 19332,
-					"style": "normal",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 400,
-					"filename": "GildaDisplay-Regular.woff"
-				}
-			],
-			"name": "Gilda Display"
-		},
-		{
-			"category": "Display",
-			"variants": [
-				{
-					"filesize": 26656,
-					"style": "normal",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 400,
-					"filename": "GlassAntiqua-Regular.woff"
-				}
-			],
-			"name": "Glass Antiqua"
-		},
-		{
-			"category": "Handwriting",
-			"variants": [
-				{
-					"filesize": 25040,
-					"style": "normal",
-					"features": [
-						"liga"
-					],
-					"weight": 400,
-					"filename": "GochiHand-Regular.woff"
-				}
-			],
-			"name": "Gochi Hand"
-		},
-		{
-			"category": "Serif",
-			"variants": [
-				{
 					"filesize": 42284,
 					"style": "normal",
 					"features": [
@@ -3326,22 +2772,6 @@ webpackJsonp([1],[
 				}
 			],
 			"name": "Henny Penny"
-		},
-		{
-			"category": "Sans Serif",
-			"variants": [
-				{
-					"filesize": 51308,
-					"style": "normal",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 400,
-					"filename": "HermeneusOne-Regular.woff"
-				}
-			],
-			"name": "Hermeneus One"
 		},
 		{
 			"category": "Serif",
@@ -3652,22 +3082,6 @@ webpackJsonp([1],[
 			"category": "Sans Serif",
 			"variants": [
 				{
-					"filesize": 14296,
-					"style": "normal",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 400,
-					"filename": "Imprima-Regular.woff"
-				}
-			],
-			"name": "Imprima"
-		},
-		{
-			"category": "Sans Serif",
-			"variants": [
-				{
 					"filesize": 140544,
 					"style": "normal",
 					"features": [
@@ -3753,38 +3167,6 @@ webpackJsonp([1],[
 				}
 			],
 			"name": "Jim Nightshade"
-		},
-		{
-			"category": "Sans Serif",
-			"variants": [
-				{
-					"filesize": 22376,
-					"style": "normal",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 400,
-					"filename": "JockeyOne-Regular.woff"
-				}
-			],
-			"name": "Jockey One"
-		},
-		{
-			"category": "Display",
-			"variants": [
-				{
-					"filesize": 21708,
-					"style": "normal",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 400,
-					"filename": "JotiOne-Regular.woff"
-				}
-			],
-			"name": "Joti One"
 		},
 		{
 			"category": "Serif",
@@ -3937,21 +3319,6 @@ webpackJsonp([1],[
 				}
 			],
 			"name": "Kavoon"
-		},
-		{
-			"category": "Display",
-			"variants": [
-				{
-					"filesize": 58440,
-					"style": "normal",
-					"features": [
-						"liga"
-					],
-					"weight": 400,
-					"filename": "Koulen.woff"
-				}
-			],
-			"name": "Koulen"
 		},
 		{
 			"category": "Handwriting",
@@ -4546,21 +3913,6 @@ webpackJsonp([1],[
 			"name": "Margarine"
 		},
 		{
-			"category": "Sans Serif",
-			"variants": [
-				{
-					"filesize": 58004,
-					"style": "normal",
-					"features": [
-						"liga"
-					],
-					"weight": 400,
-					"filename": "Marmelad-Regular.woff"
-				}
-			],
-			"name": "Marmelad"
-		},
-		{
 			"category": "Serif",
 			"variants": [
 				{
@@ -4887,21 +4239,6 @@ webpackJsonp([1],[
 			"category": "Display",
 			"variants": [
 				{
-					"filesize": 75296,
-					"style": "normal",
-					"features": [
-						"liga"
-					],
-					"weight": 400,
-					"filename": "Metal.woff"
-				}
-			],
-			"name": "Metal"
-		},
-		{
-			"category": "Display",
-			"variants": [
-				{
 					"filesize": 68956,
 					"style": "normal",
 					"features": [
@@ -4955,32 +4292,6 @@ webpackJsonp([1],[
 			"name": "Molle"
 		},
 		{
-			"category": "Sans Serif",
-			"variants": [
-				{
-					"filesize": 24896,
-					"style": "normal",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 400,
-					"filename": "Monda-Regular.woff"
-				},
-				{
-					"filesize": 26984,
-					"style": "normal",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 700,
-					"filename": "Monda-Bold.woff"
-				}
-			],
-			"name": "Monda"
-		},
-		{
 			"category": "Handwriting",
 			"variants": [
 				{
@@ -4999,36 +4310,6 @@ webpackJsonp([1],[
 				}
 			],
 			"name": "Montez"
-		},
-		{
-			"category": "Display",
-			"variants": [
-				{
-					"filesize": 74920,
-					"style": "normal",
-					"features": [
-						"liga"
-					],
-					"weight": 400,
-					"filename": "Moul.woff"
-				}
-			],
-			"name": "Moul"
-		},
-		{
-			"category": "Display",
-			"variants": [
-				{
-					"filesize": 64688,
-					"style": "normal",
-					"features": [
-						"liga"
-					],
-					"weight": 400,
-					"filename": "Moulpali.woff"
-				}
-			],
-			"name": "Moulpali"
 		},
 		{
 			"category": "Sans Serif",
@@ -5146,88 +4427,6 @@ webpackJsonp([1],[
 				}
 			],
 			"name": "News Cycle"
-		},
-		{
-			"category": "Sans Serif",
-			"variants": [
-				{
-					"filesize": 41092,
-					"style": "normal",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 400,
-					"filename": "Nobile-Regular.woff"
-				},
-				{
-					"filesize": 55848,
-					"style": "italic",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 400,
-					"filename": "Nobile-Italic.woff"
-				},
-				{
-					"filesize": 43032,
-					"style": "normal",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 500,
-					"filename": "Nobile-Medium.woff"
-				},
-				{
-					"filesize": 55272,
-					"style": "italic",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 500,
-					"filename": "Nobile-MediumItalic.woff"
-				},
-				{
-					"filesize": 39972,
-					"style": "normal",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 700,
-					"filename": "Nobile-Bold.woff"
-				},
-				{
-					"filesize": 53964,
-					"style": "italic",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 700,
-					"filename": "Nobile-BoldItalic.woff"
-				}
-			],
-			"name": "Nobile"
-		},
-		{
-			"category": "Display",
-			"variants": [
-				{
-					"filesize": 22768,
-					"style": "normal",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 400,
-					"filename": "NosiferCaps-Regular.woff"
-				}
-			],
-			"name": "Nosifer Caps"
 		},
 		{
 			"category": "Sans Serif",
@@ -5442,37 +4641,6 @@ webpackJsonp([1],[
 				}
 			],
 			"name": "OFL Sorts Mill Goudy TT"
-		},
-		{
-			"category": "Display",
-			"variants": [
-				{
-					"filesize": 63100,
-					"style": "normal",
-					"features": [
-						"liga"
-					],
-					"weight": 400,
-					"filename": "OdorMeanChey.woff"
-				}
-			],
-			"name": "Odor Mean Chey"
-		},
-		{
-			"category": "Display",
-			"variants": [
-				{
-					"filesize": 15600,
-					"style": "normal",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 400,
-					"filename": "Offside-Regular.woff"
-				}
-			],
-			"name": "Offside"
 		},
 		{
 			"category": "Serif",
@@ -5865,76 +5033,6 @@ webpackJsonp([1],[
 			"name": "Original Surfer"
 		},
 		{
-			"category": "Sans Serif",
-			"variants": [
-				{
-					"filesize": 25080,
-					"style": "normal",
-					"features": [
-						"kern"
-					],
-					"weight": 300,
-					"filename": "Oswald-Light.woff"
-				},
-				{
-					"filesize": 26980,
-					"style": "normal",
-					"features": [
-						"kern"
-					],
-					"weight": 400,
-					"filename": "Oswald-Regular.woff"
-				},
-				{
-					"filesize": 28648,
-					"style": "normal",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 700,
-					"filename": "Oswald-Bold.woff"
-				}
-			],
-			"name": "Oswald"
-		},
-		{
-			"category": "Sans Serif",
-			"variants": [
-				{
-					"filesize": 25944,
-					"style": "normal",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 300,
-					"filename": "Oxygen-Light.woff"
-				},
-				{
-					"filesize": 28228,
-					"style": "normal",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 400,
-					"filename": "Oxygen-Regular.woff"
-				},
-				{
-					"filesize": 28556,
-					"style": "normal",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 700,
-					"filename": "Oxygen-Bold.woff"
-				}
-			],
-			"name": "Oxygen"
-		},
-		{
 			"category": "Monospace",
 			"variants": [
 				{
@@ -6314,21 +5412,6 @@ webpackJsonp([1],[
 			"name": "Patrick Hand SC"
 		},
 		{
-			"category": "Handwriting",
-			"variants": [
-				{
-					"filesize": 504340,
-					"style": "normal",
-					"features": [
-						"liga"
-					],
-					"weight": 400,
-					"filename": "Pecita.woff"
-				}
-			],
-			"name": "Pecita"
-		},
-		{
 			"category": "Display",
 			"variants": [
 				{
@@ -6347,46 +5430,6 @@ webpackJsonp([1],[
 				}
 			],
 			"name": "Peralta"
-		},
-		{
-			"category": "Handwriting",
-			"variants": [
-				{
-					"filesize": 69848,
-					"style": "normal",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 400,
-					"filename": "PetitFormalScript-Regular.woff"
-				}
-			],
-			"name": "Petit Formal Script"
-		},
-		{
-			"category": "Serif",
-			"variants": [
-				{
-					"filesize": 19500,
-					"style": "normal",
-					"features": [
-						"liga"
-					],
-					"weight": 400,
-					"filename": "Phetsarath-Regular.woff"
-				},
-				{
-					"filesize": 33136,
-					"style": "normal",
-					"features": [
-						"liga"
-					],
-					"weight": 700,
-					"filename": "Phetsarath-Bold.woff"
-				}
-			],
-			"name": "Phetsarath"
 		},
 		{
 			"category": "Sans Serif",
@@ -6845,21 +5888,6 @@ webpackJsonp([1],[
 			"name": "Poly"
 		},
 		{
-			"category": "Display",
-			"variants": [
-				{
-					"filesize": 53560,
-					"style": "normal",
-					"features": [
-						"liga"
-					],
-					"weight": 400,
-					"filename": "Preahvihear.woff"
-				}
-			],
-			"name": "Preahvihear"
-		},
-		{
 			"category": "Serif",
 			"variants": [
 				{
@@ -7037,32 +6065,6 @@ webpackJsonp([1],[
 			"name": "Racing Sans One"
 		},
 		{
-			"category": "Serif",
-			"variants": [
-				{
-					"filesize": 45824,
-					"style": "normal",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 400,
-					"filename": "Radley-Regular.woff"
-				},
-				{
-					"filesize": 44808,
-					"style": "italic",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 400,
-					"filename": "Radley-Italic.woff"
-				}
-			],
-			"name": "Radley"
-		},
-		{
 			"category": "Display",
 			"variants": [
 				{
@@ -7085,22 +6087,6 @@ webpackJsonp([1],[
 				}
 			],
 			"name": "Raleway Dots"
-		},
-		{
-			"category": "Display",
-			"variants": [
-				{
-					"filesize": 19168,
-					"style": "normal",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 400,
-					"filename": "RammettoOne-Regular.woff"
-				}
-			],
-			"name": "Rammetto One"
 		},
 		{
 			"category": "Display",
@@ -7534,38 +6520,6 @@ webpackJsonp([1],[
 				}
 			],
 			"name": "Roboto Slab"
-		},
-		{
-			"category": "Serif",
-			"variants": [
-				{
-					"filesize": 16576,
-					"style": "normal",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 300,
-					"filename": "Rokkitt-Light.woff"
-				},
-				{
-					"filesize": 27332,
-					"style": "normal",
-					"features": [],
-					"weight": 400,
-					"filename": "Rokkitt-Regular.woff"
-				},
-				{
-					"filesize": 30892,
-					"style": "normal",
-					"features": [
-						"kern"
-					],
-					"weight": 700,
-					"filename": "Rokkitt-Bold.woff"
-				}
-			],
-			"name": "Rokkitt"
 		},
 		{
 			"category": "Handwriting",
@@ -8010,36 +6964,6 @@ webpackJsonp([1],[
 			"category": "Display",
 			"variants": [
 				{
-					"filesize": 61236,
-					"style": "normal",
-					"features": [
-						"liga"
-					],
-					"weight": 400,
-					"filename": "Siemreap.woff"
-				}
-			],
-			"name": "Siamreap"
-		},
-		{
-			"category": "Display",
-			"variants": [
-				{
-					"filesize": 61236,
-					"style": "normal",
-					"features": [
-						"liga"
-					],
-					"weight": 400,
-					"filename": "Siemreap.woff"
-				}
-			],
-			"name": "Siemreap"
-		},
-		{
-			"category": "Display",
-			"variants": [
-				{
 					"filesize": 76468,
 					"style": "normal",
 					"features": [
@@ -8093,32 +7017,6 @@ webpackJsonp([1],[
 				}
 			],
 			"name": "Simonetta"
-		},
-		{
-			"category": "Sans Serif",
-			"variants": [
-				{
-					"filesize": 14964,
-					"style": "normal",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 400,
-					"filename": "Sintony-Regular.woff"
-				},
-				{
-					"filesize": 14716,
-					"style": "normal",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 700,
-					"filename": "Sintony-Bold.woff"
-				}
-			],
-			"name": "Sintony"
 		},
 		{
 			"category": "Display",
@@ -8904,21 +7802,6 @@ webpackJsonp([1],[
 			"name": "Stint Ultra Expanded"
 		},
 		{
-			"category": "Display",
-			"variants": [
-				{
-					"filesize": 67044,
-					"style": "normal",
-					"features": [
-						"liga"
-					],
-					"weight": 400,
-					"filename": "Taprom.woff"
-				}
-			],
-			"name": "Taprom"
-		},
-		{
 			"category": "Sans Serif",
 			"variants": [
 				{
@@ -9101,48 +7984,6 @@ webpackJsonp([1],[
 				}
 			],
 			"name": "Text Me One"
-		},
-		{
-			"category": "Serif",
-			"variants": [
-				{
-					"filesize": 57064,
-					"style": "normal",
-					"features": [
-						"liga"
-					],
-					"weight": 400,
-					"filename": "Thabit.woff"
-				},
-				{
-					"filesize": 61228,
-					"style": "italic",
-					"features": [
-						"liga"
-					],
-					"weight": 400,
-					"filename": "Thabit-Oblique.woff"
-				},
-				{
-					"filesize": 57684,
-					"style": "normal",
-					"features": [
-						"liga"
-					],
-					"weight": 700,
-					"filename": "Thabit-Bold.woff"
-				},
-				{
-					"filesize": 61348,
-					"style": "italic",
-					"features": [
-						"liga"
-					],
-					"weight": 700,
-					"filename": "Thabit-BoldOblique.woff"
-				}
-			],
-			"name": "Thabit"
 		},
 		{
 			"category": "Serif",
@@ -9778,22 +8619,6 @@ webpackJsonp([1],[
 			"name": "Varela"
 		},
 		{
-			"category": "Handwriting",
-			"variants": [
-				{
-					"filesize": 90636,
-					"style": "normal",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 400,
-					"filename": "Vibur-Regular.woff"
-				}
-			],
-			"name": "Vibur"
-		},
-		{
 			"category": "Serif",
 			"variants": [
 				{
@@ -9858,22 +8683,6 @@ webpackJsonp([1],[
 				}
 			],
 			"name": "Vollkorn"
-		},
-		{
-			"category": "Display",
-			"variants": [
-				{
-					"filesize": 34712,
-					"style": "normal",
-					"features": [
-						"kern",
-						"liga"
-					],
-					"weight": 400,
-					"filename": "Warnes-Regular.woff"
-				}
-			],
-			"name": "Warnes"
 		},
 		{
 			"category": "Sans Serif",

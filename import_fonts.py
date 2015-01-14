@@ -130,16 +130,12 @@ def import_fonts(root, whitelist=None):
         if skipped:
           continue
 
-        # only include fonts with features
-        # must have kerning and at least one other feature
-        # (or if no kerning, then at least one feature. silly opensans)
+        # only include fonts with features that won't be included by
+        # optimizeLegibility already.
         unique = unique_features(font)
-        #if len(unique) > 1 and 'kern' in unique:
-        if 'kern' in unique:
-          if len(unique) > 1:
-            #print font['name']+' '+str(unique)
-            fonts.append(font)
-        elif len(unique) > 0:
+        interesting = set(unique)
+        interesting.difference_update(['kern', 'liga'])
+        if len(interesting) > 0:
           #print font['name']+' '+str(unique)
           fonts.append(font)
 

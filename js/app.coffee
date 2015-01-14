@@ -13,6 +13,7 @@ gatherFontFeatures = (font) ->
     for feature in variant.features
       feature = feature.toLowerCase()
       continue if feature == 'kern'
+      continue if feature == 'liga'
       continue unless features[feature]
       counts[feature] ?= 0
       counts[feature] += 1
@@ -36,6 +37,7 @@ gatherVariantFeatures = (variant) ->
   for feature in variant.features
     feature = feature.toLowerCase()
     continue if feature == 'kern'
+    continue if feature == 'liga'
     continue unless features[feature]
     variantFeatures.push feature
   variantFeatures
