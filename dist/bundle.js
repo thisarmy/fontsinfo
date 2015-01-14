@@ -1,23 +1,20 @@
 webpackJsonp([1],[
 /* 0 */
-/*!***********************!*\
-  !*** ./js/app.coffee ***!
-  \***********************/
 /***/ function(module, exports, __webpack_require__) {
 
 	var $, combineVariant, features, fonts, gatherCheckedFeatures, gatherFontFeatures, gatherVariantFeatures, getFeatureLink, loadVariant, loaded, start, syncFeatures, _,
 	  __indexOf = [].indexOf || function(item) { for (var i = 0, l = this.length; i < l; i++) { if (i in this && this[i] === item) return i; } return -1; };
-	
-	$ = __webpack_require__(/*! jquery */ 1);
-	
-	_ = __webpack_require__(/*! underscore */ 2);
-	
-	__webpack_require__(/*! ../css/style.less */ 5);
-	
-	fonts = __webpack_require__(/*! ../fonts.json */ 3);
-	
-	features = __webpack_require__(/*! ../features.json */ 4);
-	
+
+	$ = __webpack_require__(1);
+
+	_ = __webpack_require__(2);
+
+	__webpack_require__(5);
+
+	fonts = __webpack_require__(3);
+
+	features = __webpack_require__(4);
+
 	gatherFontFeatures = function(font) {
 	  var counts, feature, variant, _i, _j, _len, _len1, _ref, _ref1;
 	  counts = {};
@@ -42,14 +39,14 @@ webpackJsonp([1],[
 	  }
 	  return counts;
 	};
-	
+
 	combineVariant = function(weight, style) {
 	  var s, w;
 	  w = (weight + '')[0];
 	  s = style[0];
 	  return "" + s + w;
 	};
-	
+
 	gatherCheckedFeatures = function() {
 	  var $checked, checkedFeatures;
 	  checkedFeatures = [];
@@ -59,7 +56,7 @@ webpackJsonp([1],[
 	  });
 	  return checkedFeatures;
 	};
-	
+
 	gatherVariantFeatures = function(variant) {
 	  var feature, variantFeatures, _i, _len, _ref;
 	  variantFeatures = [];
@@ -77,7 +74,7 @@ webpackJsonp([1],[
 	  }
 	  return variantFeatures;
 	};
-	
+
 	getFeatureLink = function(feature) {
 	  var href, letter;
 	  letter = feature[0];
@@ -97,7 +94,7 @@ webpackJsonp([1],[
 	  href = "" + href + "#" + feature;
 	  return href;
 	};
-	
+
 	loaded = function(font, variant) {
 	  var $checkbox, $feature, $features, $text, feature, previousFeatures, variantFeatures, _i, _len;
 	  previousFeatures = gatherCheckedFeatures();
@@ -129,7 +126,7 @@ webpackJsonp([1],[
 	  $('.font-style').text(variant.style);
 	  return syncFeatures();
 	};
-	
+
 	loadVariant = function(fontname, weight, style, skip) {
 	  var $style, css, font, id, slug, url, variant;
 	  font = _.find(fonts, function(f) {
@@ -156,7 +153,7 @@ webpackJsonp([1],[
 	    return loaded(font, variant);
 	  }
 	};
-	
+
 	syncFeatures = function() {
 	  var quoted, selectedFeatures, settings;
 	  selectedFeatures = gatherCheckedFeatures();
@@ -171,7 +168,7 @@ webpackJsonp([1],[
 	    'font-feature-settings': settings
 	  });
 	};
-	
+
 	start = function() {
 	  var $featurename, $features, $font, $fontname, $fonts, $variantname, $variants, combined, count, feature, font, href, slug, variant, _i, _j, _len, _len1, _ref, _ref1;
 	  loadVariant('Source Sans Pro', 200, 'normal', true);
@@ -239,7 +236,7 @@ webpackJsonp([1],[
 	    return el.scrollIntoView();
 	  }, 1000);
 	};
-	
+
 	$(document).ready(start);
 
 
@@ -247,9 +244,6 @@ webpackJsonp([1],[
 /* 1 */,
 /* 2 */,
 /* 3 */
-/*!********************!*\
-  !*** ./fonts.json ***!
-  \********************/
 /***/ function(module, exports, __webpack_require__) {
 
 	module.exports = [
@@ -307,6 +301,150 @@ webpackJsonp([1],[
 				}
 			],
 			"name": "Actor"
+		},
+		{
+			"category": "Sans Serif",
+			"variants": [
+				{
+					"filesize": 45828,
+					"style": "normal",
+					"features": [
+						"liga"
+					],
+					"weight": 400,
+					"filename": "Alef-Regular.woff"
+				},
+				{
+					"filesize": 44528,
+					"style": "normal",
+					"features": [
+						"liga"
+					],
+					"weight": 700,
+					"filename": "Alef-Bold.woff"
+				}
+			],
+			"name": "Alef"
+		},
+		{
+			"category": "Serif",
+			"variants": [
+				{
+					"filesize": 92328,
+					"style": "normal",
+					"features": [
+						"cpsp",
+						"dnom",
+						"frac",
+						"liga",
+						"lnum",
+						"numr",
+						"onum",
+						"pnum",
+						"sinf",
+						"sups",
+						"tnum"
+					],
+					"weight": 400,
+					"filename": "Alegreya-Regular.woff"
+				},
+				{
+					"filesize": 91656,
+					"style": "italic",
+					"features": [
+						"cpsp",
+						"dnom",
+						"frac",
+						"liga",
+						"lnum",
+						"numr",
+						"onum",
+						"pnum",
+						"sinf",
+						"sups",
+						"tnum"
+					],
+					"weight": 400,
+					"filename": "Alegreya-Italic.woff"
+				},
+				{
+					"filesize": 80728,
+					"style": "normal",
+					"features": [
+						"cpsp",
+						"dnom",
+						"frac",
+						"liga",
+						"lnum",
+						"numr",
+						"onum",
+						"pnum",
+						"sinf",
+						"sups",
+						"tnum"
+					],
+					"weight": 700,
+					"filename": "Alegreya-Bold.woff"
+				},
+				{
+					"filesize": 79236,
+					"style": "italic",
+					"features": [
+						"cpsp",
+						"dnom",
+						"frac",
+						"liga",
+						"lnum",
+						"numr",
+						"onum",
+						"pnum",
+						"sinf",
+						"sups",
+						"tnum"
+					],
+					"weight": 700,
+					"filename": "Alegreya-BoldItalic.woff"
+				},
+				{
+					"filesize": 78696,
+					"style": "normal",
+					"features": [
+						"cpsp",
+						"dnom",
+						"frac",
+						"liga",
+						"lnum",
+						"numr",
+						"onum",
+						"pnum",
+						"sinf",
+						"sups",
+						"tnum"
+					],
+					"weight": 900,
+					"filename": "Alegreya-Black.woff"
+				},
+				{
+					"filesize": 79868,
+					"style": "italic",
+					"features": [
+						"cpsp",
+						"dnom",
+						"frac",
+						"liga",
+						"lnum",
+						"numr",
+						"onum",
+						"pnum",
+						"sinf",
+						"sups",
+						"tnum"
+					],
+					"weight": 900,
+					"filename": "Alegreya-BlackItalic.woff"
+				}
+			],
+			"name": "Alegreya"
 		},
 		{
 			"category": "Serif",
@@ -394,6 +532,28 @@ webpackJsonp([1],[
 				}
 			],
 			"name": "Almendra"
+		},
+		{
+			"category": "Handwriting",
+			"variants": [
+				{
+					"filesize": 25496,
+					"style": "normal",
+					"features": [
+						"liga"
+					],
+					"weight": 400,
+					"filename": "AmaticSC-Regular.woff"
+				},
+				{
+					"filesize": 24704,
+					"style": "normal",
+					"features": [],
+					"weight": 700,
+					"filename": "AmaticSC-Bold.woff"
+				}
+			],
+			"name": "Amatic SC"
 		},
 		{
 			"category": "Serif",
@@ -596,6 +756,21 @@ webpackJsonp([1],[
 			"name": "Andika"
 		},
 		{
+			"category": "Display",
+			"variants": [
+				{
+					"filesize": 53468,
+					"style": "normal",
+					"features": [
+						"liga"
+					],
+					"weight": 400,
+					"filename": "Angkor.woff"
+				}
+			],
+			"name": "Angkor"
+		},
+		{
 			"category": "Serif",
 			"variants": [
 				{
@@ -782,6 +957,36 @@ webpackJsonp([1],[
 			"category": "Sans Serif",
 			"variants": [
 				{
+					"filesize": 19820,
+					"style": "normal",
+					"features": [
+						"calt"
+					],
+					"weight": 400,
+					"filename": "Basic-Regular.woff"
+				}
+			],
+			"name": "Basic"
+		},
+		{
+			"category": "Display",
+			"variants": [
+				{
+					"filesize": 55916,
+					"style": "normal",
+					"features": [
+						"liga"
+					],
+					"weight": 400,
+					"filename": "Bayon.woff"
+				}
+			],
+			"name": "Bayon"
+		},
+		{
+			"category": "Sans Serif",
+			"variants": [
+				{
 					"filesize": 16208,
 					"style": "normal",
 					"features": [
@@ -829,6 +1034,21 @@ webpackJsonp([1],[
 			"name": "BenchNine"
 		},
 		{
+			"category": "Serif",
+			"variants": [
+				{
+					"filesize": 31180,
+					"style": "normal",
+					"features": [
+						"liga"
+					],
+					"weight": 400,
+					"filename": "Bentham-Regular.woff"
+				}
+			],
+			"name": "Bentham"
+		},
+		{
 			"category": "Handwriting",
 			"variants": [
 				{
@@ -869,6 +1089,21 @@ webpackJsonp([1],[
 			"name": "Bigelow Rules"
 		},
 		{
+			"category": "Display",
+			"variants": [
+				{
+					"filesize": 66300,
+					"style": "normal",
+					"features": [
+						"liga"
+					],
+					"weight": 400,
+					"filename": "Bokor.woff"
+				}
+			],
+			"name": "Bokor"
+		},
+		{
 			"category": "Sans Serif",
 			"variants": [
 				{
@@ -907,6 +1142,21 @@ webpackJsonp([1],[
 				}
 			],
 			"name": "Bruno Ace SC"
+		},
+		{
+			"category": "Display",
+			"variants": [
+				{
+					"filesize": 44400,
+					"style": "normal",
+					"features": [
+						"liga"
+					],
+					"weight": 400,
+					"filename": "ButchermanCaps-Regular.woff"
+				}
+			],
+			"name": "Butcherman Caps"
 		},
 		{
 			"category": "Sans Serif",
@@ -1210,6 +1460,21 @@ webpackJsonp([1],[
 			"category": "Display",
 			"variants": [
 				{
+					"filesize": 61792,
+					"style": "normal",
+					"features": [
+						"liga"
+					],
+					"weight": 400,
+					"filename": "Chenla.woff"
+				}
+			],
+			"name": "Chenla"
+		},
+		{
+			"category": "Display",
+			"variants": [
+				{
 					"filesize": 78580,
 					"style": "normal",
 					"features": [
@@ -1286,6 +1551,47 @@ webpackJsonp([1],[
 				}
 			],
 			"name": "Coda"
+		},
+		{
+			"category": "Display",
+			"variants": [
+				{
+					"filesize": 63856,
+					"style": "normal",
+					"features": [
+						"liga"
+					],
+					"weight": 400,
+					"filename": "Content-Regular.woff"
+				},
+				{
+					"filesize": 63416,
+					"style": "normal",
+					"features": [
+						"liga"
+					],
+					"weight": 700,
+					"filename": "Content-Bold.woff"
+				}
+			],
+			"name": "Content"
+		},
+		{
+			"category": "Handwriting",
+			"variants": [
+				{
+					"filesize": 21728,
+					"style": "normal",
+					"features": [
+						"fina",
+						"init",
+						"liga"
+					],
+					"weight": 400,
+					"filename": "Cookie-Regular.woff"
+				}
+			],
+			"name": "Cookie"
 		},
 		{
 			"category": "Display",
@@ -1391,6 +1697,21 @@ webpackJsonp([1],[
 			"name": "Dancing Script"
 		},
 		{
+			"category": "Display",
+			"variants": [
+				{
+					"filesize": 60164,
+					"style": "normal",
+					"features": [
+						"liga"
+					],
+					"weight": 400,
+					"filename": "Dangrek.woff"
+				}
+			],
+			"name": "Dangrek"
+		},
+		{
 			"category": "Handwriting",
 			"variants": [
 				{
@@ -1469,6 +1790,43 @@ webpackJsonp([1],[
 				}
 			],
 			"name": "Domine"
+		},
+		{
+			"category": "Serif",
+			"variants": [
+				{
+					"filesize": 34976,
+					"style": "normal",
+					"features": [
+						"aalt",
+						"frac",
+						"ordn",
+						"sups"
+					],
+					"weight": 400,
+					"filename": "DonegalOne-Regular.woff"
+				}
+			],
+			"name": "Donegal One"
+		},
+		{
+			"category": "Sans Serif",
+			"variants": [
+				{
+					"filesize": 31692,
+					"style": "normal",
+					"features": [
+						"calt",
+						"liga",
+						"smcp",
+						"subs",
+						"sups"
+					],
+					"weight": 400,
+					"filename": "DoppioOne-Regular.woff"
+				}
+			],
+			"name": "Doppio One"
 		},
 		{
 			"category": "Sans Serif",
@@ -1722,6 +2080,57 @@ webpackJsonp([1],[
 				}
 			],
 			"name": "Economica"
+		},
+		{
+			"category": "Display",
+			"variants": [
+				{
+					"filesize": 19912,
+					"style": "normal",
+					"features": [
+						"liga",
+						"salt"
+					],
+					"weight": 400,
+					"filename": "Elsie-Regular.woff"
+				},
+				{
+					"filesize": 22512,
+					"style": "normal",
+					"features": [
+						"aalt",
+						"liga",
+						"salt"
+					],
+					"weight": 900,
+					"filename": "Elsie-Black.woff"
+				}
+			],
+			"name": "Elsie"
+		},
+		{
+			"category": "Display",
+			"variants": [
+				{
+					"filesize": 18640,
+					"style": "normal",
+					"features": [
+						"liga"
+					],
+					"weight": 400,
+					"filename": "ElsieSwashCaps-Regular.woff"
+				},
+				{
+					"filesize": 21172,
+					"style": "normal",
+					"features": [
+						"liga"
+					],
+					"weight": 900,
+					"filename": "ElsieSwashCaps-Black.woff"
+				}
+			],
+			"name": "Elsie Swash Caps"
 		},
 		{
 			"category": "Handwriting",
@@ -2364,6 +2773,25 @@ webpackJsonp([1],[
 			"name": "Fenix"
 		},
 		{
+			"category": "Sans Serif",
+			"variants": [
+				{
+					"filesize": 23252,
+					"style": "normal",
+					"features": [
+						"aalt",
+						"frac",
+						"liga",
+						"ordn",
+						"sups"
+					],
+					"weight": 400,
+					"filename": "FjallaOne-Regular.woff"
+				}
+			],
+			"name": "Fjalla One"
+		},
+		{
 			"category": "Handwriting",
 			"variants": [
 				{
@@ -2435,6 +2863,40 @@ webpackJsonp([1],[
 				}
 			],
 			"name": "Fredoka One"
+		},
+		{
+			"category": "Display",
+			"variants": [
+				{
+					"filesize": 80232,
+					"style": "normal",
+					"features": [
+						"liga"
+					],
+					"weight": 400,
+					"filename": "Freehand.woff"
+				}
+			],
+			"name": "Freehand"
+		},
+		{
+			"category": "Display",
+			"variants": [
+				{
+					"filesize": 41692,
+					"style": "normal",
+					"features": [
+						"aalt",
+						"frac",
+						"liga",
+						"ordn",
+						"sups"
+					],
+					"weight": 400,
+					"filename": "Fruktur-Regular.woff"
+				}
+			],
+			"name": "Fruktur"
 		},
 		{
 			"category": "Serif",
@@ -2598,6 +3060,114 @@ webpackJsonp([1],[
 			"category": "Serif",
 			"variants": [
 				{
+					"filesize": 101956,
+					"style": "normal",
+					"features": [
+						"aalt",
+						"ccmp",
+						"mark",
+						"mkmk"
+					],
+					"weight": 400,
+					"filename": "GenBasR.woff"
+				},
+				{
+					"filesize": 106052,
+					"style": "italic",
+					"features": [
+						"aalt",
+						"ccmp",
+						"mark",
+						"mkmk"
+					],
+					"weight": 400,
+					"filename": "GenBasI.woff"
+				},
+				{
+					"filesize": 106952,
+					"style": "normal",
+					"features": [
+						"aalt",
+						"ccmp",
+						"mark",
+						"mkmk"
+					],
+					"weight": 700,
+					"filename": "GenBasB.woff"
+				},
+				{
+					"filesize": 103432,
+					"style": "italic",
+					"features": [
+						"aalt",
+						"ccmp",
+						"mark",
+						"mkmk"
+					],
+					"weight": 700,
+					"filename": "GenBasBI.woff"
+				}
+			],
+			"name": "Gentium Basic"
+		},
+		{
+			"category": "Serif",
+			"variants": [
+				{
+					"filesize": 105856,
+					"style": "normal",
+					"features": [
+						"aalt",
+						"ccmp",
+						"mark",
+						"mkmk"
+					],
+					"weight": 400,
+					"filename": "GenBkBasR.woff"
+				},
+				{
+					"filesize": 109036,
+					"style": "italic",
+					"features": [
+						"aalt",
+						"ccmp",
+						"mark",
+						"mkmk"
+					],
+					"weight": 400,
+					"filename": "GenBkBasI.woff"
+				},
+				{
+					"filesize": 106584,
+					"style": "normal",
+					"features": [
+						"aalt",
+						"ccmp",
+						"mark",
+						"mkmk"
+					],
+					"weight": 700,
+					"filename": "GenBkBasB.woff"
+				},
+				{
+					"filesize": 102212,
+					"style": "italic",
+					"features": [
+						"aalt",
+						"ccmp",
+						"mark",
+						"mkmk"
+					],
+					"weight": 700,
+					"filename": "GenBkBasBI.woff"
+				}
+			],
+			"name": "Gentium Book Basic"
+		},
+		{
+			"category": "Serif",
+			"variants": [
+				{
 					"filesize": 19332,
 					"style": "normal",
 					"features": [
@@ -2625,6 +3195,21 @@ webpackJsonp([1],[
 				}
 			],
 			"name": "Glass Antiqua"
+		},
+		{
+			"category": "Handwriting",
+			"variants": [
+				{
+					"filesize": 25040,
+					"style": "normal",
+					"features": [
+						"liga"
+					],
+					"weight": 400,
+					"filename": "GochiHand-Regular.woff"
+				}
+			],
+			"name": "Gochi Hand"
 		},
 		{
 			"category": "Serif",
@@ -2757,6 +3342,311 @@ webpackJsonp([1],[
 				}
 			],
 			"name": "Hermeneus One"
+		},
+		{
+			"category": "Serif",
+			"variants": [
+				{
+					"filesize": 123344,
+					"style": "normal",
+					"features": [
+						"aalt",
+						"dlig",
+						"hist",
+						"liga",
+						"salt",
+						"ss01",
+						"ss02",
+						"ss03",
+						"ss04"
+					],
+					"weight": 400,
+					"filename": "IMFePIrm28P.woff"
+				},
+				{
+					"filesize": 137272,
+					"style": "italic",
+					"features": [
+						"aalt",
+						"dlig",
+						"hist",
+						"liga",
+						"salt",
+						"ss01",
+						"ss02",
+						"ss03",
+						"ss04",
+						"swsh"
+					],
+					"weight": 400,
+					"filename": "IMFePIit28P.woff"
+				}
+			],
+			"name": "IM Fell DW Pica"
+		},
+		{
+			"category": "Serif",
+			"variants": [
+				{
+					"filesize": 111352,
+					"style": "normal",
+					"features": [
+						"aalt",
+						"calt",
+						"salt",
+						"ss02",
+						"ss03",
+						"ss04"
+					],
+					"weight": 400,
+					"filename": "IMFePIsc28P.woff"
+				}
+			],
+			"name": "IM Fell DW Pica SC"
+		},
+		{
+			"category": "Serif",
+			"variants": [
+				{
+					"filesize": 119924,
+					"style": "normal",
+					"features": [
+						"aalt",
+						"dlig",
+						"hist",
+						"liga",
+						"salt",
+						"ss01",
+						"ss02",
+						"ss03",
+						"ss04"
+					],
+					"weight": 400,
+					"filename": "IMFeDPrm28P.woff"
+				},
+				{
+					"filesize": 142336,
+					"style": "italic",
+					"features": [
+						"aalt",
+						"dlig",
+						"hist",
+						"liga",
+						"salt",
+						"ss01",
+						"ss02",
+						"ss03",
+						"ss04",
+						"swsh"
+					],
+					"weight": 400,
+					"filename": "IMFeDPit28P.woff"
+				}
+			],
+			"name": "IM Fell Double Pica"
+		},
+		{
+			"category": "Serif",
+			"variants": [
+				{
+					"filesize": 110008,
+					"style": "normal",
+					"features": [
+						"aalt",
+						"calt",
+						"salt",
+						"ss02",
+						"ss03",
+						"ss04"
+					],
+					"weight": 400,
+					"filename": "IMFeDPsc28P.woff"
+				}
+			],
+			"name": "IM Fell Double Pica SC"
+		},
+		{
+			"category": "Serif",
+			"variants": [
+				{
+					"filesize": 117232,
+					"style": "normal",
+					"features": [
+						"aalt",
+						"dlig",
+						"hist",
+						"liga",
+						"salt",
+						"ss01",
+						"ss02",
+						"ss03",
+						"ss04"
+					],
+					"weight": 400,
+					"filename": "IMFeENrm28P.woff"
+				},
+				{
+					"filesize": 121040,
+					"style": "italic",
+					"features": [
+						"aalt",
+						"dlig",
+						"hist",
+						"liga",
+						"salt",
+						"ss01",
+						"ss02",
+						"ss03",
+						"ss04",
+						"swsh"
+					],
+					"weight": 400,
+					"filename": "IMFeENit28P.woff"
+				}
+			],
+			"name": "IM Fell English"
+		},
+		{
+			"category": "Serif",
+			"variants": [
+				{
+					"filesize": 109120,
+					"style": "normal",
+					"features": [
+						"aalt",
+						"calt",
+						"salt",
+						"ss02",
+						"ss03",
+						"ss04"
+					],
+					"weight": 400,
+					"filename": "IMFeENsc28P.woff"
+				}
+			],
+			"name": "IM Fell English SC"
+		},
+		{
+			"category": "Serif",
+			"variants": [
+				{
+					"filesize": 84480,
+					"style": "normal",
+					"features": [
+						"aalt",
+						"dlig",
+						"hist",
+						"liga",
+						"salt",
+						"ss01",
+						"ss02",
+						"ss03",
+						"ss04"
+					],
+					"weight": 400,
+					"filename": "IMFeFCrm28P.woff"
+				},
+				{
+					"filesize": 94524,
+					"style": "italic",
+					"features": [
+						"aalt",
+						"dlig",
+						"hist",
+						"liga",
+						"salt",
+						"ss01",
+						"ss02",
+						"ss03",
+						"ss04",
+						"swsh"
+					],
+					"weight": 400,
+					"filename": "IMFeFCit28P.woff"
+				}
+			],
+			"name": "IM Fell French Canon"
+		},
+		{
+			"category": "Serif",
+			"variants": [
+				{
+					"filesize": 77684,
+					"style": "normal",
+					"features": [
+						"aalt",
+						"calt",
+						"salt",
+						"ss02",
+						"ss03",
+						"ss04"
+					],
+					"weight": 400,
+					"filename": "IMFeFCsc28P.woff"
+				}
+			],
+			"name": "IM Fell French Canon SC"
+		},
+		{
+			"category": "Serif",
+			"variants": [
+				{
+					"filesize": 123052,
+					"style": "normal",
+					"features": [
+						"aalt",
+						"dlig",
+						"hist",
+						"liga",
+						"salt",
+						"ss01",
+						"ss02",
+						"ss03",
+						"ss04"
+					],
+					"weight": 400,
+					"filename": "IMFeGPrm28P.woff"
+				},
+				{
+					"filesize": 140432,
+					"style": "italic",
+					"features": [
+						"aalt",
+						"dlig",
+						"hist",
+						"liga",
+						"salt",
+						"ss01",
+						"ss02",
+						"ss03",
+						"ss04",
+						"swsh"
+					],
+					"weight": 400,
+					"filename": "IMFeGPit28P.woff"
+				}
+			],
+			"name": "IM Fell Great Primer"
+		},
+		{
+			"category": "Serif",
+			"variants": [
+				{
+					"filesize": 114452,
+					"style": "normal",
+					"features": [
+						"aalt",
+						"calt",
+						"salt",
+						"ss02",
+						"ss03",
+						"ss04"
+					],
+					"weight": 400,
+					"filename": "IMFeGPsc28P.woff"
+				}
+			],
+			"name": "IM Fell Great Primer SC"
 		},
 		{
 			"category": "Sans Serif",
@@ -3033,6 +3923,55 @@ webpackJsonp([1],[
 			"category": "Display",
 			"variants": [
 				{
+					"filesize": 35248,
+					"style": "normal",
+					"features": [
+						"aalt",
+						"frac",
+						"liga",
+						"ordn",
+						"sups"
+					],
+					"weight": 400,
+					"filename": "Kavoon-Regular.woff"
+				}
+			],
+			"name": "Kavoon"
+		},
+		{
+			"category": "Display",
+			"variants": [
+				{
+					"filesize": 58440,
+					"style": "normal",
+					"features": [
+						"liga"
+					],
+					"weight": 400,
+					"filename": "Koulen.woff"
+				}
+			],
+			"name": "Koulen"
+		},
+		{
+			"category": "Handwriting",
+			"variants": [
+				{
+					"filesize": 32788,
+					"style": "normal",
+					"features": [
+						"calt"
+					],
+					"weight": 400,
+					"filename": "Kristi.woff"
+				}
+			],
+			"name": "Kristi"
+		},
+		{
+			"category": "Display",
+			"variants": [
+				{
 					"filesize": 31432,
 					"style": "normal",
 					"features": [
@@ -3044,6 +3983,21 @@ webpackJsonp([1],[
 				}
 			],
 			"name": "Lancelot"
+		},
+		{
+			"category": "Handwriting",
+			"variants": [
+				{
+					"filesize": 107668,
+					"style": "normal",
+					"features": [
+						"ccmp"
+					],
+					"weight": 400,
+					"filename": "LateefRegOT.woff"
+				}
+			],
+			"name": "Lateef"
 		},
 		{
 			"category": "Sans Serif",
@@ -3592,6 +4546,21 @@ webpackJsonp([1],[
 			"name": "Margarine"
 		},
 		{
+			"category": "Sans Serif",
+			"variants": [
+				{
+					"filesize": 58004,
+					"style": "normal",
+					"features": [
+						"liga"
+					],
+					"weight": 400,
+					"filename": "Marmelad-Regular.woff"
+				}
+			],
+			"name": "Marmelad"
+		},
+		{
 			"category": "Serif",
 			"variants": [
 				{
@@ -3785,6 +4754,116 @@ webpackJsonp([1],[
 			"name": "Merriweather"
 		},
 		{
+			"category": "Sans Serif",
+			"variants": [
+				{
+					"filesize": 29784,
+					"style": "normal",
+					"features": [
+						"aalt",
+						"frac",
+						"liga",
+						"ordn",
+						"sups"
+					],
+					"weight": 300,
+					"filename": "MerriweatherSans-Light.woff"
+				},
+				{
+					"filesize": 30496,
+					"style": "italic",
+					"features": [
+						"aalt",
+						"frac",
+						"liga",
+						"ordn",
+						"sups"
+					],
+					"weight": 300,
+					"filename": "MerriweatherSans-LightItalic.woff"
+				},
+				{
+					"filesize": 30192,
+					"style": "normal",
+					"features": [
+						"aalt",
+						"frac",
+						"liga",
+						"ordn",
+						"sups"
+					],
+					"weight": 400,
+					"filename": "MerriweatherSans-Regular.woff"
+				},
+				{
+					"filesize": 29420,
+					"style": "italic",
+					"features": [
+						"aalt",
+						"frac",
+						"liga",
+						"ordn",
+						"sups"
+					],
+					"weight": 400,
+					"filename": "MerriweatherSans-Italic.woff"
+				},
+				{
+					"filesize": 30816,
+					"style": "normal",
+					"features": [
+						"aalt",
+						"frac",
+						"liga",
+						"ordn",
+						"sups"
+					],
+					"weight": 700,
+					"filename": "MerriweatherSans-Bold.woff"
+				},
+				{
+					"filesize": 30276,
+					"style": "italic",
+					"features": [
+						"aalt",
+						"frac",
+						"liga",
+						"ordn",
+						"sups"
+					],
+					"weight": 700,
+					"filename": "MerriweatherSans-BoldItalic.woff"
+				},
+				{
+					"filesize": 30892,
+					"style": "normal",
+					"features": [
+						"aalt",
+						"frac",
+						"liga",
+						"ordn",
+						"sups"
+					],
+					"weight": 800,
+					"filename": "MerriweatherSans-ExtraBold.woff"
+				},
+				{
+					"filesize": 29904,
+					"style": "italic",
+					"features": [
+						"aalt",
+						"frac",
+						"liga",
+						"ordn",
+						"sups"
+					],
+					"weight": 800,
+					"filename": "MerriweatherSans-ExtraBoldItalic.woff"
+				}
+			],
+			"name": "Merriweather Sans"
+		},
+		{
 			"category": "Handwriting",
 			"variants": [
 				{
@@ -3803,6 +4882,21 @@ webpackJsonp([1],[
 				}
 			],
 			"name": "Mervale Script"
+		},
+		{
+			"category": "Display",
+			"variants": [
+				{
+					"filesize": 75296,
+					"style": "normal",
+					"features": [
+						"liga"
+					],
+					"weight": 400,
+					"filename": "Metal.woff"
+				}
+			],
+			"name": "Metal"
 		},
 		{
 			"category": "Display",
@@ -3844,6 +4938,21 @@ webpackJsonp([1],[
 				}
 			],
 			"name": "Molengo"
+		},
+		{
+			"category": "Handwriting",
+			"variants": [
+				{
+					"filesize": 34080,
+					"style": "italic",
+					"features": [
+						"calt"
+					],
+					"weight": 400,
+					"filename": "Molle-Regular.woff"
+				}
+			],
+			"name": "Molle"
 		},
 		{
 			"category": "Sans Serif",
@@ -3892,6 +5001,36 @@ webpackJsonp([1],[
 			"name": "Montez"
 		},
 		{
+			"category": "Display",
+			"variants": [
+				{
+					"filesize": 74920,
+					"style": "normal",
+					"features": [
+						"liga"
+					],
+					"weight": 400,
+					"filename": "Moul.woff"
+				}
+			],
+			"name": "Moul"
+		},
+		{
+			"category": "Display",
+			"variants": [
+				{
+					"filesize": 64688,
+					"style": "normal",
+					"features": [
+						"liga"
+					],
+					"weight": 400,
+					"filename": "Moulpali.woff"
+				}
+			],
+			"name": "Moulpali"
+		},
+		{
 			"category": "Sans Serif",
 			"variants": [
 				{
@@ -3910,6 +5049,56 @@ webpackJsonp([1],[
 				}
 			],
 			"name": "Mouse Memoirs"
+		},
+		{
+			"category": "Handwriting",
+			"variants": [
+				{
+					"filesize": 1510664,
+					"style": "normal",
+					"features": [
+						"aalt",
+						"dlig",
+						"fwid",
+						"halt",
+						"hwid",
+						"nalt",
+						"pwid",
+						"sinf",
+						"sups",
+						"vert",
+						"vhal"
+					],
+					"weight": 400,
+					"filename": "NanumBrushScript-Regular.woff"
+				}
+			],
+			"name": "Nanum Brush Script"
+		},
+		{
+			"category": "Handwriting",
+			"variants": [
+				{
+					"filesize": 1537996,
+					"style": "normal",
+					"features": [
+						"aalt",
+						"dlig",
+						"fwid",
+						"halt",
+						"hwid",
+						"nalt",
+						"pwid",
+						"sinf",
+						"sups",
+						"vert",
+						"vhal"
+					],
+					"weight": 400,
+					"filename": "NanumPenScript-Regular.woff"
+				}
+			],
+			"name": "Nanum Pen Script"
 		},
 		{
 			"category": "Display",
@@ -4258,6 +5447,21 @@ webpackJsonp([1],[
 			"category": "Display",
 			"variants": [
 				{
+					"filesize": 63100,
+					"style": "normal",
+					"features": [
+						"liga"
+					],
+					"weight": 400,
+					"filename": "OdorMeanChey.woff"
+				}
+			],
+			"name": "Odor Mean Chey"
+		},
+		{
+			"category": "Display",
+			"variants": [
+				{
 					"filesize": 15600,
 					"style": "normal",
 					"features": [
@@ -4304,6 +5508,182 @@ webpackJsonp([1],[
 				}
 			],
 			"name": "Old Standard TT"
+		},
+		{
+			"category": "Sans Serif",
+			"variants": [
+				{
+					"filesize": 114396,
+					"style": "normal",
+					"features": [
+						"liga",
+						"lnum",
+						"onum",
+						"pnum",
+						"salt",
+						"ss01",
+						"ss02",
+						"ss03",
+						"tnum"
+					],
+					"weight": 300,
+					"filename": "OpenSans-Light.woff"
+				},
+				{
+					"filesize": 110184,
+					"style": "italic",
+					"features": [
+						"liga",
+						"lnum",
+						"onum",
+						"pnum",
+						"salt",
+						"ss01",
+						"ss02",
+						"ss03",
+						"tnum"
+					],
+					"weight": 300,
+					"filename": "OpenSans-LightItalic.woff"
+				},
+				{
+					"filesize": 112520,
+					"style": "normal",
+					"features": [
+						"liga",
+						"lnum",
+						"onum",
+						"pnum",
+						"salt",
+						"ss01",
+						"ss02",
+						"ss03",
+						"tnum"
+					],
+					"weight": 400,
+					"filename": "OpenSans-Regular.woff"
+				},
+				{
+					"filesize": 110152,
+					"style": "italic",
+					"features": [
+						"liga",
+						"lnum",
+						"onum",
+						"pnum",
+						"salt",
+						"ss01",
+						"ss02",
+						"ss03",
+						"tnum"
+					],
+					"weight": 400,
+					"filename": "OpenSans-Italic.woff"
+				},
+				{
+					"filesize": 114908,
+					"style": "normal",
+					"features": [
+						"liga",
+						"lnum",
+						"onum",
+						"pnum",
+						"salt",
+						"ss01",
+						"ss02",
+						"ss03",
+						"tnum"
+					],
+					"weight": 600,
+					"filename": "OpenSans-Semibold.woff"
+				},
+				{
+					"filesize": 110844,
+					"style": "italic",
+					"features": [
+						"liga",
+						"lnum",
+						"onum",
+						"pnum",
+						"salt",
+						"ss01",
+						"ss02",
+						"ss03",
+						"tnum"
+					],
+					"weight": 600,
+					"filename": "OpenSans-SemiboldItalic.woff"
+				},
+				{
+					"filesize": 115388,
+					"style": "normal",
+					"features": [
+						"liga",
+						"lnum",
+						"onum",
+						"pnum",
+						"salt",
+						"ss01",
+						"ss02",
+						"ss03",
+						"tnum"
+					],
+					"weight": 700,
+					"filename": "OpenSans-Bold.woff"
+				},
+				{
+					"filesize": 110032,
+					"style": "italic",
+					"features": [
+						"liga",
+						"lnum",
+						"onum",
+						"pnum",
+						"salt",
+						"ss01",
+						"ss02",
+						"ss03",
+						"tnum"
+					],
+					"weight": 700,
+					"filename": "OpenSans-BoldItalic.woff"
+				},
+				{
+					"filesize": 114940,
+					"style": "normal",
+					"features": [
+						"liga",
+						"lnum",
+						"onum",
+						"pnum",
+						"salt",
+						"ss01",
+						"ss02",
+						"ss03",
+						"tnum"
+					],
+					"weight": 800,
+					"filename": "OpenSans-ExtraBold.woff"
+				},
+				{
+					"filesize": 110560,
+					"style": "italic",
+					"features": [
+						"liga",
+						"lnum",
+						"onum",
+						"pnum",
+						"salt",
+						"ss01",
+						"ss02",
+						"ss03",
+						"tnum"
+					],
+					"weight": 800,
+					"filename": "OpenSans-ExtraBoldItalic.woff"
+				}
+			],
+			"name": "Open Sans"
 		},
 		{
 			"category": "Sans Serif",
@@ -4553,6 +5933,31 @@ webpackJsonp([1],[
 				}
 			],
 			"name": "Oxygen"
+		},
+		{
+			"category": "Monospace",
+			"variants": [
+				{
+					"filesize": 99800,
+					"style": "normal",
+					"features": [
+						"aalt",
+						"c2sc",
+						"case",
+						"dlig",
+						"frac",
+						"hist",
+						"numr",
+						"ordn",
+						"sinf",
+						"subs",
+						"sups"
+					],
+					"weight": 400,
+					"filename": "PTM55FT.woff"
+				}
+			],
+			"name": "PT Mono"
 		},
 		{
 			"category": "Sans Serif",
@@ -4863,6 +6268,67 @@ webpackJsonp([1],[
 			"name": "Parisienne"
 		},
 		{
+			"category": "Handwriting",
+			"variants": [
+				{
+					"filesize": 88176,
+					"style": "normal",
+					"features": [
+						"aalt",
+						"cpsp",
+						"frac",
+						"liga",
+						"lnum",
+						"onum",
+						"ordn",
+						"smcp",
+						"sups"
+					],
+					"weight": 400,
+					"filename": "PatrickHand-Regular.woff"
+				}
+			],
+			"name": "Patrick Hand"
+		},
+		{
+			"category": "Handwriting",
+			"variants": [
+				{
+					"filesize": 66832,
+					"style": "normal",
+					"features": [
+						"aalt",
+						"cpsp",
+						"frac",
+						"liga",
+						"lnum",
+						"onum",
+						"ordn",
+						"smcp",
+						"sups"
+					],
+					"weight": 400,
+					"filename": "PatrickHandSC-Regular.woff"
+				}
+			],
+			"name": "Patrick Hand SC"
+		},
+		{
+			"category": "Handwriting",
+			"variants": [
+				{
+					"filesize": 504340,
+					"style": "normal",
+					"features": [
+						"liga"
+					],
+					"weight": 400,
+					"filename": "Pecita.woff"
+				}
+			],
+			"name": "Pecita"
+		},
+		{
 			"category": "Display",
 			"variants": [
 				{
@@ -4897,6 +6363,30 @@ webpackJsonp([1],[
 				}
 			],
 			"name": "Petit Formal Script"
+		},
+		{
+			"category": "Serif",
+			"variants": [
+				{
+					"filesize": 19500,
+					"style": "normal",
+					"features": [
+						"liga"
+					],
+					"weight": 400,
+					"filename": "Phetsarath-Regular.woff"
+				},
+				{
+					"filesize": 33136,
+					"style": "normal",
+					"features": [
+						"liga"
+					],
+					"weight": 700,
+					"filename": "Phetsarath-Bold.woff"
+				}
+			],
+			"name": "Phetsarath"
 		},
 		{
 			"category": "Sans Serif",
@@ -5302,6 +6792,72 @@ webpackJsonp([1],[
 				}
 			],
 			"name": "Poetsen One"
+		},
+		{
+			"category": "Serif",
+			"variants": [
+				{
+					"filesize": 33632,
+					"style": "normal",
+					"features": [
+						"aalt",
+						"c2sc",
+						"case",
+						"cpsp",
+						"liga",
+						"lnum",
+						"onum",
+						"ordn",
+						"pnum",
+						"sinf",
+						"smcp",
+						"sups",
+						"tnum",
+						"zero"
+					],
+					"weight": 400,
+					"filename": "Poly-Regular.woff"
+				},
+				{
+					"filesize": 32160,
+					"style": "italic",
+					"features": [
+						"aalt",
+						"case",
+						"cpsp",
+						"dnom",
+						"frac",
+						"liga",
+						"lnum",
+						"numr",
+						"onum",
+						"ordn",
+						"pnum",
+						"sinf",
+						"sups",
+						"tnum",
+						"zero"
+					],
+					"weight": 400,
+					"filename": "Poly-Italic.woff"
+				}
+			],
+			"name": "Poly"
+		},
+		{
+			"category": "Display",
+			"variants": [
+				{
+					"filesize": 53560,
+					"style": "normal",
+					"features": [
+						"liga"
+					],
+					"weight": 400,
+					"filename": "Preahvihear.woff"
+				}
+			],
+			"name": "Preahvihear"
 		},
 		{
 			"category": "Serif",
@@ -6194,6 +7750,87 @@ webpackJsonp([1],[
 			"name": "Sanchez"
 		},
 		{
+			"category": "Sans Serif",
+			"variants": [
+				{
+					"filesize": 23740,
+					"style": "normal",
+					"features": [
+						"liga",
+						"onum",
+						"salt",
+						"ss01",
+						"ss02",
+						"ss03"
+					],
+					"weight": 300,
+					"filename": "Sansation-Light.woff"
+				},
+				{
+					"filesize": 25280,
+					"style": "normal",
+					"features": [
+						"liga",
+						"onum",
+						"ss03"
+					],
+					"weight": 300,
+					"filename": "Sansation-LightItalic.woff"
+				},
+				{
+					"filesize": 24832,
+					"style": "normal",
+					"features": [
+						"liga",
+						"onum",
+						"ss03"
+					],
+					"weight": 400,
+					"filename": "Sansation-Italic.woff"
+				},
+				{
+					"filesize": 23196,
+					"style": "normal",
+					"features": [
+						"liga",
+						"onum",
+						"salt",
+						"ss01",
+						"ss02",
+						"ss03"
+					],
+					"weight": 400,
+					"filename": "Sansation-Regular.woff"
+				},
+				{
+					"filesize": 23772,
+					"style": "normal",
+					"features": [
+						"liga",
+						"onum",
+						"salt",
+						"ss01",
+						"ss02",
+						"ss03"
+					],
+					"weight": 700,
+					"filename": "Sansation-Bold.woff"
+				},
+				{
+					"filesize": 25156,
+					"style": "normal",
+					"features": [
+						"liga",
+						"onum",
+						"ss03"
+					],
+					"weight": 700,
+					"filename": "Sansation-BoldItalic.woff"
+				}
+			],
+			"name": "Sansation"
+		},
+		{
 			"category": "Serif",
 			"variants": [
 				{
@@ -6329,6 +7966,27 @@ webpackJsonp([1],[
 			"name": "Share Tech"
 		},
 		{
+			"category": "Monospace",
+			"variants": [
+				{
+					"filesize": 12932,
+					"style": "normal",
+					"features": [
+						"aalt",
+						"cpsp",
+						"frac",
+						"liga",
+						"numr",
+						"ordn",
+						"sups"
+					],
+					"weight": 400,
+					"filename": "ShareTechMono-Regular.woff"
+				}
+			],
+			"name": "Share Tech Mono"
+		},
+		{
 			"category": "Display",
 			"variants": [
 				{
@@ -6347,6 +8005,36 @@ webpackJsonp([1],[
 				}
 			],
 			"name": "Shojumaru"
+		},
+		{
+			"category": "Display",
+			"variants": [
+				{
+					"filesize": 61236,
+					"style": "normal",
+					"features": [
+						"liga"
+					],
+					"weight": 400,
+					"filename": "Siemreap.woff"
+				}
+			],
+			"name": "Siamreap"
+		},
+		{
+			"category": "Display",
+			"variants": [
+				{
+					"filesize": 61236,
+					"style": "normal",
+					"features": [
+						"liga"
+					],
+					"weight": 400,
+					"filename": "Siemreap.woff"
+				}
+			],
+			"name": "Siemreap"
 		},
 		{
 			"category": "Display",
@@ -6433,6 +8121,25 @@ webpackJsonp([1],[
 			"name": "Sintony"
 		},
 		{
+			"category": "Display",
+			"variants": [
+				{
+					"filesize": 46920,
+					"style": "normal",
+					"features": [
+						"aalt",
+						"frac",
+						"liga",
+						"ordn",
+						"sups"
+					],
+					"weight": 400,
+					"filename": "SnowburstOne-Regular.woff"
+				}
+			],
+			"name": "Snowburst One"
+		},
+		{
 			"category": "Serif",
 			"variants": [
 				{
@@ -6483,6 +8190,201 @@ webpackJsonp([1],[
 				}
 			],
 			"name": "Sorts Mill Goudy"
+		},
+		{
+			"category": "Monospace",
+			"variants": [
+				{
+					"filesize": 54896,
+					"style": "normal",
+					"features": [
+						"aalt",
+						"case",
+						"ccmp",
+						"dnom",
+						"frac",
+						"mark",
+						"mkmk",
+						"numr",
+						"onum",
+						"ordn",
+						"salt",
+						"sinf",
+						"size",
+						"ss01",
+						"ss02",
+						"ss03",
+						"ss04",
+						"subs",
+						"sups"
+					],
+					"weight": 200,
+					"filename": "SourceCodePro-ExtraLight.woff"
+				},
+				{
+					"filesize": 55696,
+					"style": "normal",
+					"features": [
+						"aalt",
+						"case",
+						"ccmp",
+						"dnom",
+						"frac",
+						"mark",
+						"mkmk",
+						"numr",
+						"onum",
+						"ordn",
+						"salt",
+						"sinf",
+						"size",
+						"ss01",
+						"ss02",
+						"ss03",
+						"ss04",
+						"subs",
+						"sups"
+					],
+					"weight": 300,
+					"filename": "SourceCodePro-Light.woff"
+				},
+				{
+					"filesize": 55472,
+					"style": "normal",
+					"features": [
+						"aalt",
+						"case",
+						"ccmp",
+						"dnom",
+						"frac",
+						"mark",
+						"mkmk",
+						"numr",
+						"onum",
+						"ordn",
+						"salt",
+						"sinf",
+						"size",
+						"ss01",
+						"ss02",
+						"ss03",
+						"ss04",
+						"subs",
+						"sups"
+					],
+					"weight": 400,
+					"filename": "SourceCodePro-Regular.woff"
+				},
+				{
+					"filesize": 55344,
+					"style": "normal",
+					"features": [
+						"aalt",
+						"case",
+						"ccmp",
+						"dnom",
+						"frac",
+						"mark",
+						"mkmk",
+						"numr",
+						"onum",
+						"ordn",
+						"salt",
+						"sinf",
+						"size",
+						"ss01",
+						"ss02",
+						"ss03",
+						"ss04",
+						"subs",
+						"sups"
+					],
+					"weight": 500,
+					"filename": "SourceCodePro-Medium.woff"
+				},
+				{
+					"filesize": 55360,
+					"style": "normal",
+					"features": [
+						"aalt",
+						"case",
+						"ccmp",
+						"dnom",
+						"frac",
+						"mark",
+						"mkmk",
+						"numr",
+						"onum",
+						"ordn",
+						"salt",
+						"sinf",
+						"size",
+						"ss01",
+						"ss02",
+						"ss03",
+						"ss04",
+						"subs",
+						"sups"
+					],
+					"weight": 600,
+					"filename": "SourceCodePro-Semibold.woff"
+				},
+				{
+					"filesize": 55344,
+					"style": "normal",
+					"features": [
+						"aalt",
+						"case",
+						"ccmp",
+						"dnom",
+						"frac",
+						"mark",
+						"mkmk",
+						"numr",
+						"onum",
+						"ordn",
+						"salt",
+						"sinf",
+						"size",
+						"ss01",
+						"ss02",
+						"ss03",
+						"ss04",
+						"subs",
+						"sups"
+					],
+					"weight": 700,
+					"filename": "SourceCodePro-Bold.woff"
+				},
+				{
+					"filesize": 54596,
+					"style": "normal",
+					"features": [
+						"aalt",
+						"case",
+						"ccmp",
+						"dnom",
+						"frac",
+						"mark",
+						"mkmk",
+						"numr",
+						"onum",
+						"ordn",
+						"salt",
+						"sinf",
+						"size",
+						"ss01",
+						"ss02",
+						"ss03",
+						"ss04",
+						"subs",
+						"sups"
+					],
+					"weight": 900,
+					"filename": "SourceCodePro-Black.woff"
+				}
+			],
+			"name": "Source Code Pro"
 		},
 		{
 			"category": "Sans Serif",
@@ -6927,6 +8829,21 @@ webpackJsonp([1],[
 			"name": "Spicy Rice"
 		},
 		{
+			"category": "Sans Serif",
+			"variants": [
+				{
+					"filesize": 16052,
+					"style": "normal",
+					"features": [
+						"cpsp"
+					],
+					"weight": 400,
+					"filename": "Spinnaker-Regular.woff"
+				}
+			],
+			"name": "Spinnaker"
+		},
+		{
 			"category": "Handwriting",
 			"variants": [
 				{
@@ -6985,6 +8902,21 @@ webpackJsonp([1],[
 				}
 			],
 			"name": "Stint Ultra Expanded"
+		},
+		{
+			"category": "Display",
+			"variants": [
+				{
+					"filesize": 67044,
+					"style": "normal",
+					"features": [
+						"liga"
+					],
+					"weight": 400,
+					"filename": "Taprom.woff"
+				}
+			],
+			"name": "Taprom"
 		},
 		{
 			"category": "Sans Serif",
@@ -7147,6 +9079,70 @@ webpackJsonp([1],[
 				}
 			],
 			"name": "Terminal Dosis Light"
+		},
+		{
+			"category": "Sans Serif",
+			"variants": [
+				{
+					"filesize": 17556,
+					"style": "normal",
+					"features": [
+						"aalt",
+						"cpsp",
+						"dnom",
+						"frac",
+						"liga",
+						"numr",
+						"ordn",
+						"sups"
+					],
+					"weight": 400,
+					"filename": "TextMeOne-Regular.woff"
+				}
+			],
+			"name": "Text Me One"
+		},
+		{
+			"category": "Serif",
+			"variants": [
+				{
+					"filesize": 57064,
+					"style": "normal",
+					"features": [
+						"liga"
+					],
+					"weight": 400,
+					"filename": "Thabit.woff"
+				},
+				{
+					"filesize": 61228,
+					"style": "italic",
+					"features": [
+						"liga"
+					],
+					"weight": 400,
+					"filename": "Thabit-Oblique.woff"
+				},
+				{
+					"filesize": 57684,
+					"style": "normal",
+					"features": [
+						"liga"
+					],
+					"weight": 700,
+					"filename": "Thabit-Bold.woff"
+				},
+				{
+					"filesize": 61348,
+					"style": "italic",
+					"features": [
+						"liga"
+					],
+					"weight": 700,
+					"filename": "Thabit-BoldOblique.woff"
+				}
+			],
+			"name": "Thabit"
 		},
 		{
 			"category": "Serif",
@@ -7628,6 +9624,92 @@ webpackJsonp([1],[
 			"name": "Ubuntu Condensed"
 		},
 		{
+			"category": "Monospace",
+			"variants": [
+				{
+					"filesize": 111736,
+					"style": "normal",
+					"features": [
+						"afrc",
+						"case",
+						"dnom",
+						"frac",
+						"numr",
+						"ordn",
+						"salt",
+						"sinf",
+						"ss01",
+						"ss02",
+						"subs",
+						"sups"
+					],
+					"weight": 400,
+					"filename": "UbuntuMono-Regular.woff"
+				},
+				{
+					"filesize": 114604,
+					"style": "italic",
+					"features": [
+						"afrc",
+						"case",
+						"dnom",
+						"frac",
+						"numr",
+						"ordn",
+						"salt",
+						"sinf",
+						"ss01",
+						"ss02",
+						"subs",
+						"sups"
+					],
+					"weight": 400,
+					"filename": "UbuntuMono-Italic.woff"
+				},
+				{
+					"filesize": 107752,
+					"style": "normal",
+					"features": [
+						"afrc",
+						"case",
+						"dnom",
+						"frac",
+						"numr",
+						"ordn",
+						"salt",
+						"sinf",
+						"ss01",
+						"ss02",
+						"subs",
+						"sups"
+					],
+					"weight": 700,
+					"filename": "UbuntuMono-Bold.woff"
+				},
+				{
+					"filesize": 127552,
+					"style": "italic",
+					"features": [
+						"afrc",
+						"case",
+						"dnom",
+						"frac",
+						"numr",
+						"ordn",
+						"salt",
+						"sinf",
+						"ss01",
+						"ss02",
+						"subs",
+						"sups"
+					],
+					"weight": 700,
+					"filename": "UbuntuMono-BoldItalic.woff"
+				}
+			],
+			"name": "Ubuntu Mono"
+		},
+		{
 			"category": "Display",
 			"variants": [
 				{
@@ -7646,6 +9728,54 @@ webpackJsonp([1],[
 				}
 			],
 			"name": "Uncial Antiqua"
+		},
+		{
+			"category": "Display",
+			"variants": [
+				{
+					"filesize": 45572,
+					"style": "normal",
+					"features": [
+						"hlig",
+						"liga",
+						"rlig"
+					],
+					"weight": 400,
+					"filename": "UnifrakturMaguntia-Book.woff"
+				}
+			],
+			"name": "UnifrakturMaguntia"
+		},
+		{
+			"category": "Sans Serif",
+			"variants": [
+				{
+					"filesize": 79400,
+					"style": "normal",
+					"features": [
+						"aalt",
+						"c2sc",
+						"dlig",
+						"dnom",
+						"frac",
+						"liga",
+						"lnum",
+						"numr",
+						"onum",
+						"ordn",
+						"pnum",
+						"sinf",
+						"smcp",
+						"ss01",
+						"subs",
+						"sups",
+						"tnum"
+					],
+					"weight": 400,
+					"filename": "Varela-Regular.woff"
+				}
+			],
+			"name": "Varela"
 		},
 		{
 			"category": "Handwriting",
@@ -7875,9 +10005,6 @@ webpackJsonp([1],[
 
 /***/ },
 /* 4 */
-/*!***********************!*\
-  !*** ./features.json ***!
-  \***********************/
 /***/ function(module, exports, __webpack_require__) {
 
 	module.exports = {
@@ -8018,18 +10145,15 @@ webpackJsonp([1],[
 
 /***/ },
 /* 5 */
-/*!************************!*\
-  !*** ./css/style.less ***!
-  \************************/
 /***/ function(module, exports, __webpack_require__) {
 
 	// style-loader: Adds some css to the DOM by adding a <style> tag
-	
+
 	// load the styles
-	var content = __webpack_require__(/*! !./~/css-loader!./~/less-loader!./css/style.less */ 6);
+	var content = __webpack_require__(6);
 	if(typeof content === 'string') content = [[module.id, content, '']];
 	// add the styles to the DOM
-	var update = __webpack_require__(/*! ./~/style-loader/addStyles.js */ 7)(content, {});
+	var update = __webpack_require__(7)(content, {});
 	// Hot Module Replacement
 	if(false) {
 		// When the styles change, update the <style> tags
@@ -8044,19 +10168,13 @@ webpackJsonp([1],[
 
 /***/ },
 /* 6 */
-/*!*******************************************************!*\
-  !*** ./~/css-loader!./~/less-loader!./css/style.less ***!
-  \*******************************************************/
 /***/ function(module, exports, __webpack_require__) {
 
-	exports = module.exports = __webpack_require__(/*! ./~/css-loader/cssToString.js */ 10)();
+	exports = module.exports = __webpack_require__(10)();
 	exports.push([module.id, "body,\ndiv,\ndl,\ndt,\ndd,\nul,\nol,\nli,\nh1,\nh2,\nh3,\nh4,\nh5,\nh6,\npre,\nform,\nfieldset,\ninput,\np,\nblockquote,\nth,\ntd {\n  margin: 0;\n  padding: 0;\n}\ntable {\n  border-collapse: collapse;\n  border-spacing: 0;\n}\nfieldset,\nimg {\n  border: 0;\n}\naddress,\ncaption,\ncite,\ncode,\ndfn,\nem,\nstrong,\nth,\nvar {\n  font-style: normal;\n  font-weight: normal;\n}\nol,\nul {\n  list-style: none;\n}\ncaption,\nth {\n  text-align: left;\n}\nh1,\nh2,\nh3,\nh4,\nh5,\nh6 {\n  font-size: 100%;\n  font-weight: normal;\n}\nq:before,\nq:after {\n  content: '';\n}\na,\na:link,\na:visited,\na:active,\na:hover {\n  outline: none;\n}\n:focus {\n  outline: none;\n}\nhtml {\n  text-rendering: optimizeLegibility;\n}\nbody {\n  font-family: 'Source Sans Pro', sans-serif;\n  background-color: #f8f8f8;\n  color: #222;\n}\na {\n  color: #000;\n  text-decoration: none;\n}\n.ui {\n  display: -webkit-flex;\n  display: -moz-flex;\n  display: -ms-flexbox;\n  display: -ms-flex;\n  display: flex;\n  min-height: 100vh;\n}\n.ui > * {\n  -webkit-box-sizing: border-box;\n  -moz-box-sizing: border-box;\n  -ms-box-sizing: border-box;\n  box-sizing: border-box;\n  padding: 60px 30px;\n  max-height: 100vh;\n  overflow: auto;\n}\n.font-selector,\n.feature-selector {\n  width: 25%;\n}\n.previewer {\n  background-color: #ffffff;\n  box-shadow: 0 0 4px 0 #dddddd;\n  flex: 1;\n}\n.preview {\n  font-size: 48px;\n  line-height: 1.1em;\n  text-rendering: optimizeLegibility;\n}\n.preview p {\n  -ms-font-feature-settings: inherit;\n  -moz-font-feature-settings: inherit;\n  -webkit-font-feature-settings: inherit;\n  font-feature-settings: inherit;\n}\n.preview p + p {\n  margin-top: 24px;\n}\n.preview:focus {\n  outline: none;\n}\n.fonts .font {\n  display: block;\n}\n.fonts .font + .font {\n  margin-top: 20px;\n}\n.fonts .fontname {\n  font-weight: bold;\n}\n.fonts .variantname,\n.fonts .featurename {\n  display: inline-block;\n}\n.fonts .variantname {\n  cursor: pointer;\n}\n.fonts .featurename.partial {\n  font-style: italic;\n}\n.font-info {\n  font-weight: bold;\n}\n.font-info * {\n  display: inline-block;\n}\n.features label {\n  display: block;\n  margin-top: 10px;\n}\n", ""]);
 
 /***/ },
 /* 7 */
-/*!*************************************!*\
-  !*** ./~/style-loader/addStyles.js ***!
-  \*************************************/
 /***/ function(module, exports, __webpack_require__) {
 
 	/*
@@ -8079,20 +10197,20 @@ webpackJsonp([1],[
 		}),
 		singletonElement = null,
 		singletonCounter = 0;
-	
+
 	module.exports = function(list, options) {
-		if(true) {
+		if(false) {
 			if(typeof document !== "object") throw new Error("The style-loader cannot be used in a non-browser environment");
 		}
-	
+
 		options = options || {};
 		// Force single-tag solution on IE9, which has a hard limit on the # of <style>
 		// tags it will allow on a page
 		if (typeof options.singleton === "undefined") options.singleton = isIE9();
-	
+
 		var styles = listToStyles(list);
 		addStylesToDom(styles, options);
-	
+
 		return function update(newList) {
 			var mayRemove = [];
 			for(var i = 0; i < styles.length; i++) {
@@ -8115,7 +10233,7 @@ webpackJsonp([1],[
 			}
 		};
 	}
-	
+
 	function addStylesToDom(styles, options) {
 		for(var i = 0; i < styles.length; i++) {
 			var item = styles[i];
@@ -8137,7 +10255,7 @@ webpackJsonp([1],[
 			}
 		}
 	}
-	
+
 	function listToStyles(list) {
 		var styles = [];
 		var newStyles = {};
@@ -8155,7 +10273,7 @@ webpackJsonp([1],[
 		}
 		return styles;
 	}
-	
+
 	function createStyleElement() {
 		var styleElement = document.createElement("style");
 		var head = getHeadElement();
@@ -8163,10 +10281,10 @@ webpackJsonp([1],[
 		head.appendChild(styleElement);
 		return styleElement;
 	}
-	
+
 	function addStyle(obj, options) {
 		var styleElement, update, remove;
-	
+
 		if (options.singleton) {
 			var styleIndex = singletonCounter++;
 			styleElement = singletonElement || (singletonElement = createStyleElement());
@@ -8179,9 +10297,9 @@ webpackJsonp([1],[
 				styleElement.parentNode.removeChild(styleElement);
 			};
 		}
-	
+
 		update(obj);
-	
+
 		return function updateStyle(newObj) {
 			if(newObj) {
 				if(newObj.css === obj.css && newObj.media === obj.media && newObj.sourceMap === obj.sourceMap)
@@ -8192,7 +10310,7 @@ webpackJsonp([1],[
 			}
 		};
 	}
-	
+
 	function replaceText(source, id, replacement) {
 		var boundaries = ["/** >>" + id + " **/", "/** " + id + "<< **/"];
 		var start = source.lastIndexOf(boundaries[0]);
@@ -8206,10 +10324,10 @@ webpackJsonp([1],[
 			return source + wrappedReplacement;
 		}
 	}
-	
+
 	function applyToSingletonTag(styleElement, index, remove, obj) {
 		var css = remove ? "" : obj.css;
-	
+
 		if(styleElement.styleSheet) {
 			styleElement.styleSheet.cssText = replaceText(styleElement.styleSheet.cssText, index, css);
 		} else {
@@ -8223,23 +10341,23 @@ webpackJsonp([1],[
 			}
 		}
 	}
-	
+
 	function applyToTag(styleElement, obj) {
 		var css = obj.css;
 		var media = obj.media;
 		var sourceMap = obj.sourceMap;
-	
+
 		if(sourceMap && typeof btoa === "function") {
 			try {
 				css += "\n/*# sourceMappingURL=data:application/json;base64," + btoa(JSON.stringify(sourceMap)) + " */";
 				css = "@import url(\"data:stylesheet/css;base64," + btoa(css) + "\")";
 			} catch(e) {}
 		}
-	
+
 		if(media) {
 			styleElement.setAttribute("media", media)
 		}
-	
+
 		if(styleElement.styleSheet) {
 			styleElement.styleSheet.cssText = css;
 		} else {
@@ -8255,9 +10373,6 @@ webpackJsonp([1],[
 /* 8 */,
 /* 9 */,
 /* 10 */
-/*!*************************************!*\
-  !*** ./~/css-loader/cssToString.js ***!
-  \*************************************/
 /***/ function(module, exports, __webpack_require__) {
 
 	module.exports = function() {
@@ -8279,4 +10394,3 @@ webpackJsonp([1],[
 
 /***/ }
 ]);
-//# sourceMappingURL=bundle.js.map

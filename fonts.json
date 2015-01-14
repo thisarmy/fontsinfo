@@ -55,6 +55,150 @@
     "name": "Actor"
   },
   {
+    "category": "Sans Serif",
+    "variants": [
+      {
+        "filesize": 45828,
+        "style": "normal",
+        "features": [
+          "liga"
+        ],
+        "weight": 400,
+        "filename": "Alef-Regular.woff"
+      },
+      {
+        "filesize": 44528,
+        "style": "normal",
+        "features": [
+          "liga"
+        ],
+        "weight": 700,
+        "filename": "Alef-Bold.woff"
+      }
+    ],
+    "name": "Alef"
+  },
+  {
+    "category": "Serif",
+    "variants": [
+      {
+        "filesize": 92328,
+        "style": "normal",
+        "features": [
+          "cpsp",
+          "dnom",
+          "frac",
+          "liga",
+          "lnum",
+          "numr",
+          "onum",
+          "pnum",
+          "sinf",
+          "sups",
+          "tnum"
+        ],
+        "weight": 400,
+        "filename": "Alegreya-Regular.woff"
+      },
+      {
+        "filesize": 91656,
+        "style": "italic",
+        "features": [
+          "cpsp",
+          "dnom",
+          "frac",
+          "liga",
+          "lnum",
+          "numr",
+          "onum",
+          "pnum",
+          "sinf",
+          "sups",
+          "tnum"
+        ],
+        "weight": 400,
+        "filename": "Alegreya-Italic.woff"
+      },
+      {
+        "filesize": 80728,
+        "style": "normal",
+        "features": [
+          "cpsp",
+          "dnom",
+          "frac",
+          "liga",
+          "lnum",
+          "numr",
+          "onum",
+          "pnum",
+          "sinf",
+          "sups",
+          "tnum"
+        ],
+        "weight": 700,
+        "filename": "Alegreya-Bold.woff"
+      },
+      {
+        "filesize": 79236,
+        "style": "italic",
+        "features": [
+          "cpsp",
+          "dnom",
+          "frac",
+          "liga",
+          "lnum",
+          "numr",
+          "onum",
+          "pnum",
+          "sinf",
+          "sups",
+          "tnum"
+        ],
+        "weight": 700,
+        "filename": "Alegreya-BoldItalic.woff"
+      },
+      {
+        "filesize": 78696,
+        "style": "normal",
+        "features": [
+          "cpsp",
+          "dnom",
+          "frac",
+          "liga",
+          "lnum",
+          "numr",
+          "onum",
+          "pnum",
+          "sinf",
+          "sups",
+          "tnum"
+        ],
+        "weight": 900,
+        "filename": "Alegreya-Black.woff"
+      },
+      {
+        "filesize": 79868,
+        "style": "italic",
+        "features": [
+          "cpsp",
+          "dnom",
+          "frac",
+          "liga",
+          "lnum",
+          "numr",
+          "onum",
+          "pnum",
+          "sinf",
+          "sups",
+          "tnum"
+        ],
+        "weight": 900,
+        "filename": "Alegreya-BlackItalic.woff"
+      }
+    ],
+    "name": "Alegreya"
+  },
+  {
     "category": "Serif",
     "variants": [
       {
@@ -140,6 +284,28 @@
       }
     ],
     "name": "Almendra"
+  },
+  {
+    "category": "Handwriting",
+    "variants": [
+      {
+        "filesize": 25496,
+        "style": "normal",
+        "features": [
+          "liga"
+        ],
+        "weight": 400,
+        "filename": "AmaticSC-Regular.woff"
+      },
+      {
+        "filesize": 24704,
+        "style": "normal",
+        "features": [],
+        "weight": 700,
+        "filename": "AmaticSC-Bold.woff"
+      }
+    ],
+    "name": "Amatic SC"
   },
   {
     "category": "Serif",
@@ -342,6 +508,21 @@
     "name": "Andika"
   },
   {
+    "category": "Display",
+    "variants": [
+      {
+        "filesize": 53468,
+        "style": "normal",
+        "features": [
+          "liga"
+        ],
+        "weight": 400,
+        "filename": "Angkor.woff"
+      }
+    ],
+    "name": "Angkor"
+  },
+  {
     "category": "Serif",
     "variants": [
       {
@@ -528,6 +709,36 @@
     "category": "Sans Serif",
     "variants": [
       {
+        "filesize": 19820,
+        "style": "normal",
+        "features": [
+          "calt"
+        ],
+        "weight": 400,
+        "filename": "Basic-Regular.woff"
+      }
+    ],
+    "name": "Basic"
+  },
+  {
+    "category": "Display",
+    "variants": [
+      {
+        "filesize": 55916,
+        "style": "normal",
+        "features": [
+          "liga"
+        ],
+        "weight": 400,
+        "filename": "Bayon.woff"
+      }
+    ],
+    "name": "Bayon"
+  },
+  {
+    "category": "Sans Serif",
+    "variants": [
+      {
         "filesize": 16208,
         "style": "normal",
         "features": [
@@ -575,6 +786,21 @@
     "name": "BenchNine"
   },
   {
+    "category": "Serif",
+    "variants": [
+      {
+        "filesize": 31180,
+        "style": "normal",
+        "features": [
+          "liga"
+        ],
+        "weight": 400,
+        "filename": "Bentham-Regular.woff"
+      }
+    ],
+    "name": "Bentham"
+  },
+  {
     "category": "Handwriting",
     "variants": [
       {
@@ -615,6 +841,21 @@
     "name": "Bigelow Rules"
   },
   {
+    "category": "Display",
+    "variants": [
+      {
+        "filesize": 66300,
+        "style": "normal",
+        "features": [
+          "liga"
+        ],
+        "weight": 400,
+        "filename": "Bokor.woff"
+      }
+    ],
+    "name": "Bokor"
+  },
+  {
     "category": "Sans Serif",
     "variants": [
       {
@@ -653,6 +894,21 @@
       }
     ],
     "name": "Bruno Ace SC"
+  },
+  {
+    "category": "Display",
+    "variants": [
+      {
+        "filesize": 44400,
+        "style": "normal",
+        "features": [
+          "liga"
+        ],
+        "weight": 400,
+        "filename": "ButchermanCaps-Regular.woff"
+      }
+    ],
+    "name": "Butcherman Caps"
   },
   {
     "category": "Sans Serif",
@@ -956,6 +1212,21 @@
     "category": "Display",
     "variants": [
       {
+        "filesize": 61792,
+        "style": "normal",
+        "features": [
+          "liga"
+        ],
+        "weight": 400,
+        "filename": "Chenla.woff"
+      }
+    ],
+    "name": "Chenla"
+  },
+  {
+    "category": "Display",
+    "variants": [
+      {
         "filesize": 78580,
         "style": "normal",
         "features": [
@@ -1032,6 +1303,47 @@
       }
     ],
     "name": "Coda"
+  },
+  {
+    "category": "Display",
+    "variants": [
+      {
+        "filesize": 63856,
+        "style": "normal",
+        "features": [
+          "liga"
+        ],
+        "weight": 400,
+        "filename": "Content-Regular.woff"
+      },
+      {
+        "filesize": 63416,
+        "style": "normal",
+        "features": [
+          "liga"
+        ],
+        "weight": 700,
+        "filename": "Content-Bold.woff"
+      }
+    ],
+    "name": "Content"
+  },
+  {
+    "category": "Handwriting",
+    "variants": [
+      {
+        "filesize": 21728,
+        "style": "normal",
+        "features": [
+          "fina",
+          "init",
+          "liga"
+        ],
+        "weight": 400,
+        "filename": "Cookie-Regular.woff"
+      }
+    ],
+    "name": "Cookie"
   },
   {
     "category": "Display",
@@ -1137,6 +1449,21 @@
     "name": "Dancing Script"
   },
   {
+    "category": "Display",
+    "variants": [
+      {
+        "filesize": 60164,
+        "style": "normal",
+        "features": [
+          "liga"
+        ],
+        "weight": 400,
+        "filename": "Dangrek.woff"
+      }
+    ],
+    "name": "Dangrek"
+  },
+  {
     "category": "Handwriting",
     "variants": [
       {
@@ -1215,6 +1542,43 @@
       }
     ],
     "name": "Domine"
+  },
+  {
+    "category": "Serif",
+    "variants": [
+      {
+        "filesize": 34976,
+        "style": "normal",
+        "features": [
+          "aalt",
+          "frac",
+          "ordn",
+          "sups"
+        ],
+        "weight": 400,
+        "filename": "DonegalOne-Regular.woff"
+      }
+    ],
+    "name": "Donegal One"
+  },
+  {
+    "category": "Sans Serif",
+    "variants": [
+      {
+        "filesize": 31692,
+        "style": "normal",
+        "features": [
+          "calt",
+          "liga",
+          "smcp",
+          "subs",
+          "sups"
+        ],
+        "weight": 400,
+        "filename": "DoppioOne-Regular.woff"
+      }
+    ],
+    "name": "Doppio One"
   },
   {
     "category": "Sans Serif",
@@ -1468,6 +1832,57 @@
       }
     ],
     "name": "Economica"
+  },
+  {
+    "category": "Display",
+    "variants": [
+      {
+        "filesize": 19912,
+        "style": "normal",
+        "features": [
+          "liga",
+          "salt"
+        ],
+        "weight": 400,
+        "filename": "Elsie-Regular.woff"
+      },
+      {
+        "filesize": 22512,
+        "style": "normal",
+        "features": [
+          "aalt",
+          "liga",
+          "salt"
+        ],
+        "weight": 900,
+        "filename": "Elsie-Black.woff"
+      }
+    ],
+    "name": "Elsie"
+  },
+  {
+    "category": "Display",
+    "variants": [
+      {
+        "filesize": 18640,
+        "style": "normal",
+        "features": [
+          "liga"
+        ],
+        "weight": 400,
+        "filename": "ElsieSwashCaps-Regular.woff"
+      },
+      {
+        "filesize": 21172,
+        "style": "normal",
+        "features": [
+          "liga"
+        ],
+        "weight": 900,
+        "filename": "ElsieSwashCaps-Black.woff"
+      }
+    ],
+    "name": "Elsie Swash Caps"
   },
   {
     "category": "Handwriting",
@@ -2110,6 +2525,25 @@
     "name": "Fenix"
   },
   {
+    "category": "Sans Serif",
+    "variants": [
+      {
+        "filesize": 23252,
+        "style": "normal",
+        "features": [
+          "aalt",
+          "frac",
+          "liga",
+          "ordn",
+          "sups"
+        ],
+        "weight": 400,
+        "filename": "FjallaOne-Regular.woff"
+      }
+    ],
+    "name": "Fjalla One"
+  },
+  {
     "category": "Handwriting",
     "variants": [
       {
@@ -2181,6 +2615,40 @@
       }
     ],
     "name": "Fredoka One"
+  },
+  {
+    "category": "Display",
+    "variants": [
+      {
+        "filesize": 80232,
+        "style": "normal",
+        "features": [
+          "liga"
+        ],
+        "weight": 400,
+        "filename": "Freehand.woff"
+      }
+    ],
+    "name": "Freehand"
+  },
+  {
+    "category": "Display",
+    "variants": [
+      {
+        "filesize": 41692,
+        "style": "normal",
+        "features": [
+          "aalt",
+          "frac",
+          "liga",
+          "ordn",
+          "sups"
+        ],
+        "weight": 400,
+        "filename": "Fruktur-Regular.woff"
+      }
+    ],
+    "name": "Fruktur"
   },
   {
     "category": "Serif",
@@ -2344,6 +2812,114 @@
     "category": "Serif",
     "variants": [
       {
+        "filesize": 101956,
+        "style": "normal",
+        "features": [
+          "aalt",
+          "ccmp",
+          "mark",
+          "mkmk"
+        ],
+        "weight": 400,
+        "filename": "GenBasR.woff"
+      },
+      {
+        "filesize": 106052,
+        "style": "italic",
+        "features": [
+          "aalt",
+          "ccmp",
+          "mark",
+          "mkmk"
+        ],
+        "weight": 400,
+        "filename": "GenBasI.woff"
+      },
+      {
+        "filesize": 106952,
+        "style": "normal",
+        "features": [
+          "aalt",
+          "ccmp",
+          "mark",
+          "mkmk"
+        ],
+        "weight": 700,
+        "filename": "GenBasB.woff"
+      },
+      {
+        "filesize": 103432,
+        "style": "italic",
+        "features": [
+          "aalt",
+          "ccmp",
+          "mark",
+          "mkmk"
+        ],
+        "weight": 700,
+        "filename": "GenBasBI.woff"
+      }
+    ],
+    "name": "Gentium Basic"
+  },
+  {
+    "category": "Serif",
+    "variants": [
+      {
+        "filesize": 105856,
+        "style": "normal",
+        "features": [
+          "aalt",
+          "ccmp",
+          "mark",
+          "mkmk"
+        ],
+        "weight": 400,
+        "filename": "GenBkBasR.woff"
+      },
+      {
+        "filesize": 109036,
+        "style": "italic",
+        "features": [
+          "aalt",
+          "ccmp",
+          "mark",
+          "mkmk"
+        ],
+        "weight": 400,
+        "filename": "GenBkBasI.woff"
+      },
+      {
+        "filesize": 106584,
+        "style": "normal",
+        "features": [
+          "aalt",
+          "ccmp",
+          "mark",
+          "mkmk"
+        ],
+        "weight": 700,
+        "filename": "GenBkBasB.woff"
+      },
+      {
+        "filesize": 102212,
+        "style": "italic",
+        "features": [
+          "aalt",
+          "ccmp",
+          "mark",
+          "mkmk"
+        ],
+        "weight": 700,
+        "filename": "GenBkBasBI.woff"
+      }
+    ],
+    "name": "Gentium Book Basic"
+  },
+  {
+    "category": "Serif",
+    "variants": [
+      {
         "filesize": 19332,
         "style": "normal",
         "features": [
@@ -2371,6 +2947,21 @@
       }
     ],
     "name": "Glass Antiqua"
+  },
+  {
+    "category": "Handwriting",
+    "variants": [
+      {
+        "filesize": 25040,
+        "style": "normal",
+        "features": [
+          "liga"
+        ],
+        "weight": 400,
+        "filename": "GochiHand-Regular.woff"
+      }
+    ],
+    "name": "Gochi Hand"
   },
   {
     "category": "Serif",
@@ -2503,6 +3094,311 @@
       }
     ],
     "name": "Hermeneus One"
+  },
+  {
+    "category": "Serif",
+    "variants": [
+      {
+        "filesize": 123344,
+        "style": "normal",
+        "features": [
+          "aalt",
+          "dlig",
+          "hist",
+          "liga",
+          "salt",
+          "ss01",
+          "ss02",
+          "ss03",
+          "ss04"
+        ],
+        "weight": 400,
+        "filename": "IMFePIrm28P.woff"
+      },
+      {
+        "filesize": 137272,
+        "style": "italic",
+        "features": [
+          "aalt",
+          "dlig",
+          "hist",
+          "liga",
+          "salt",
+          "ss01",
+          "ss02",
+          "ss03",
+          "ss04",
+          "swsh"
+        ],
+        "weight": 400,
+        "filename": "IMFePIit28P.woff"
+      }
+    ],
+    "name": "IM Fell DW Pica"
+  },
+  {
+    "category": "Serif",
+    "variants": [
+      {
+        "filesize": 111352,
+        "style": "normal",
+        "features": [
+          "aalt",
+          "calt",
+          "salt",
+          "ss02",
+          "ss03",
+          "ss04"
+        ],
+        "weight": 400,
+        "filename": "IMFePIsc28P.woff"
+      }
+    ],
+    "name": "IM Fell DW Pica SC"
+  },
+  {
+    "category": "Serif",
+    "variants": [
+      {
+        "filesize": 119924,
+        "style": "normal",
+        "features": [
+          "aalt",
+          "dlig",
+          "hist",
+          "liga",
+          "salt",
+          "ss01",
+          "ss02",
+          "ss03",
+          "ss04"
+        ],
+        "weight": 400,
+        "filename": "IMFeDPrm28P.woff"
+      },
+      {
+        "filesize": 142336,
+        "style": "italic",
+        "features": [
+          "aalt",
+          "dlig",
+          "hist",
+          "liga",
+          "salt",
+          "ss01",
+          "ss02",
+          "ss03",
+          "ss04",
+          "swsh"
+        ],
+        "weight": 400,
+        "filename": "IMFeDPit28P.woff"
+      }
+    ],
+    "name": "IM Fell Double Pica"
+  },
+  {
+    "category": "Serif",
+    "variants": [
+      {
+        "filesize": 110008,
+        "style": "normal",
+        "features": [
+          "aalt",
+          "calt",
+          "salt",
+          "ss02",
+          "ss03",
+          "ss04"
+        ],
+        "weight": 400,
+        "filename": "IMFeDPsc28P.woff"
+      }
+    ],
+    "name": "IM Fell Double Pica SC"
+  },
+  {
+    "category": "Serif",
+    "variants": [
+      {
+        "filesize": 117232,
+        "style": "normal",
+        "features": [
+          "aalt",
+          "dlig",
+          "hist",
+          "liga",
+          "salt",
+          "ss01",
+          "ss02",
+          "ss03",
+          "ss04"
+        ],
+        "weight": 400,
+        "filename": "IMFeENrm28P.woff"
+      },
+      {
+        "filesize": 121040,
+        "style": "italic",
+        "features": [
+          "aalt",
+          "dlig",
+          "hist",
+          "liga",
+          "salt",
+          "ss01",
+          "ss02",
+          "ss03",
+          "ss04",
+          "swsh"
+        ],
+        "weight": 400,
+        "filename": "IMFeENit28P.woff"
+      }
+    ],
+    "name": "IM Fell English"
+  },
+  {
+    "category": "Serif",
+    "variants": [
+      {
+        "filesize": 109120,
+        "style": "normal",
+        "features": [
+          "aalt",
+          "calt",
+          "salt",
+          "ss02",
+          "ss03",
+          "ss04"
+        ],
+        "weight": 400,
+        "filename": "IMFeENsc28P.woff"
+      }
+    ],
+    "name": "IM Fell English SC"
+  },
+  {
+    "category": "Serif",
+    "variants": [
+      {
+        "filesize": 84480,
+        "style": "normal",
+        "features": [
+          "aalt",
+          "dlig",
+          "hist",
+          "liga",
+          "salt",
+          "ss01",
+          "ss02",
+          "ss03",
+          "ss04"
+        ],
+        "weight": 400,
+        "filename": "IMFeFCrm28P.woff"
+      },
+      {
+        "filesize": 94524,
+        "style": "italic",
+        "features": [
+          "aalt",
+          "dlig",
+          "hist",
+          "liga",
+          "salt",
+          "ss01",
+          "ss02",
+          "ss03",
+          "ss04",
+          "swsh"
+        ],
+        "weight": 400,
+        "filename": "IMFeFCit28P.woff"
+      }
+    ],
+    "name": "IM Fell French Canon"
+  },
+  {
+    "category": "Serif",
+    "variants": [
+      {
+        "filesize": 77684,
+        "style": "normal",
+        "features": [
+          "aalt",
+          "calt",
+          "salt",
+          "ss02",
+          "ss03",
+          "ss04"
+        ],
+        "weight": 400,
+        "filename": "IMFeFCsc28P.woff"
+      }
+    ],
+    "name": "IM Fell French Canon SC"
+  },
+  {
+    "category": "Serif",
+    "variants": [
+      {
+        "filesize": 123052,
+        "style": "normal",
+        "features": [
+          "aalt",
+          "dlig",
+          "hist",
+          "liga",
+          "salt",
+          "ss01",
+          "ss02",
+          "ss03",
+          "ss04"
+        ],
+        "weight": 400,
+        "filename": "IMFeGPrm28P.woff"
+      },
+      {
+        "filesize": 140432,
+        "style": "italic",
+        "features": [
+          "aalt",
+          "dlig",
+          "hist",
+          "liga",
+          "salt",
+          "ss01",
+          "ss02",
+          "ss03",
+          "ss04",
+          "swsh"
+        ],
+        "weight": 400,
+        "filename": "IMFeGPit28P.woff"
+      }
+    ],
+    "name": "IM Fell Great Primer"
+  },
+  {
+    "category": "Serif",
+    "variants": [
+      {
+        "filesize": 114452,
+        "style": "normal",
+        "features": [
+          "aalt",
+          "calt",
+          "salt",
+          "ss02",
+          "ss03",
+          "ss04"
+        ],
+        "weight": 400,
+        "filename": "IMFeGPsc28P.woff"
+      }
+    ],
+    "name": "IM Fell Great Primer SC"
   },
   {
     "category": "Sans Serif",
@@ -2779,6 +3675,55 @@
     "category": "Display",
     "variants": [
       {
+        "filesize": 35248,
+        "style": "normal",
+        "features": [
+          "aalt",
+          "frac",
+          "liga",
+          "ordn",
+          "sups"
+        ],
+        "weight": 400,
+        "filename": "Kavoon-Regular.woff"
+      }
+    ],
+    "name": "Kavoon"
+  },
+  {
+    "category": "Display",
+    "variants": [
+      {
+        "filesize": 58440,
+        "style": "normal",
+        "features": [
+          "liga"
+        ],
+        "weight": 400,
+        "filename": "Koulen.woff"
+      }
+    ],
+    "name": "Koulen"
+  },
+  {
+    "category": "Handwriting",
+    "variants": [
+      {
+        "filesize": 32788,
+        "style": "normal",
+        "features": [
+          "calt"
+        ],
+        "weight": 400,
+        "filename": "Kristi.woff"
+      }
+    ],
+    "name": "Kristi"
+  },
+  {
+    "category": "Display",
+    "variants": [
+      {
         "filesize": 31432,
         "style": "normal",
         "features": [
@@ -2790,6 +3735,21 @@
       }
     ],
     "name": "Lancelot"
+  },
+  {
+    "category": "Handwriting",
+    "variants": [
+      {
+        "filesize": 107668,
+        "style": "normal",
+        "features": [
+          "ccmp"
+        ],
+        "weight": 400,
+        "filename": "LateefRegOT.woff"
+      }
+    ],
+    "name": "Lateef"
   },
   {
     "category": "Sans Serif",
@@ -3338,6 +4298,21 @@
     "name": "Margarine"
   },
   {
+    "category": "Sans Serif",
+    "variants": [
+      {
+        "filesize": 58004,
+        "style": "normal",
+        "features": [
+          "liga"
+        ],
+        "weight": 400,
+        "filename": "Marmelad-Regular.woff"
+      }
+    ],
+    "name": "Marmelad"
+  },
+  {
     "category": "Serif",
     "variants": [
       {
@@ -3531,6 +4506,116 @@
     "name": "Merriweather"
   },
   {
+    "category": "Sans Serif",
+    "variants": [
+      {
+        "filesize": 29784,
+        "style": "normal",
+        "features": [
+          "aalt",
+          "frac",
+          "liga",
+          "ordn",
+          "sups"
+        ],
+        "weight": 300,
+        "filename": "MerriweatherSans-Light.woff"
+      },
+      {
+        "filesize": 30496,
+        "style": "italic",
+        "features": [
+          "aalt",
+          "frac",
+          "liga",
+          "ordn",
+          "sups"
+        ],
+        "weight": 300,
+        "filename": "MerriweatherSans-LightItalic.woff"
+      },
+      {
+        "filesize": 30192,
+        "style": "normal",
+        "features": [
+          "aalt",
+          "frac",
+          "liga",
+          "ordn",
+          "sups"
+        ],
+        "weight": 400,
+        "filename": "MerriweatherSans-Regular.woff"
+      },
+      {
+        "filesize": 29420,
+        "style": "italic",
+        "features": [
+          "aalt",
+          "frac",
+          "liga",
+          "ordn",
+          "sups"
+        ],
+        "weight": 400,
+        "filename": "MerriweatherSans-Italic.woff"
+      },
+      {
+        "filesize": 30816,
+        "style": "normal",
+        "features": [
+          "aalt",
+          "frac",
+          "liga",
+          "ordn",
+          "sups"
+        ],
+        "weight": 700,
+        "filename": "MerriweatherSans-Bold.woff"
+      },
+      {
+        "filesize": 30276,
+        "style": "italic",
+        "features": [
+          "aalt",
+          "frac",
+          "liga",
+          "ordn",
+          "sups"
+        ],
+        "weight": 700,
+        "filename": "MerriweatherSans-BoldItalic.woff"
+      },
+      {
+        "filesize": 30892,
+        "style": "normal",
+        "features": [
+          "aalt",
+          "frac",
+          "liga",
+          "ordn",
+          "sups"
+        ],
+        "weight": 800,
+        "filename": "MerriweatherSans-ExtraBold.woff"
+      },
+      {
+        "filesize": 29904,
+        "style": "italic",
+        "features": [
+          "aalt",
+          "frac",
+          "liga",
+          "ordn",
+          "sups"
+        ],
+        "weight": 800,
+        "filename": "MerriweatherSans-ExtraBoldItalic.woff"
+      }
+    ],
+    "name": "Merriweather Sans"
+  },
+  {
     "category": "Handwriting",
     "variants": [
       {
@@ -3549,6 +4634,21 @@
       }
     ],
     "name": "Mervale Script"
+  },
+  {
+    "category": "Display",
+    "variants": [
+      {
+        "filesize": 75296,
+        "style": "normal",
+        "features": [
+          "liga"
+        ],
+        "weight": 400,
+        "filename": "Metal.woff"
+      }
+    ],
+    "name": "Metal"
   },
   {
     "category": "Display",
@@ -3590,6 +4690,21 @@
       }
     ],
     "name": "Molengo"
+  },
+  {
+    "category": "Handwriting",
+    "variants": [
+      {
+        "filesize": 34080,
+        "style": "italic",
+        "features": [
+          "calt"
+        ],
+        "weight": 400,
+        "filename": "Molle-Regular.woff"
+      }
+    ],
+    "name": "Molle"
   },
   {
     "category": "Sans Serif",
@@ -3638,6 +4753,36 @@
     "name": "Montez"
   },
   {
+    "category": "Display",
+    "variants": [
+      {
+        "filesize": 74920,
+        "style": "normal",
+        "features": [
+          "liga"
+        ],
+        "weight": 400,
+        "filename": "Moul.woff"
+      }
+    ],
+    "name": "Moul"
+  },
+  {
+    "category": "Display",
+    "variants": [
+      {
+        "filesize": 64688,
+        "style": "normal",
+        "features": [
+          "liga"
+        ],
+        "weight": 400,
+        "filename": "Moulpali.woff"
+      }
+    ],
+    "name": "Moulpali"
+  },
+  {
     "category": "Sans Serif",
     "variants": [
       {
@@ -3656,6 +4801,56 @@
       }
     ],
     "name": "Mouse Memoirs"
+  },
+  {
+    "category": "Handwriting",
+    "variants": [
+      {
+        "filesize": 1510664,
+        "style": "normal",
+        "features": [
+          "aalt",
+          "dlig",
+          "fwid",
+          "halt",
+          "hwid",
+          "nalt",
+          "pwid",
+          "sinf",
+          "sups",
+          "vert",
+          "vhal"
+        ],
+        "weight": 400,
+        "filename": "NanumBrushScript-Regular.woff"
+      }
+    ],
+    "name": "Nanum Brush Script"
+  },
+  {
+    "category": "Handwriting",
+    "variants": [
+      {
+        "filesize": 1537996,
+        "style": "normal",
+        "features": [
+          "aalt",
+          "dlig",
+          "fwid",
+          "halt",
+          "hwid",
+          "nalt",
+          "pwid",
+          "sinf",
+          "sups",
+          "vert",
+          "vhal"
+        ],
+        "weight": 400,
+        "filename": "NanumPenScript-Regular.woff"
+      }
+    ],
+    "name": "Nanum Pen Script"
   },
   {
     "category": "Display",
@@ -4004,6 +5199,21 @@
     "category": "Display",
     "variants": [
       {
+        "filesize": 63100,
+        "style": "normal",
+        "features": [
+          "liga"
+        ],
+        "weight": 400,
+        "filename": "OdorMeanChey.woff"
+      }
+    ],
+    "name": "Odor Mean Chey"
+  },
+  {
+    "category": "Display",
+    "variants": [
+      {
         "filesize": 15600,
         "style": "normal",
         "features": [
@@ -4050,6 +5260,182 @@
       }
     ],
     "name": "Old Standard TT"
+  },
+  {
+    "category": "Sans Serif",
+    "variants": [
+      {
+        "filesize": 114396,
+        "style": "normal",
+        "features": [
+          "liga",
+          "lnum",
+          "onum",
+          "pnum",
+          "salt",
+          "ss01",
+          "ss02",
+          "ss03",
+          "tnum"
+        ],
+        "weight": 300,
+        "filename": "OpenSans-Light.woff"
+      },
+      {
+        "filesize": 110184,
+        "style": "italic",
+        "features": [
+          "liga",
+          "lnum",
+          "onum",
+          "pnum",
+          "salt",
+          "ss01",
+          "ss02",
+          "ss03",
+          "tnum"
+        ],
+        "weight": 300,
+        "filename": "OpenSans-LightItalic.woff"
+      },
+      {
+        "filesize": 112520,
+        "style": "normal",
+        "features": [
+          "liga",
+          "lnum",
+          "onum",
+          "pnum",
+          "salt",
+          "ss01",
+          "ss02",
+          "ss03",
+          "tnum"
+        ],
+        "weight": 400,
+        "filename": "OpenSans-Regular.woff"
+      },
+      {
+        "filesize": 110152,
+        "style": "italic",
+        "features": [
+          "liga",
+          "lnum",
+          "onum",
+          "pnum",
+          "salt",
+          "ss01",
+          "ss02",
+          "ss03",
+          "tnum"
+        ],
+        "weight": 400,
+        "filename": "OpenSans-Italic.woff"
+      },
+      {
+        "filesize": 114908,
+        "style": "normal",
+        "features": [
+          "liga",
+          "lnum",
+          "onum",
+          "pnum",
+          "salt",
+          "ss01",
+          "ss02",
+          "ss03",
+          "tnum"
+        ],
+        "weight": 600,
+        "filename": "OpenSans-Semibold.woff"
+      },
+      {
+        "filesize": 110844,
+        "style": "italic",
+        "features": [
+          "liga",
+          "lnum",
+          "onum",
+          "pnum",
+          "salt",
+          "ss01",
+          "ss02",
+          "ss03",
+          "tnum"
+        ],
+        "weight": 600,
+        "filename": "OpenSans-SemiboldItalic.woff"
+      },
+      {
+        "filesize": 115388,
+        "style": "normal",
+        "features": [
+          "liga",
+          "lnum",
+          "onum",
+          "pnum",
+          "salt",
+          "ss01",
+          "ss02",
+          "ss03",
+          "tnum"
+        ],
+        "weight": 700,
+        "filename": "OpenSans-Bold.woff"
+      },
+      {
+        "filesize": 110032,
+        "style": "italic",
+        "features": [
+          "liga",
+          "lnum",
+          "onum",
+          "pnum",
+          "salt",
+          "ss01",
+          "ss02",
+          "ss03",
+          "tnum"
+        ],
+        "weight": 700,
+        "filename": "OpenSans-BoldItalic.woff"
+      },
+      {
+        "filesize": 114940,
+        "style": "normal",
+        "features": [
+          "liga",
+          "lnum",
+          "onum",
+          "pnum",
+          "salt",
+          "ss01",
+          "ss02",
+          "ss03",
+          "tnum"
+        ],
+        "weight": 800,
+        "filename": "OpenSans-ExtraBold.woff"
+      },
+      {
+        "filesize": 110560,
+        "style": "italic",
+        "features": [
+          "liga",
+          "lnum",
+          "onum",
+          "pnum",
+          "salt",
+          "ss01",
+          "ss02",
+          "ss03",
+          "tnum"
+        ],
+        "weight": 800,
+        "filename": "OpenSans-ExtraBoldItalic.woff"
+      }
+    ],
+    "name": "Open Sans"
   },
   {
     "category": "Sans Serif",
@@ -4299,6 +5685,31 @@
       }
     ],
     "name": "Oxygen"
+  },
+  {
+    "category": "Monospace",
+    "variants": [
+      {
+        "filesize": 99800,
+        "style": "normal",
+        "features": [
+          "aalt",
+          "c2sc",
+          "case",
+          "dlig",
+          "frac",
+          "hist",
+          "numr",
+          "ordn",
+          "sinf",
+          "subs",
+          "sups"
+        ],
+        "weight": 400,
+        "filename": "PTM55FT.woff"
+      }
+    ],
+    "name": "PT Mono"
   },
   {
     "category": "Sans Serif",
@@ -4609,6 +6020,67 @@
     "name": "Parisienne"
   },
   {
+    "category": "Handwriting",
+    "variants": [
+      {
+        "filesize": 88176,
+        "style": "normal",
+        "features": [
+          "aalt",
+          "cpsp",
+          "frac",
+          "liga",
+          "lnum",
+          "onum",
+          "ordn",
+          "smcp",
+          "sups"
+        ],
+        "weight": 400,
+        "filename": "PatrickHand-Regular.woff"
+      }
+    ],
+    "name": "Patrick Hand"
+  },
+  {
+    "category": "Handwriting",
+    "variants": [
+      {
+        "filesize": 66832,
+        "style": "normal",
+        "features": [
+          "aalt",
+          "cpsp",
+          "frac",
+          "liga",
+          "lnum",
+          "onum",
+          "ordn",
+          "smcp",
+          "sups"
+        ],
+        "weight": 400,
+        "filename": "PatrickHandSC-Regular.woff"
+      }
+    ],
+    "name": "Patrick Hand SC"
+  },
+  {
+    "category": "Handwriting",
+    "variants": [
+      {
+        "filesize": 504340,
+        "style": "normal",
+        "features": [
+          "liga"
+        ],
+        "weight": 400,
+        "filename": "Pecita.woff"
+      }
+    ],
+    "name": "Pecita"
+  },
+  {
     "category": "Display",
     "variants": [
       {
@@ -4643,6 +6115,30 @@
       }
     ],
     "name": "Petit Formal Script"
+  },
+  {
+    "category": "Serif",
+    "variants": [
+      {
+        "filesize": 19500,
+        "style": "normal",
+        "features": [
+          "liga"
+        ],
+        "weight": 400,
+        "filename": "Phetsarath-Regular.woff"
+      },
+      {
+        "filesize": 33136,
+        "style": "normal",
+        "features": [
+          "liga"
+        ],
+        "weight": 700,
+        "filename": "Phetsarath-Bold.woff"
+      }
+    ],
+    "name": "Phetsarath"
   },
   {
     "category": "Sans Serif",
@@ -5048,6 +6544,72 @@
       }
     ],
     "name": "Poetsen One"
+  },
+  {
+    "category": "Serif",
+    "variants": [
+      {
+        "filesize": 33632,
+        "style": "normal",
+        "features": [
+          "aalt",
+          "c2sc",
+          "case",
+          "cpsp",
+          "liga",
+          "lnum",
+          "onum",
+          "ordn",
+          "pnum",
+          "sinf",
+          "smcp",
+          "sups",
+          "tnum",
+          "zero"
+        ],
+        "weight": 400,
+        "filename": "Poly-Regular.woff"
+      },
+      {
+        "filesize": 32160,
+        "style": "italic",
+        "features": [
+          "aalt",
+          "case",
+          "cpsp",
+          "dnom",
+          "frac",
+          "liga",
+          "lnum",
+          "numr",
+          "onum",
+          "ordn",
+          "pnum",
+          "sinf",
+          "sups",
+          "tnum",
+          "zero"
+        ],
+        "weight": 400,
+        "filename": "Poly-Italic.woff"
+      }
+    ],
+    "name": "Poly"
+  },
+  {
+    "category": "Display",
+    "variants": [
+      {
+        "filesize": 53560,
+        "style": "normal",
+        "features": [
+          "liga"
+        ],
+        "weight": 400,
+        "filename": "Preahvihear.woff"
+      }
+    ],
+    "name": "Preahvihear"
   },
   {
     "category": "Serif",
@@ -5940,6 +7502,87 @@
     "name": "Sanchez"
   },
   {
+    "category": "Sans Serif",
+    "variants": [
+      {
+        "filesize": 23740,
+        "style": "normal",
+        "features": [
+          "liga",
+          "onum",
+          "salt",
+          "ss01",
+          "ss02",
+          "ss03"
+        ],
+        "weight": 300,
+        "filename": "Sansation-Light.woff"
+      },
+      {
+        "filesize": 25280,
+        "style": "normal",
+        "features": [
+          "liga",
+          "onum",
+          "ss03"
+        ],
+        "weight": 300,
+        "filename": "Sansation-LightItalic.woff"
+      },
+      {
+        "filesize": 24832,
+        "style": "normal",
+        "features": [
+          "liga",
+          "onum",
+          "ss03"
+        ],
+        "weight": 400,
+        "filename": "Sansation-Italic.woff"
+      },
+      {
+        "filesize": 23196,
+        "style": "normal",
+        "features": [
+          "liga",
+          "onum",
+          "salt",
+          "ss01",
+          "ss02",
+          "ss03"
+        ],
+        "weight": 400,
+        "filename": "Sansation-Regular.woff"
+      },
+      {
+        "filesize": 23772,
+        "style": "normal",
+        "features": [
+          "liga",
+          "onum",
+          "salt",
+          "ss01",
+          "ss02",
+          "ss03"
+        ],
+        "weight": 700,
+        "filename": "Sansation-Bold.woff"
+      },
+      {
+        "filesize": 25156,
+        "style": "normal",
+        "features": [
+          "liga",
+          "onum",
+          "ss03"
+        ],
+        "weight": 700,
+        "filename": "Sansation-BoldItalic.woff"
+      }
+    ],
+    "name": "Sansation"
+  },
+  {
     "category": "Serif",
     "variants": [
       {
@@ -6075,6 +7718,27 @@
     "name": "Share Tech"
   },
   {
+    "category": "Monospace",
+    "variants": [
+      {
+        "filesize": 12932,
+        "style": "normal",
+        "features": [
+          "aalt",
+          "cpsp",
+          "frac",
+          "liga",
+          "numr",
+          "ordn",
+          "sups"
+        ],
+        "weight": 400,
+        "filename": "ShareTechMono-Regular.woff"
+      }
+    ],
+    "name": "Share Tech Mono"
+  },
+  {
     "category": "Display",
     "variants": [
       {
@@ -6093,6 +7757,36 @@
       }
     ],
     "name": "Shojumaru"
+  },
+  {
+    "category": "Display",
+    "variants": [
+      {
+        "filesize": 61236,
+        "style": "normal",
+        "features": [
+          "liga"
+        ],
+        "weight": 400,
+        "filename": "Siemreap.woff"
+      }
+    ],
+    "name": "Siamreap"
+  },
+  {
+    "category": "Display",
+    "variants": [
+      {
+        "filesize": 61236,
+        "style": "normal",
+        "features": [
+          "liga"
+        ],
+        "weight": 400,
+        "filename": "Siemreap.woff"
+      }
+    ],
+    "name": "Siemreap"
   },
   {
     "category": "Display",
@@ -6179,6 +7873,25 @@
     "name": "Sintony"
   },
   {
+    "category": "Display",
+    "variants": [
+      {
+        "filesize": 46920,
+        "style": "normal",
+        "features": [
+          "aalt",
+          "frac",
+          "liga",
+          "ordn",
+          "sups"
+        ],
+        "weight": 400,
+        "filename": "SnowburstOne-Regular.woff"
+      }
+    ],
+    "name": "Snowburst One"
+  },
+  {
     "category": "Serif",
     "variants": [
       {
@@ -6229,6 +7942,201 @@
       }
     ],
     "name": "Sorts Mill Goudy"
+  },
+  {
+    "category": "Monospace",
+    "variants": [
+      {
+        "filesize": 54896,
+        "style": "normal",
+        "features": [
+          "aalt",
+          "case",
+          "ccmp",
+          "dnom",
+          "frac",
+          "mark",
+          "mkmk",
+          "numr",
+          "onum",
+          "ordn",
+          "salt",
+          "sinf",
+          "size",
+          "ss01",
+          "ss02",
+          "ss03",
+          "ss04",
+          "subs",
+          "sups"
+        ],
+        "weight": 200,
+        "filename": "SourceCodePro-ExtraLight.woff"
+      },
+      {
+        "filesize": 55696,
+        "style": "normal",
+        "features": [
+          "aalt",
+          "case",
+          "ccmp",
+          "dnom",
+          "frac",
+          "mark",
+          "mkmk",
+          "numr",
+          "onum",
+          "ordn",
+          "salt",
+          "sinf",
+          "size",
+          "ss01",
+          "ss02",
+          "ss03",
+          "ss04",
+          "subs",
+          "sups"
+        ],
+        "weight": 300,
+        "filename": "SourceCodePro-Light.woff"
+      },
+      {
+        "filesize": 55472,
+        "style": "normal",
+        "features": [
+          "aalt",
+          "case",
+          "ccmp",
+          "dnom",
+          "frac",
+          "mark",
+          "mkmk",
+          "numr",
+          "onum",
+          "ordn",
+          "salt",
+          "sinf",
+          "size",
+          "ss01",
+          "ss02",
+          "ss03",
+          "ss04",
+          "subs",
+          "sups"
+        ],
+        "weight": 400,
+        "filename": "SourceCodePro-Regular.woff"
+      },
+      {
+        "filesize": 55344,
+        "style": "normal",
+        "features": [
+          "aalt",
+          "case",
+          "ccmp",
+          "dnom",
+          "frac",
+          "mark",
+          "mkmk",
+          "numr",
+          "onum",
+          "ordn",
+          "salt",
+          "sinf",
+          "size",
+          "ss01",
+          "ss02",
+          "ss03",
+          "ss04",
+          "subs",
+          "sups"
+        ],
+        "weight": 500,
+        "filename": "SourceCodePro-Medium.woff"
+      },
+      {
+        "filesize": 55360,
+        "style": "normal",
+        "features": [
+          "aalt",
+          "case",
+          "ccmp",
+          "dnom",
+          "frac",
+          "mark",
+          "mkmk",
+          "numr",
+          "onum",
+          "ordn",
+          "salt",
+          "sinf",
+          "size",
+          "ss01",
+          "ss02",
+          "ss03",
+          "ss04",
+          "subs",
+          "sups"
+        ],
+        "weight": 600,
+        "filename": "SourceCodePro-Semibold.woff"
+      },
+      {
+        "filesize": 55344,
+        "style": "normal",
+        "features": [
+          "aalt",
+          "case",
+          "ccmp",
+          "dnom",
+          "frac",
+          "mark",
+          "mkmk",
+          "numr",
+          "onum",
+          "ordn",
+          "salt",
+          "sinf",
+          "size",
+          "ss01",
+          "ss02",
+          "ss03",
+          "ss04",
+          "subs",
+          "sups"
+        ],
+        "weight": 700,
+        "filename": "SourceCodePro-Bold.woff"
+      },
+      {
+        "filesize": 54596,
+        "style": "normal",
+        "features": [
+          "aalt",
+          "case",
+          "ccmp",
+          "dnom",
+          "frac",
+          "mark",
+          "mkmk",
+          "numr",
+          "onum",
+          "ordn",
+          "salt",
+          "sinf",
+          "size",
+          "ss01",
+          "ss02",
+          "ss03",
+          "ss04",
+          "subs",
+          "sups"
+        ],
+        "weight": 900,
+        "filename": "SourceCodePro-Black.woff"
+      }
+    ],
+    "name": "Source Code Pro"
   },
   {
     "category": "Sans Serif",
@@ -6673,6 +8581,21 @@
     "name": "Spicy Rice"
   },
   {
+    "category": "Sans Serif",
+    "variants": [
+      {
+        "filesize": 16052,
+        "style": "normal",
+        "features": [
+          "cpsp"
+        ],
+        "weight": 400,
+        "filename": "Spinnaker-Regular.woff"
+      }
+    ],
+    "name": "Spinnaker"
+  },
+  {
     "category": "Handwriting",
     "variants": [
       {
@@ -6731,6 +8654,21 @@
       }
     ],
     "name": "Stint Ultra Expanded"
+  },
+  {
+    "category": "Display",
+    "variants": [
+      {
+        "filesize": 67044,
+        "style": "normal",
+        "features": [
+          "liga"
+        ],
+        "weight": 400,
+        "filename": "Taprom.woff"
+      }
+    ],
+    "name": "Taprom"
   },
   {
     "category": "Sans Serif",
@@ -6893,6 +8831,70 @@
       }
     ],
     "name": "Terminal Dosis Light"
+  },
+  {
+    "category": "Sans Serif",
+    "variants": [
+      {
+        "filesize": 17556,
+        "style": "normal",
+        "features": [
+          "aalt",
+          "cpsp",
+          "dnom",
+          "frac",
+          "liga",
+          "numr",
+          "ordn",
+          "sups"
+        ],
+        "weight": 400,
+        "filename": "TextMeOne-Regular.woff"
+      }
+    ],
+    "name": "Text Me One"
+  },
+  {
+    "category": "Serif",
+    "variants": [
+      {
+        "filesize": 57064,
+        "style": "normal",
+        "features": [
+          "liga"
+        ],
+        "weight": 400,
+        "filename": "Thabit.woff"
+      },
+      {
+        "filesize": 61228,
+        "style": "italic",
+        "features": [
+          "liga"
+        ],
+        "weight": 400,
+        "filename": "Thabit-Oblique.woff"
+      },
+      {
+        "filesize": 57684,
+        "style": "normal",
+        "features": [
+          "liga"
+        ],
+        "weight": 700,
+        "filename": "Thabit-Bold.woff"
+      },
+      {
+        "filesize": 61348,
+        "style": "italic",
+        "features": [
+          "liga"
+        ],
+        "weight": 700,
+        "filename": "Thabit-BoldOblique.woff"
+      }
+    ],
+    "name": "Thabit"
   },
   {
     "category": "Serif",
@@ -7374,6 +9376,92 @@
     "name": "Ubuntu Condensed"
   },
   {
+    "category": "Monospace",
+    "variants": [
+      {
+        "filesize": 111736,
+        "style": "normal",
+        "features": [
+          "afrc",
+          "case",
+          "dnom",
+          "frac",
+          "numr",
+          "ordn",
+          "salt",
+          "sinf",
+          "ss01",
+          "ss02",
+          "subs",
+          "sups"
+        ],
+        "weight": 400,
+        "filename": "UbuntuMono-Regular.woff"
+      },
+      {
+        "filesize": 114604,
+        "style": "italic",
+        "features": [
+          "afrc",
+          "case",
+          "dnom",
+          "frac",
+          "numr",
+          "ordn",
+          "salt",
+          "sinf",
+          "ss01",
+          "ss02",
+          "subs",
+          "sups"
+        ],
+        "weight": 400,
+        "filename": "UbuntuMono-Italic.woff"
+      },
+      {
+        "filesize": 107752,
+        "style": "normal",
+        "features": [
+          "afrc",
+          "case",
+          "dnom",
+          "frac",
+          "numr",
+          "ordn",
+          "salt",
+          "sinf",
+          "ss01",
+          "ss02",
+          "subs",
+          "sups"
+        ],
+        "weight": 700,
+        "filename": "UbuntuMono-Bold.woff"
+      },
+      {
+        "filesize": 127552,
+        "style": "italic",
+        "features": [
+          "afrc",
+          "case",
+          "dnom",
+          "frac",
+          "numr",
+          "ordn",
+          "salt",
+          "sinf",
+          "ss01",
+          "ss02",
+          "subs",
+          "sups"
+        ],
+        "weight": 700,
+        "filename": "UbuntuMono-BoldItalic.woff"
+      }
+    ],
+    "name": "Ubuntu Mono"
+  },
+  {
     "category": "Display",
     "variants": [
       {
@@ -7392,6 +9480,54 @@
       }
     ],
     "name": "Uncial Antiqua"
+  },
+  {
+    "category": "Display",
+    "variants": [
+      {
+        "filesize": 45572,
+        "style": "normal",
+        "features": [
+          "hlig",
+          "liga",
+          "rlig"
+        ],
+        "weight": 400,
+        "filename": "UnifrakturMaguntia-Book.woff"
+      }
+    ],
+    "name": "UnifrakturMaguntia"
+  },
+  {
+    "category": "Sans Serif",
+    "variants": [
+      {
+        "filesize": 79400,
+        "style": "normal",
+        "features": [
+          "aalt",
+          "c2sc",
+          "dlig",
+          "dnom",
+          "frac",
+          "liga",
+          "lnum",
+          "numr",
+          "onum",
+          "ordn",
+          "pnum",
+          "sinf",
+          "smcp",
+          "ss01",
+          "subs",
+          "sups",
+          "tnum"
+        ],
+        "weight": 400,
+        "filename": "Varela-Regular.woff"
+      }
+    ],
+    "name": "Varela"
   },
   {
     "category": "Handwriting",

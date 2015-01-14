@@ -132,8 +132,14 @@ def import_fonts(root, whitelist=None):
 
         # only include fonts with features
         # must have kerning and at least one other feature
+        # (or if no kerning, then at least one feature. silly opensans)
         unique = unique_features(font)
-        if len(unique) > 1 and 'kern' in unique:
+        #if len(unique) > 1 and 'kern' in unique:
+        if 'kern' in unique:
+          if len(unique) > 1:
+            #print font['name']+' '+str(unique)
+            fonts.append(font)
+        elif len(unique) > 0:
           #print font['name']+' '+str(unique)
           fonts.append(font)
 
